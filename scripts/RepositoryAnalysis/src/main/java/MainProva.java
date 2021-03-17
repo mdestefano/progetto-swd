@@ -13,7 +13,7 @@ public class MainProva {
     public static void main(String[] args) {
 
         String support = "ciao, mondo";
-        String nomeFile = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\outputCalcolati\\8d7a39b2dab980363104164134638cf762d94edb\\ImplementationSmells.csv";
+        String nomeFile = "outputCalcolati\\8d7a39b2dab980363104164134638cf762d94edb\\ImplementationSmells.csv";
 
         ArrayList<String> infoLette = new ArrayList<String>();
 

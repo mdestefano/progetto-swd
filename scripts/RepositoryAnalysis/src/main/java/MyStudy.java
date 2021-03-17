@@ -25,7 +25,7 @@ public class MyStudy implements Study {
    @Override
     public void execute() {
         new RepositoryMining()
-                .in(GitRepository.singleProject("C:\\Users\\Armando\\Desktop\\javapoet"))
+                .in(GitRepository.singleProject("javapoet"))
                 .through(Commits.all())
                 .visitorsAreThreadSafe(true) // Threads are possible.
                 .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
@@ -33,7 +33,7 @@ public class MyStudy implements Study {
                 .filters(
                         new OnlyInBranches(Arrays.asList("master"))
                 )
-                .process(new DeveloperVisitor(), new CSVFile("C:\\Users\\Armando\\Desktop\\file.csv"))
+                .process(new DeveloperVisitor(), new CSVFile("file.csv"))
                 .mine();
     }
 

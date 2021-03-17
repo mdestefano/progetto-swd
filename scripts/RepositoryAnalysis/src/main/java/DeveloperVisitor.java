@@ -47,7 +47,6 @@ public class DeveloperVisitor implements CommitVisitor {
             repo.getScm().checkout(commit.getHash());
 
             List<RepositoryFile> files = repo.getScm().files();
-
             File folder = new File("output/" + commit.getHash());
             if (!folder.exists()) {
                 if (folder.mkdir()) {
@@ -59,9 +58,9 @@ public class DeveloperVisitor implements CommitVisitor {
 
             try {
                 Process runtimeProcess = Runtime.getRuntime().exec
-                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash(),
+                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o output\\" + commit.getHash(),
                                 null,
-                                new File("C:\\Users\\Armando\\swdProjects"));
+                                new File("."));
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
             } catch (IOException e) {
                 e.printStackTrace();
@@ -71,11 +70,11 @@ public class DeveloperVisitor implements CommitVisitor {
 
             String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime();
 
-            String csvArchitectureSmells = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash() + "\\ArchitectureSmells.csv";
-            String csvDesignSmells = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash() + "\\DesignSmells.csv";
-            String csvImplementationSmells = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash() + "\\ImplementationSmells.csv";
-            String csvMethodMetrics = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash() + "\\MethodMetrics.csv";
-            String csvTypeMetrics = "C:\\Users\\Armando\\swdProjects\\JavaPoetAnalysis\\output\\" + commit.getHash() + "\\TypeMetrics.csv";
+            String csvArchitectureSmells = "output\\" + commit.getHash() + "\\ArchitectureSmells.csv";
+            String csvDesignSmells = "output\\" + commit.getHash() + "\\DesignSmells.csv";
+            String csvImplementationSmells = "output\\" + commit.getHash() + "\\ImplementationSmells.csv";
+            String csvMethodMetrics = "output\\" + commit.getHash() + "\\MethodMetrics.csv";
+            String csvTypeMetrics = "output\\" + commit.getHash() + "\\TypeMetrics.csv";
 
             //modifico i file CSV aggiungendo commit e data
             addInfoToCSV(csvArchitectureSmells, infoAggiuntive);
