@@ -31,6 +31,7 @@ public class MyStudy implements Study {
                 .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
                 .withThreads() // Now pick a good number of threads for my machine.
                 .filters(
+                        new OnlyModificationsWithFileTypes(Arrays.asList(".java")),
                         new OnlyInBranches(Arrays.asList("master"))
                 )
                 .process(new DeveloperVisitor(), new CSVFile("file.csv"))
