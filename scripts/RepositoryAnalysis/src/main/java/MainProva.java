@@ -14,9 +14,7 @@ public class MainProva {
 
         String support = "ciao, mondo";
         String nomeFile = "outputCalcolati\\8d7a39b2dab980363104164134638cf762d94edb\\ImplementationSmells.csv";
-
         ArrayList<String> infoLette = new ArrayList<String>();
-
         try {
             Reader in = new FileReader(nomeFile);
             Iterable<CSVRecord> records = CSVFormat.EXCEL.parse(in);
@@ -32,7 +30,6 @@ public class MainProva {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         System.out.println("info" + infoLette);
     }
 }

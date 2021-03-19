@@ -1,6 +1,3 @@
-import com.opencsv.CSVReader;
-import com.opencsv.CSVWriter;
-import com.opencsv.exceptions.CsvException;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.repodriller.domain.Commit;
@@ -12,17 +9,42 @@ import java.util.*;
 
 public class DeveloperVisitor implements CommitVisitor {
 
-    public void addInfoToCSV(String nomeFile, String support) {
+
+    public void addInfoToCSV(String nomeFile, String support) throws IOException {
+        BufferedReader br=null;
+        BufferedWriter bw=null;
+        final String lineSep=System.getProperty("line.separator");
+        File file= null, file2=null;
         try {
-            CSVWriter writerCommit = new CSVWriter(new FileWriter(nomeFile, true));
-            String[] record = support.split(",");
-            writerCommit.writeNext(record);
-            writerCommit.close();
-        } catch (IOException e) {
-            e.printStackTrace();
+             file = new File(nomeFile);
+             file2 = new File(nomeFile+"1");//so the
+            //names don't conflict or just use different folders
+            br = new BufferedReader(new InputStreamReader(new FileInputStream(file))) ;
+            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file2)));
+            String line = null;
+            String addedColumn = null;
+            int i=0;
+            for ( line = br.readLine(); line != null; line = br.readLine(),i++)
+            {
+                if(i==0){
+                    addedColumn = "HashCommit, Date, ";
+                }else{
+                    addedColumn = support;
+                }
+                bw.write(addedColumn+line+lineSep);
+            }
+        }catch(Exception e){
+            System.out.println(e);
+        }finally  {
+            if(br!=null)
+                br.close();
+            if(bw!=null)
+                bw.close();
+            file.delete();
+            File fBuffer = new File(nomeFile);
+            file2.renameTo(fBuffer);
         }
     }
-
     public ArrayList<String> readInfoFromCSV(String nomeFile) {
         ArrayList<String> infoLette = new ArrayList<String>();
         try {
@@ -58,7 +80,7 @@ public class DeveloperVisitor implements CommitVisitor {
 
             try {
                 Process runtimeProcess = Runtime.getRuntime().exec
-                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o output\\" + commit.getHash(),
+                        ("java -jar DesigniteJava.jar -i -f " + repo.getPath() + " -o output/" + commit.getHash(),
                                 null,
                                 new File("."));
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
@@ -68,13 +90,13 @@ public class DeveloperVisitor implements CommitVisitor {
                 e.printStackTrace();
             }
 
-            String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime();
+            String infoAggiuntive = ","+ commit.getHash() + "," + commit.getDate().getTime();
 
-            String csvArchitectureSmells = "output\\" + commit.getHash() + "\\ArchitectureSmells.csv";
-            String csvDesignSmells = "output\\" + commit.getHash() + "\\DesignSmells.csv";
-            String csvImplementationSmells = "output\\" + commit.getHash() + "\\ImplementationSmells.csv";
-            String csvMethodMetrics = "output\\" + commit.getHash() + "\\MethodMetrics.csv";
-            String csvTypeMetrics = "output\\" + commit.getHash() + "\\TypeMetrics.csv";
+            String csvArchitectureSmells = "output/" + commit.getHash() + "/ArchitectureSmells.csv";
+            String csvDesignSmells = "output/" + commit.getHash() + "/DesignSmells.csv";
+            String csvImplementationSmells = "output/" + commit.getHash() + "/ImplementationSmells.csv";
+            String csvMethodMetrics = "output/" + commit.getHash() + "/MethodMetrics.csv";
+            String csvTypeMetrics = "output/" + commit.getHash() + "/TypeMetrics.csv";
 
             //modifico i file CSV aggiungendo commit e data
             addInfoToCSV(csvArchitectureSmells, infoAggiuntive);
@@ -83,19 +105,9 @@ public class DeveloperVisitor implements CommitVisitor {
             addInfoToCSV(csvMethodMetrics, infoAggiuntive);
             addInfoToCSV(csvTypeMetrics, infoAggiuntive);
 
-            //leggo i contenuti dei file CSV per scriverli nel file globale
-            ArrayList<String> contentArchitectureSmells = readInfoFromCSV(csvArchitectureSmells);
-            ArrayList<String> contentDesignSmells = readInfoFromCSV(csvDesignSmells);
-            ArrayList<String> contentImplementationSmells = readInfoFromCSV(csvImplementationSmells);
-            ArrayList<String> contentMethodMetrics = readInfoFromCSV(csvMethodMetrics);
-            ArrayList<String> contentTypeMetrics = readInfoFromCSV(csvTypeMetrics);
 
-            writer.write(contentArchitectureSmells);
-            writer.write(contentDesignSmells);
-            writer.write(contentImplementationSmells);
-            writer.write(contentMethodMetrics);
-            writer.write(contentTypeMetrics);
-
+        } catch (IOException e) {
+            e.printStackTrace();
         } finally {
             repo.getScm().reset();
         }
