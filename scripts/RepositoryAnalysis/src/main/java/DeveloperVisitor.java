@@ -1,5 +1,3 @@
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVRecord;
 import org.repodriller.domain.Commit;
 import org.repodriller.persistence.PersistenceMechanism;
 import org.repodriller.scm.*;
@@ -45,23 +43,6 @@ public class DeveloperVisitor implements CommitVisitor {
             file2.renameTo(fBuffer);
         }
     }
-    public ArrayList<String> readInfoFromCSV(String nomeFile) {
-        ArrayList<String> infoLette = new ArrayList<String>();
-        try {
-            Reader in = new FileReader(nomeFile);
-            Iterable<CSVRecord> records = CSVFormat.EXCEL.parse(in);
-            for (CSVRecord record : records) {
-                for(int i = 0; i < record.size(); i++)
-                    infoLette.add(record.get(i));
-            }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        return infoLette;
-    }
 
     @Override
     public void process(SCMRepository repo, Commit commit, PersistenceMechanism writer) {
@@ -80,7 +61,7 @@ public class DeveloperVisitor implements CommitVisitor {
 
             try {
                 Process runtimeProcess = Runtime.getRuntime().exec
-                        ("java -jar DesigniteJava.jar -i -f " + repo.getPath() + " -o output/" + commit.getHash(),
+                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o output/" + commit.getHash(),
                                 null,
                                 new File("."));
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
@@ -90,7 +71,7 @@ public class DeveloperVisitor implements CommitVisitor {
                 e.printStackTrace();
             }
 
-            String infoAggiuntive = ","+ commit.getHash() + "," + commit.getDate().getTime();
+            String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime() + ",";
 
             String csvArchitectureSmells = "output/" + commit.getHash() + "/ArchitectureSmells.csv";
             String csvDesignSmells = "output/" + commit.getHash() + "/DesignSmells.csv";

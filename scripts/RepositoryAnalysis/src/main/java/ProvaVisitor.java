@@ -1,17 +1,9 @@
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVRecord;
 import org.repodriller.domain.Commit;
 import org.repodriller.persistence.PersistenceMechanism;
-import org.repodriller.persistence.csv.CSVFile;
 import org.repodriller.scm.CommitVisitor;
-import org.repodriller.scm.RepositoryFile;
 import org.repodriller.scm.SCMRepository;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.StandardOpenOption;
-import java.util.ArrayList;
-import java.util.List;
 
 public class ProvaVisitor implements CommitVisitor {
 
