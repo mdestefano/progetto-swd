@@ -7,6 +7,12 @@ import java.util.*;
 
 public class DeveloperVisitor implements CommitVisitor {
 
+    private static List<String> hashCommits;
+
+    public DeveloperVisitor() {
+        hashCommits = Collections.synchronizedList(new ArrayList<String>());
+    }
+
 
     public void addInfoToCSV(String nomeFile, String support) throws IOException {
         BufferedReader br=null;
@@ -47,6 +53,8 @@ public class DeveloperVisitor implements CommitVisitor {
     @Override
     public void process(SCMRepository repo, Commit commit, PersistenceMechanism writer) {
         try {
+            hashCommits.add(commit.getHash());
+
             repo.getScm().checkout(commit.getHash());
 
             List<RepositoryFile> files = repo.getScm().files();
@@ -92,5 +100,9 @@ public class DeveloperVisitor implements CommitVisitor {
         } finally {
             repo.getScm().reset();
         }
+    }
+
+    public List<String> getHashCommit() {
+        return hashCommits;
     }
 }
