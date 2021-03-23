@@ -1,3 +1,11 @@
+
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 import org.repodriller.RepoDriller;
 import org.repodriller.RepositoryMining;
 import org.repodriller.Study;
@@ -10,6 +18,7 @@ import org.repodriller.scm.GitRepository;
 import org.repodriller.scm.SCMRepository;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -75,6 +84,28 @@ public class MyStudy implements Study {
         return f.delete();
     }
 
+    public List<String> getTags(){
+        List<String> arrayReturn = new ArrayList<String>();
+        JSONParser parser = new JSONParser();
+        JSONArray a = null;
+        try {
+            a = (JSONArray) parser.parse(new FileReader("outputFinali/tag.json"));
+            for (Object o : a) {
+                JSONObject info = (JSONObject) o;
+                JSONObject commit = (JSONObject) info.get("commit");
+                arrayReturn.add(commit.get("sha").toString());
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+        return arrayReturn;
+    }
+
+
+
+
     @Override
     public void execute() {
         DeveloperVisitor developerVisitor = new DeveloperVisitor();
@@ -86,18 +117,23 @@ public class MyStudy implements Study {
                 .inTempDir(repoDir)
                 .buildAsSCMRepository();
 
+        ProcessBuilder builder = new ProcessBuilder("curl","https://api.github.com/repos/square/javapoet/tags");
+        builder.redirectOutput(new File("outputFinali/tag.json"));
+        try {
+            Process p = builder.start();// may throw IOException
+            int i = p.waitFor();
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
+        List<String> arrayTags = getTags();
         new RepositoryMining()
                 .in(
                         GitRepository.singleProject(repoDir)
                 )
-                .through(Commits.range("0a6b21afd67b524d14c515c7685476ad978bab9a", "fd7fad7e35ada981ef07fee0cd616f33c230420c"))
+                .through(Commits.list(arrayTags))
                 .visitorsAreThreadSafe(true) // Threads are possible.
                 .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
                 .withThreads() // Now pick a good number of threads for my machine.
-                .filters(
-                        new OnlyModificationsWithFileTypes(Arrays.asList(".java")),
-                        new OnlyInBranches(Arrays.asList("master"))
-                )
                 .process(developerVisitor, new CSVFile("file.csv"))
                 .mine();
 
