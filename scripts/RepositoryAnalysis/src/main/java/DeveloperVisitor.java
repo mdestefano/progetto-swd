@@ -8,9 +8,11 @@ import java.util.*;
 public class DeveloperVisitor implements CommitVisitor {
 
     private static List<String> hashCommits;
+    private String projectName;
 
-    public DeveloperVisitor() {
+    public DeveloperVisitor(String projectName) {
         hashCommits = Collections.synchronizedList(new ArrayList<String>());
+        this.projectName = projectName;
     }
 
 
@@ -59,6 +61,8 @@ public class DeveloperVisitor implements CommitVisitor {
 
             List<RepositoryFile> files = repo.getScm().files();
             File folder = new File("output/" + commit.getHash());
+            //create tempDirectory e passo output
+            //create TempDirectory e passo commit.getHash()
             if (!folder.exists()) {
                 if (folder.mkdir()) {
                     System.out.println("Directory is created!");
@@ -72,7 +76,14 @@ public class DeveloperVisitor implements CommitVisitor {
                         ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o output/" + commit.getHash(),
                                 null,
                                 new File("."));
+                System.out.println("### DESIGNITE, progetto "+projectName+
+                        " commit "+commit.getHash() + "-> START");
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
+
+                if(processComplete==0){
+                    System.out.println("### DESIGNITE, progetto "+projectName+
+                            " commit "+commit.getHash() + "-> END");
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             } catch (InterruptedException e) {
@@ -80,7 +91,7 @@ public class DeveloperVisitor implements CommitVisitor {
             }
 
             String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime() + ",";
-
+            // per ogni file csv chiamo createTempFile
             String csvArchitectureSmells = "output/" + commit.getHash() + "/ArchitectureSmells.csv";
             String csvDesignSmells = "output/" + commit.getHash() + "/DesignSmells.csv";
             String csvImplementationSmells = "output/" + commit.getHash() + "/ImplementationSmells.csv";
@@ -105,4 +116,38 @@ public class DeveloperVisitor implements CommitVisitor {
     public List<String> getHashCommit() {
         return hashCommits;
     }
+
+    public static File createTempFile(String prefix, String suffix) {
+        File parent = new File(System.getProperty("java.io.tmpdir"));
+
+        File temp = new File(parent, prefix + suffix);
+
+        if (temp.exists()) {
+            temp.delete();
+        }
+
+        try {
+            temp.createNewFile();
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+
+        return temp;
+    }
+
+
+    public static File createTempDirectory(String fileName) {
+        File parent = new File(System.getProperty("java.io.tmpdir"));
+
+        File temp = new File(parent, fileName);
+
+        if (temp.exists()) {
+            temp.delete();
+        }
+
+        temp.mkdir();
+
+        return temp;
+    }
+
 }

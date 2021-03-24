@@ -89,7 +89,7 @@ public class MyStudy implements Study {
         JSONParser parser = new JSONParser();
         JSONArray a = null;
         try {
-            a = (JSONArray) parser.parse(new FileReader("outputFinali/tag.json"));
+            a = (JSONArray) parser.parse(new FileReader("outputFinali/javapoet/tag.json"));
             for (Object o : a) {
                 JSONObject info = (JSONObject) o;
                 JSONObject commit = (JSONObject) info.get("commit");
@@ -108,9 +108,14 @@ public class MyStudy implements Study {
 
     @Override
     public void execute() {
-        DeveloperVisitor developerVisitor = new DeveloperVisitor();
+        DeveloperVisitor developerVisitor = new DeveloperVisitor("javapoet");
 
-        String repoDir = "cartellaTmp";
+        String repoDir = "javapoet";
+
+        File folder = new File("outputFinali/javapoet");
+        if (!folder.exists()) {
+            folder.mkdir();
+        }
 
         SCMRepository scmRepository = GitRemoteRepository
                 .hostedOn("https://github.com/square/javapoet.git") // URL like: https://github.com/mauricioaniche/repodriller.git
@@ -118,7 +123,7 @@ public class MyStudy implements Study {
                 .buildAsSCMRepository();
 
         ProcessBuilder builder = new ProcessBuilder("curl","https://api.github.com/repos/square/javapoet/tags");
-        builder.redirectOutput(new File("outputFinali/tag.json"));
+        builder.redirectOutput(new File("outputFinali/javapoet/tag.json"));
         try {
             Process p = builder.start();// may throw IOException
             int i = p.waitFor();
@@ -143,11 +148,11 @@ public class MyStudy implements Study {
         Writer output = null, output1 = null, output2 = null, output3 = null, output4 = null;
 
         try {
-            output = new BufferedWriter(new FileWriter("outputFinali/ArchitectureSmells.csv"));
-            output1 = new BufferedWriter(new FileWriter("outputFinali/DesignSmells.csv"));
-            output2 = new BufferedWriter(new FileWriter("outputFinali/ImplementationSmells.csv"));
-            output3 = new BufferedWriter(new FileWriter("outputFinali/MethodMetrics.csv"));
-            output4 = new BufferedWriter(new FileWriter("outputFinali/TypeMetrics.csv"));
+            output = new BufferedWriter(new FileWriter("outputFinali/javapoet/ArchitectureSmells.csv"));
+            output1 = new BufferedWriter(new FileWriter("outputFinali/javapoet/DesignSmells.csv"));
+            output2 = new BufferedWriter(new FileWriter("outputFinali/javapoet/ImplementationSmells.csv"));
+            output3 = new BufferedWriter(new FileWriter("outputFinali/javapoet/MethodMetrics.csv"));
+            output4 = new BufferedWriter(new FileWriter("outputFinali/javapoet/TypeMetrics.csv"));
 
             final String lineSep = System.getProperty("line.separator");
 
@@ -176,11 +181,11 @@ public class MyStudy implements Study {
 
         for (int i = 0; i < hashCommits.size(); i++) {
             try {
-                mergeCSV("outputFinali/ArchitectureSmells.csv", "/ArchitectureSmells.csv", hashCommits.get(i));
-                mergeCSV("outputFinali/DesignSmells.csv", "/DesignSmells.csv", hashCommits.get(i));
-                mergeCSV("outputFinali/ImplementationSmells.csv", "/ImplementationSmells.csv", hashCommits.get(i));
-                mergeCSV("outputFinali/MethodMetrics.csv", "/MethodMetrics.csv", hashCommits.get(i));
-                mergeCSV("outputFinali/TypeMetrics.csv", "/TypeMetrics.csv", hashCommits.get(i));
+                mergeCSV("outputFinali/javapoet/ArchitectureSmells.csv", "/ArchitectureSmells.csv", hashCommits.get(i));
+                mergeCSV("outputFinali/javapoet/DesignSmells.csv", "/DesignSmells.csv", hashCommits.get(i));
+                mergeCSV("outputFinali/javapoet/ImplementationSmells.csv", "/ImplementationSmells.csv", hashCommits.get(i));
+                mergeCSV("outputFinali/javapoet/MethodMetrics.csv", "/MethodMetrics.csv", hashCommits.get(i));
+                mergeCSV("outputFinali/javapoet/TypeMetrics.csv", "/TypeMetrics.csv", hashCommits.get(i));
             } catch (IOException e) {
                 e.printStackTrace();
             }
