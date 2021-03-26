@@ -23,6 +23,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MyStudy implements Study {
+    private  DeveloperVisitor developerVisitor;
 
     public static void main(String[] args) {
         new RepoDriller().start(new MyStudy());
@@ -40,7 +41,8 @@ public class MyStudy implements Study {
 
     public void mergeCSV(String pathDestination, String nomeFile, String hashCommit) throws IOException {
 
-        nomeFile = "output/" + hashCommit + nomeFile;
+        nomeFile = developerVisitor.getPathCommit() +"/" + hashCommit + nomeFile;
+        System.out.println("### merge di "+nomeFile);
 
         BufferedReader br = null;
         final String lineSep = System.getProperty("line.separator");
@@ -108,7 +110,7 @@ public class MyStudy implements Study {
 
     @Override
     public void execute() {
-        DeveloperVisitor developerVisitor = new DeveloperVisitor("javapoet");
+         developerVisitor = new DeveloperVisitor("javapoet");
 
         String repoDir = "javapoet";
 

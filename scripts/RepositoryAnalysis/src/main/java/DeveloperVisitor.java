@@ -9,6 +9,8 @@ public class DeveloperVisitor implements CommitVisitor {
 
     private static List<String> hashCommits;
     private String projectName;
+    private File pathOutput;
+    private File pathJavaPoet;
 
     public DeveloperVisitor(String projectName) {
         hashCommits = Collections.synchronizedList(new ArrayList<String>());
@@ -60,20 +62,13 @@ public class DeveloperVisitor implements CommitVisitor {
             repo.getScm().checkout(commit.getHash());
 
             List<RepositoryFile> files = repo.getScm().files();
-            File folder = new File("output/" + commit.getHash());
-            //create tempDirectory e passo output
-            //create TempDirectory e passo commit.getHash()
-            if (!folder.exists()) {
-                if (folder.mkdir()) {
-                    System.out.println("Directory is created!");
-                } else {
-                    System.out.println("Failed to create directory!");
-                }
-            }
+            pathOutput = createTempDirectory("output");
+            pathJavaPoet = createTempDirectory(pathOutput.getName()+"/javapoet");
+            File commitACaso = createTempDirectory(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash());
 
             try {
                 Process runtimeProcess = Runtime.getRuntime().exec
-                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o output/" + commit.getHash(),
+                        ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o "+pathOutput.getPath() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(),
                                 null,
                                 new File("."));
                 System.out.println("### DESIGNITE, progetto "+projectName+
@@ -92,11 +87,16 @@ public class DeveloperVisitor implements CommitVisitor {
 
             String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime() + ",";
             // per ogni file csv chiamo createTempFile
-            String csvArchitectureSmells = "output/" + commit.getHash() + "/ArchitectureSmells.csv";
-            String csvDesignSmells = "output/" + commit.getHash() + "/DesignSmells.csv";
-            String csvImplementationSmells = "output/" + commit.getHash() + "/ImplementationSmells.csv";
-            String csvMethodMetrics = "output/" + commit.getHash() + "/MethodMetrics.csv";
-            String csvTypeMetrics = "output/" + commit.getHash() + "/TypeMetrics.csv";
+            String csvArchitectureSmells =
+                    createTempFile(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(), "/ArchitectureSmells.csv").getPath();
+           String csvDesignSmells =
+                   createTempFile(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(), "/DesignSmells.csv").getPath();
+            String csvImplementationSmells =
+                    createTempFile(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(), "/ImplementationSmells.csv").getPath();
+            String csvMethodMetrics =
+                    createTempFile(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(), "/MethodMetrics.csv").getPath();
+            String csvTypeMetrics =
+                    createTempFile(pathOutput.getName() +"/" + pathJavaPoet.getName()+"/"+commit.getHash(), "/TypeMetrics.csv").getPath();
 
             //modifico i file CSV aggiungendo commit e data
             addInfoToCSV(csvArchitectureSmells, infoAggiuntive);
@@ -105,11 +105,11 @@ public class DeveloperVisitor implements CommitVisitor {
             addInfoToCSV(csvMethodMetrics, infoAggiuntive);
             addInfoToCSV(csvTypeMetrics, infoAggiuntive);
 
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
             repo.getScm().reset();
+            pathOutput.delete();
         }
     }
 
@@ -121,11 +121,11 @@ public class DeveloperVisitor implements CommitVisitor {
         File parent = new File(System.getProperty("java.io.tmpdir"));
 
         File temp = new File(parent, prefix + suffix);
-
+        /*
         if (temp.exists()) {
             temp.delete();
         }
-
+        */
         try {
             temp.createNewFile();
         } catch (IOException ex) {
@@ -140,14 +140,18 @@ public class DeveloperVisitor implements CommitVisitor {
         File parent = new File(System.getProperty("java.io.tmpdir"));
 
         File temp = new File(parent, fileName);
-
+        /*
         if (temp.exists()) {
             temp.delete();
         }
-
+        */
         temp.mkdir();
 
         return temp;
+    }
+
+    public String getPathCommit(){
+        return pathJavaPoet.getPath();
     }
 
 }
