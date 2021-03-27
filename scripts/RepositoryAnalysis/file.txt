@@ -1,0 +1,2 @@
+https://github.com/square/javapoet.git
+https://github.com/mauricioaniche/repodriller.git
