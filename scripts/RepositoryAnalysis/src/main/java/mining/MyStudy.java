@@ -70,7 +70,7 @@ public class MyStudy implements Study {
                 boolean b = UtilsFileDirectory.deleteDirectory(file);
 
                 if(b){
-                    System.out.println("### Cartella eliminata: "+file);
+                    System.out.println("#### Cartella eliminata: "+file);
                 }
                 UtilsFileDirectory.addColumnsCSV(line, baseOutputFolder);
 

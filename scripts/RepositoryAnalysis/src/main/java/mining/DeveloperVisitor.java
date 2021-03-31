@@ -44,7 +44,7 @@ public class DeveloperVisitor implements CommitVisitor {
                         ("java -jar DesigniteJava.jar -i " + repo.getPath() + " -o " + pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash(),
                                 null,
                                 new File("."));
-                System.out.println("### DESIGNITE, progetto " + projectName +
+                System.out.println("#### DESIGNITE, progetto " + projectName +
                         " commit " + commit.getHash() + "-> START");
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
 
