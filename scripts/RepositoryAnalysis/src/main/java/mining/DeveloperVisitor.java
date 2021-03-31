@@ -49,7 +49,7 @@ public class DeveloperVisitor implements CommitVisitor {
                 int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
 
                 if (processComplete == 0) {
-                    System.out.println("#### DESIGNITE, progetto " + projectName +
+                    System.out.println("### DESIGNITE, progetto " + projectName +
                             " commit " + commit.getHash() + "-> END");
                 }
             } catch (IOException | InterruptedException e) {

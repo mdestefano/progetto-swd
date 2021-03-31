@@ -29,8 +29,8 @@ public class UtilsGit {
         JSONArray a;
         try {
             a = (JSONArray) parser.parse(new FileReader(baseOutputFolder + UtilsGit.getNameFromGitUrl(url) + "/tag.json"));
-            for (Object o : a) {
-                JSONObject info = (JSONObject) o;
+            for (Object object : a) {
+                JSONObject info = (JSONObject) object;
                 JSONObject commit = (JSONObject) info.get("commit");
                 arrayReturn.add(commit.get("sha").toString());
             }

@@ -9,7 +9,7 @@ public class UtilsCSV {
                                 String pathCommit, String projectName) throws IOException {
 
         nomeFile = pathCommit + "/" + hashCommit + nomeFile;
-        System.out.println("#### merge di " + nomeFile);
+        System.out.println("### merge di " + nomeFile);
 
         BufferedReader br = null;
         final String lineSep = System.getProperty("line.separator");

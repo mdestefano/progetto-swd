@@ -86,7 +86,7 @@ public class UtilsFileDirectory {
         boolean mkdir = temp.mkdir();
 
         if(mkdir){
-            System.out.println("### Cartella temporanea creata "+temp);
+            System.out.println("## Cartella temporanea creata "+temp);
         }
 
         return temp;

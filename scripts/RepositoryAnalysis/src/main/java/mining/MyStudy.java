@@ -17,6 +17,10 @@ public class MyStudy implements Study {
     public static void main(String[] args) {
         file = args[0];
         baseOutputFolder = args[1];
+        File fileOutputFolder = new File(baseOutputFolder);
+        if(!fileOutputFolder.exists()) {
+            fileOutputFolder.mkdirs();
+        }
         new RepoDriller().start(new MyStudy());
     }
 
