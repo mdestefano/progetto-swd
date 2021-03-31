@@ -47,18 +47,18 @@ public class UtilsCSV {
         }
     }
 
-    public static void mergeAll(List<String> hashCommits, String line, String pathCommit) {
+    public static void mergeAll(List<String> hashCommits, String line, String pathCommit, String baseOutputFolder) {
         for (String hashCommit : hashCommits) {
             try {
-                UtilsCSV.mergeCSV("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/ArchitectureSmells.csv", "/ArchitectureSmells.csv",
+                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/ArchitectureSmells.csv", "/ArchitectureSmells.csv",
                         hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/DesignSmells.csv", "/DesignSmells.csv",
+                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/DesignSmells.csv", "/DesignSmells.csv",
                         hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/ImplementationSmells.csv",
+                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/ImplementationSmells.csv",
                         "/ImplementationSmells.csv", hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/MethodMetrics.csv",
+                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/MethodMetrics.csv",
                         "/MethodMetrics.csv", hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/TypeMetrics.csv", "/TypeMetrics.csv",
+                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/TypeMetrics.csv", "/TypeMetrics.csv",
                         hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
             } catch (IOException e) {
                 e.printStackTrace();

@@ -12,9 +12,11 @@ import utils.*;
 
 public class MyStudy implements Study {
     private static String file;
+    private static String baseOutputFolder;
 
     public static void main(String[] args) {
         file = args[0];
+        baseOutputFolder = args[1];
         new RepoDriller().start(new MyStudy());
     }
 
@@ -27,7 +29,7 @@ public class MyStudy implements Study {
             for (line = br.readLine(); line != null; line = br.readLine()) {
                 developerVisitor = new DeveloperVisitor(UtilsGit.getNameFromGitUrl(line));
                 String repoDir = UtilsGit.getNameFromGitUrl(line);
-                File folder = new File("outputFinali/" + repoDir);
+                File folder = new File(baseOutputFolder + repoDir);
 
                 if (!folder.exists()) {
                     boolean mkdir = folder.mkdir();
@@ -43,12 +45,12 @@ public class MyStudy implements Study {
                         .buildAsSCMRepository();
 
                 ProcessBuilder builder = new ProcessBuilder("curl", UtilsGit.getUrlTagsFromGitUrl(line));
-                builder.redirectOutput(new File("outputFinali/" + UtilsGit.getNameFromGitUrl(line) + "/tag.json"));
+                builder.redirectOutput(new File(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/tag.json"));
 
                 Process p = builder.start();
                 p.waitFor();
 
-                List<String> arrayTags = UtilsGit.getTags(line);
+                List<String> arrayTags = UtilsGit.getTags(line, baseOutputFolder);
                 new RepositoryMining()
                         .in(
                                 GitRepository.singleProject(repoDir)
@@ -66,10 +68,10 @@ public class MyStudy implements Study {
                 if(b){
                     System.out.println("### Cartella eliminata: "+file);
                 }
-                UtilsFileDirectory.addColumnsCSV(line);
+                UtilsFileDirectory.addColumnsCSV(line, baseOutputFolder);
 
                 List<String> hashCommits = developerVisitor.getHashCommit();
-                UtilsCSV.mergeAll(hashCommits, line, developerVisitor.getPathCommit());
+                UtilsCSV.mergeAll(hashCommits, line, developerVisitor.getPathCommit(), baseOutputFolder);
 
             }
         } catch (IOException | InterruptedException e) {

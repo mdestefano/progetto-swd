@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cartellaTmp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javapoet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javapoet.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repodriller" vcs="Git" />
   </component>
 </project>

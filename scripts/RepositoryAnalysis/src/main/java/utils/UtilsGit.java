@@ -23,12 +23,12 @@ public class UtilsGit {
         return "https://api.github.com/repos/"+secondPart+"/tags";
     }
 
-    public static List<String> getTags(String url) {
+    public static List<String> getTags(String url, String baseOutputFolder) {
         List<String> arrayReturn = new ArrayList<>();
         JSONParser parser = new JSONParser();
         JSONArray a;
         try {
-            a = (JSONArray) parser.parse(new FileReader("outputFinali/" + UtilsGit.getNameFromGitUrl(url) + "/tag.json"));
+            a = (JSONArray) parser.parse(new FileReader(baseOutputFolder + UtilsGit.getNameFromGitUrl(url) + "/tag.json"));
             for (Object o : a) {
                 JSONObject info = (JSONObject) o;
                 JSONObject commit = (JSONObject) info.get("commit");
