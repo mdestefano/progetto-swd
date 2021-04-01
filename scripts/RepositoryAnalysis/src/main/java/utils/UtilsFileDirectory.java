@@ -17,16 +17,17 @@ public class UtilsFileDirectory {
     public static void addColumnsCSV(String line, String baseOutputDirectory) {
         Writer output = null, output1 = null, output2 = null, output3 = null, output4 = null;
         try {
+            String repoDir = UtilsGit.getNameFromGitUrl(line);
             output = new BufferedWriter(new FileWriter(baseOutputDirectory
-                    + UtilsGit.getNameFromGitUrl(line) + "/ArchitectureSmells.csv"));
+                    + repoDir + "/ArchitectureSmells.csv"));
             output1 = new BufferedWriter(new FileWriter(baseOutputDirectory
-                    + UtilsGit.getNameFromGitUrl(line) + "/DesignSmells.csv"));
+                    + repoDir + "/DesignSmells.csv"));
             output2 = new BufferedWriter(new FileWriter(baseOutputDirectory
-                    + UtilsGit.getNameFromGitUrl(line) + "/ImplementationSmells.csv"));
+                    + repoDir + "/ImplementationSmells.csv"));
             output3 = new BufferedWriter(new FileWriter(baseOutputDirectory
-                    + UtilsGit.getNameFromGitUrl(line) + "/MethodMetrics.csv"));
+                    + repoDir + "/MethodMetrics.csv"));
             output4 = new BufferedWriter(new FileWriter(baseOutputDirectory
-                    + UtilsGit.getNameFromGitUrl(line) + "/TypeMetrics.csv"));
+                    + repoDir + "/TypeMetrics.csv"));
 
             final String lineSep = System.getProperty("line.separator");
 

@@ -57,7 +57,7 @@ public class MyStudy implements Study {
 
                 HashMap<String,String> hashTags = UtilsGit.getTags(line, baseOutputFolder);
 
-                developerVisitor = new DeveloperVisitor(UtilsGit.getNameFromGitUrl(line),hashTags);
+                developerVisitor = new DeveloperVisitor(repoDir ,hashTags);
                 new RepositoryMining()
                         .in(
                                 GitRepository.singleProject(repoDir)

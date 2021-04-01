@@ -28,10 +28,9 @@ public class UtilsCSV {
                         StringBuilder buffer = new StringBuilder(line);
                         line = buffer.reverse().toString().replaceFirst(",", "");
                         line = new StringBuffer(line).reverse().toString();
-
                     }
                     String[] lineArray = line.split(",");
-                    line = line.replaceAll(lineArray[2], projectName);
+                    line = line.replaceAll(lineArray[3], projectName);
 
                     output.append(line).append(lineSep);
                 } else {
@@ -50,16 +49,17 @@ public class UtilsCSV {
     public static void mergeAll(List<String> hashCommits, String line, String pathCommit, String baseOutputFolder) {
         for (String hashCommit : hashCommits) {
             try {
-                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/ArchitectureSmells.csv", "/ArchitectureSmells.csv",
-                        hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/DesignSmells.csv", "/DesignSmells.csv",
-                        hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/ImplementationSmells.csv",
-                        "/ImplementationSmells.csv", hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/MethodMetrics.csv",
-                        "/MethodMetrics.csv", hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
-                UtilsCSV.mergeCSV(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/TypeMetrics.csv", "/TypeMetrics.csv",
-                        hashCommit, pathCommit, UtilsGit.getNameFromGitUrl(line));
+                String repoDir = UtilsGit.getNameFromGitUrl(line);
+                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/ArchitectureSmells.csv", "/ArchitectureSmells.csv",
+                        hashCommit, pathCommit, repoDir);
+                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/DesignSmells.csv", "/DesignSmells.csv",
+                        hashCommit, pathCommit, repoDir);
+                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/ImplementationSmells.csv",
+                        "/ImplementationSmells.csv", hashCommit, pathCommit, repoDir);
+                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/MethodMetrics.csv",
+                        "/MethodMetrics.csv", hashCommit, pathCommit, repoDir);
+                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/TypeMetrics.csv", "/TypeMetrics.csv",
+                        hashCommit, pathCommit, repoDir);
             } catch (IOException e) {
                 e.printStackTrace();
             }

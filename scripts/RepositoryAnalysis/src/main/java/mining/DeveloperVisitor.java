@@ -76,8 +76,6 @@ public class DeveloperVisitor implements CommitVisitor {
             UtilsCSV.addInfoToCSV(csvMethodMetrics, infoAggiuntive);
             UtilsCSV.addInfoToCSV(csvTypeMetrics, infoAggiuntive);
 
-            System.out.println(commit.getMsg());
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
