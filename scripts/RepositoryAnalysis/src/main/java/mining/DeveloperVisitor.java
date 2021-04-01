@@ -83,7 +83,7 @@ public class DeveloperVisitor implements CommitVisitor {
             boolean delete = pathOutput.delete();
 
             if(delete){
-                System.out.println ("### Directory output eliminata: ");
+                System.out.println ("### Directory output eliminata:");
             }
 
         }
