@@ -7,6 +7,7 @@ import org.repodriller.filter.range.Commits;
 import org.repodriller.scm.GitRemoteRepository;
 import org.repodriller.scm.GitRepository;
 import java.io.*;
+import java.util.HashMap;
 import java.util.List;
 import utils.*;
 
@@ -31,7 +32,7 @@ public class MyStudy implements Study {
             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
             String line;
             for (line = br.readLine(); line != null; line = br.readLine()) {
-                developerVisitor = new DeveloperVisitor(UtilsGit.getNameFromGitUrl(line));
+
                 String repoDir = UtilsGit.getNameFromGitUrl(line);
                 File folder = new File(baseOutputFolder + repoDir);
 
@@ -54,12 +55,14 @@ public class MyStudy implements Study {
                 Process p = builder.start();
                 p.waitFor();
 
-                List<String> arrayTags = UtilsGit.getTags(line, baseOutputFolder);
+                HashMap<String,String> hashTags = UtilsGit.getTags(line, baseOutputFolder);
+
+                developerVisitor = new DeveloperVisitor(UtilsGit.getNameFromGitUrl(line),hashTags);
                 new RepositoryMining()
                         .in(
                                 GitRepository.singleProject(repoDir)
                         )
-                        .through(Commits.list(arrayTags))
+                        .through(Commits.list(UtilsGit.getHashTag(hashTags)))
                         .visitorsAreThreadSafe(true) // Threads are possible.
                         .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
                         .withThreads() // Now pick a good number of threads for my machine.

@@ -10,13 +10,15 @@ import java.util.*;
 
 public class DeveloperVisitor implements CommitVisitor {
 
-    private static List<String> hashCommits;
+    private  List<String> hashCommits;
+    private  HashMap<String,String> hashmapTag;
     private final String projectName;
     private final File pathOutput;
     private final File pathProject;
 
-    public DeveloperVisitor(String projectName) {
+    public DeveloperVisitor(String projectName, HashMap<String,String> hashmapTag) {
         hashCommits = Collections.synchronizedList(new ArrayList<String>());
+        this.hashmapTag = hashmapTag;
         this.projectName = projectName;
         pathOutput = UtilsFileDirectory.createTempDirectory("output");
         pathProject = UtilsFileDirectory.createTempDirectory(pathOutput.getName() + "/" + projectName);
@@ -56,7 +58,7 @@ public class DeveloperVisitor implements CommitVisitor {
                 e.printStackTrace();
             }
 
-            String infoAggiuntive = commit.getHash() + "," + commit.getDate().getTime() + ",";
+            String infoAggiuntive =  hashmapTag.get(commit.getHash())+ ","+commit.getHash() + "," + commit.getDate().getTime() + ",";
             String csvArchitectureSmells =
                     UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/ArchitectureSmells.csv").getPath();
             String csvDesignSmells =
@@ -73,6 +75,8 @@ public class DeveloperVisitor implements CommitVisitor {
             UtilsCSV.addInfoToCSV(csvImplementationSmells, infoAggiuntive);
             UtilsCSV.addInfoToCSV(csvMethodMetrics, infoAggiuntive);
             UtilsCSV.addInfoToCSV(csvTypeMetrics, infoAggiuntive);
+
+            System.out.println(commit.getMsg());
 
         } catch (IOException e) {
             e.printStackTrace();

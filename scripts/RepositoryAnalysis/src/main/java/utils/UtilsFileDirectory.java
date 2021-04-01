@@ -30,11 +30,11 @@ public class UtilsFileDirectory {
 
             final String lineSep = System.getProperty("line.separator");
 
-            output.write("HashCommit, Date, Project Name, Package Name, Architecture Smell, Cause of the Smell" + lineSep);
-            output1.write("HashCommit, Date, Project Name, Package Name, Type Name, Design Smell, Cause of the Smell" + lineSep);
-            output2.write("HashCommit, Date, Project Name, Package Name, Type Name, Method Name, Implementation Smell, Cause of the Smell" + lineSep);
-            output3.write("HashCommit, Date, Project Name, Package Name, Type Name, Method Name, LOC, CC, PC" + lineSep);
-            output4.write("HashCommit, Date, Project Name, Package Name, Type Name, NOF, NOPF, NOM, NOPM, LOC, WMC, NC, DIT, LCOM, FANIN, FANOUT, File path" + lineSep);
+            output.write("NameTag ,HashCommit, Date, Project Name, Package Name, Architecture Smell, Cause of the Smell" + lineSep);
+            output1.write("NameTag ,HashCommit, Date, Project Name, Package Name, Type Name, Design Smell, Cause of the Smell" + lineSep);
+            output2.write("NameTag ,HashCommit, Date, Project Name, Package Name, Type Name, Method Name, Implementation Smell, Cause of the Smell" + lineSep);
+            output3.write("NameTag ,HashCommit, Date, Project Name, Package Name, Type Name, Method Name, LOC, CC, PC" + lineSep);
+            output4.write("NameTag ,HashCommit, Date, Project Name, Package Name, Type Name, NOF, NOPF, NOM, NOPM, LOC, WMC, NC, DIT, LCOM, FANIN, FANOUT, File path" + lineSep);
         } catch (IOException e) {
             e.printStackTrace();
         } finally {

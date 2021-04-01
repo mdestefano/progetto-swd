@@ -82,7 +82,7 @@ public class UtilsCSV {
             int i = 0;
             for (line = br.readLine(); line != null; line = br.readLine(), i++) {
                 if (i == 0) {
-                    addedColumn = "HashCommit, Date, ";
+                    addedColumn = "NameTag ,HashCommit, Date, ";
                 } else {
                     addedColumn = support;
                 }
