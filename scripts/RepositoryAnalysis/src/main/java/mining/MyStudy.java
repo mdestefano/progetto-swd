@@ -65,7 +65,7 @@ public class MyStudy implements Study {
                         .through(Commits.list(UtilsGit.getHashTag(hashTags)))
                         .visitorsAreThreadSafe(true) // Threads are possible.
                         .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
-                        .withThreads() // Now pick a good number of threads for my machine.
+                        .withThreads(Runtime.getRuntime().availableProcessors()) // Now pick a good number of threads for my machine.
                         .process(developerVisitor)
                         .mine();
 
