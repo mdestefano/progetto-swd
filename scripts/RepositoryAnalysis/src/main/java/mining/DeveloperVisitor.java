@@ -6,6 +6,7 @@ import org.repodriller.scm.*;
 import utils.*;
 
 import java.io.*;
+import java.nio.file.Paths;
 import java.util.*;
 
 public class DeveloperVisitor implements CommitVisitor {
@@ -39,7 +40,8 @@ public class DeveloperVisitor implements CommitVisitor {
 
             repo.getScm().checkout(commit.getHash());
 
-            UtilsFileDirectory.createTempDirectory(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash());
+            String tempCsvPathPrefix = Paths.get(pathOutput.getName(), pathProject.getName(), commit.getHash()).toString();
+            UtilsFileDirectory.createTempDirectory(tempCsvPathPrefix);
 
             try {
                 Process runtimeProcess = Runtime.getRuntime().exec
@@ -60,15 +62,15 @@ public class DeveloperVisitor implements CommitVisitor {
 
             String infoAggiuntive =  hashmapTag.get(commit.getHash())+ ","+commit.getHash() + "," + commit.getDate().getTime() + ",";
             String csvArchitectureSmells =
-                    UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/ArchitectureSmells.csv").getPath();
+                    UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "ArchitectureSmells.csv").getPath();
             String csvDesignSmells =
-                    UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/DesignSmells.csv").getPath();
+                    UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "DesignSmells.csv").getPath();
             String csvImplementationSmells =
-                    UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/ImplementationSmells.csv").getPath();
+                    UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "ImplementationSmells.csv").getPath();
             String csvMethodMetrics =
-                    UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/MethodMetrics.csv").getPath();
+                    UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "MethodMetrics.csv").getPath();
             String csvTypeMetrics =
-                    UtilsFileDirectory.createTempFile(pathOutput.getName() + "/" + pathProject.getName() + "/" + commit.getHash(), "/TypeMetrics.csv").getPath();
+                    UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "TypeMetrics.csv").getPath();
 
             UtilsCSV.addInfoToCSV(csvArchitectureSmells, infoAggiuntive);
             UtilsCSV.addInfoToCSV(csvDesignSmells, infoAggiuntive);

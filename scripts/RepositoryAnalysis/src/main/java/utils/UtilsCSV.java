@@ -1,14 +1,21 @@
 package utils;
 
 import java.io.*;
+import java.nio.file.Paths;
 import java.util.List;
 
 public class UtilsCSV {
 
+    protected static final String ARCHITECTURE_SMELLS_CSV = "ArchitectureSmells.csv";
+    protected static final String DESIGN_SMELLS_CSV = "DesignSmells.csv";
+    protected static final String IMPLEMENTATION_SMELLS_CSV = "ImplementationSmells.csv";
+    protected static final String METHOD_METRICS_CSV = "MethodMetrics.csv";
+    protected static final String TYPE_METRICS_CSV = "TypeMetrics.csv";
+
     public static void mergeCSV(String pathDestination, String nomeFile, String hashCommit,
                                 String pathCommit, String projectName) throws IOException {
 
-        nomeFile = pathCommit + "/" + hashCommit + nomeFile;
+        nomeFile = Paths.get(pathCommit, hashCommit, nomeFile).toString();
         System.out.println("#### merge di " + nomeFile);
 
         BufferedReader br = null;
@@ -49,17 +56,23 @@ public class UtilsCSV {
     public static void mergeAll(List<String> hashCommits, String line, String pathCommit, String baseOutputFolder) {
         for (String hashCommit : hashCommits) {
             try {
-                String repoDir = UtilsGit.getNameFromGitUrl(line);
-                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/ArchitectureSmells.csv", "/ArchitectureSmells.csv",
-                        hashCommit, pathCommit, repoDir);
-                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/DesignSmells.csv", "/DesignSmells.csv",
-                        hashCommit, pathCommit, repoDir);
-                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/ImplementationSmells.csv",
-                        "/ImplementationSmells.csv", hashCommit, pathCommit, repoDir);
-                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/MethodMetrics.csv",
-                        "/MethodMetrics.csv", hashCommit, pathCommit, repoDir);
-                UtilsCSV.mergeCSV(baseOutputFolder + repoDir + "/TypeMetrics.csv", "/TypeMetrics.csv",
-                        hashCommit, pathCommit, repoDir);
+                String repoName = UtilsGit.getNameFromGitUrl(line);
+                String repoDir = Paths.get(baseOutputFolder + repoName).toString();
+
+                UtilsCSV.mergeCSV(Paths.get(repoDir, ARCHITECTURE_SMELLS_CSV).toString(), ARCHITECTURE_SMELLS_CSV,
+                        hashCommit, pathCommit, repoName);
+
+                UtilsCSV.mergeCSV(Paths.get(repoDir, DESIGN_SMELLS_CSV).toString(), DESIGN_SMELLS_CSV,
+                        hashCommit, pathCommit, repoName);
+
+                UtilsCSV.mergeCSV(Paths.get(repoDir, IMPLEMENTATION_SMELLS_CSV).toString(),
+                        IMPLEMENTATION_SMELLS_CSV, hashCommit, pathCommit, repoName);
+
+                UtilsCSV.mergeCSV(Paths.get(repoDir, METHOD_METRICS_CSV).toString(),
+                        METHOD_METRICS_CSV, hashCommit, pathCommit, repoName);
+
+                UtilsCSV.mergeCSV(Paths.get(repoDir, TYPE_METRICS_CSV).toString(), TYPE_METRICS_CSV,
+                        hashCommit, pathCommit, repoName);
             } catch (IOException e) {
                 e.printStackTrace();
             }
