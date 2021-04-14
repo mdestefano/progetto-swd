@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v3.0.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v3.0.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v3.0.0-maven",
+    "commit": {
+      "sha": "691a31e940cb8148b46c05e4756d5a2bb5b79902",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/691a31e940cb8148b46c05e4756d5a2bb5b79902"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92My4wLjAtbWF2ZW4="
+  },
+  {
+    "name": "v3.0.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v3.0.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v3.0.0-gradle",
+    "commit": {
+      "sha": "6b8df7af215a27be763a12a846fa9e1728e4d5a7",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/6b8df7af215a27be763a12a846fa9e1728e4d5a7"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92My4wLjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.8.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.8.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.8.0-maven",
+    "commit": {
+      "sha": "7bfeabb807d23bcacfc64bc0c027a0d8c844672b",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/7bfeabb807d23bcacfc64bc0c027a0d8c844672b"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi44LjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.8.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.8.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.8.0-gradle",
+    "commit": {
+      "sha": "bd1fb0a25547e74ffdf1a9da937f450244779f11",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/bd1fb0a25547e74ffdf1a9da937f450244779f11"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi44LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.7.1-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.7.1-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.7.1-maven",
+    "commit": {
+      "sha": "4967183a8047153ff1c6c98499e732f7e286717d",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/4967183a8047153ff1c6c98499e732f7e286717d"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi43LjEtbWF2ZW4="
+  },
+  {
+    "name": "v2.7.1-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.7.1-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.7.1-gradle",
+    "commit": {
+      "sha": "a90ad2c351ad2df6f7e6a711d84d4e7ad0eaee7c",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/a90ad2c351ad2df6f7e6a711d84d4e7ad0eaee7c"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi43LjEtZ3JhZGxl"
+  },
+  {
+    "name": "v2.7.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.7.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.7.0-maven",
+    "commit": {
+      "sha": "20c9ff12aaab2c06684c57bc1634444df331d9cb",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/20c9ff12aaab2c06684c57bc1634444df331d9cb"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi43LjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.7.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.7.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.7.0-gradle",
+    "commit": {
+      "sha": "f546ab0188dfec03233e028f035e4966ee34aae5",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/f546ab0188dfec03233e028f035e4966ee34aae5"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi43LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.6.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.6.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.6.0-maven",
+    "commit": {
+      "sha": "a695b33fd9e54bce6043b507ebc84f65d8095cd7",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/a695b33fd9e54bce6043b507ebc84f65d8095cd7"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi42LjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.6.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.6.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.6.0-gradle",
+    "commit": {
+      "sha": "bdd127ed4496e9c8bea7c43890eed374a89fb6ca",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/bdd127ed4496e9c8bea7c43890eed374a89fb6ca"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi42LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.5.2-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.5.2-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.5.2-maven",
+    "commit": {
+      "sha": "bfa82c5c9a71e9b52e0b7164262ac1a36830d5e4",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/bfa82c5c9a71e9b52e0b7164262ac1a36830d5e4"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi41LjItbWF2ZW4="
+  },
+  {
+    "name": "v2.5.1-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.5.1-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.5.1-maven",
+    "commit": {
+      "sha": "798ac122521cb1381819450e7729df8725924b57",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/798ac122521cb1381819450e7729df8725924b57"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi41LjEtbWF2ZW4="
+  },
+  {
+    "name": "v2.5.1-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.5.1-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.5.1-gradle",
+    "commit": {
+      "sha": "b48c8b0a17260a9debfe37608a20c2abe81df072",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/b48c8b0a17260a9debfe37608a20c2abe81df072"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi41LjEtZ3JhZGxl"
+  },
+  {
+    "name": "v2.5.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.5.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.5.0-maven",
+    "commit": {
+      "sha": "91149f0de9f6ff7f442c618f6b13b22e7b972d75",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/91149f0de9f6ff7f442c618f6b13b22e7b972d75"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi41LjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.5.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.5.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.5.0-gradle",
+    "commit": {
+      "sha": "14b2b93f4df452bd3869d40635132243cc0e8290",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/14b2b93f4df452bd3869d40635132243cc0e8290"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi41LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.4.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.4.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.4.0-maven",
+    "commit": {
+      "sha": "838b447760ac4fb2cc8e7b8ba54ee8fdfbee9c53",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/838b447760ac4fb2cc8e7b8ba54ee8fdfbee9c53"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi40LjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.4.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.4.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.4.0-gradle",
+    "commit": {
+      "sha": "c6a49f511440e7f8ea9c852bc99907551991e201",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/c6a49f511440e7f8ea9c852bc99907551991e201"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi40LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.3.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.3.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.3.0-maven",
+    "commit": {
+      "sha": "7a1ab7a6e6a26f35b0491acc44f1e211da673a17",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/7a1ab7a6e6a26f35b0491acc44f1e211da673a17"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4zLjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.3.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.3.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.3.0-gradle",
+    "commit": {
+      "sha": "94db4ca23135bae88218864de48518b25b5f20e8",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/94db4ca23135bae88218864de48518b25b5f20e8"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4zLjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.2.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.2.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.2.0-maven",
+    "commit": {
+      "sha": "959cbab20173d28de46ea481156905eb2cb5715d",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/959cbab20173d28de46ea481156905eb2cb5715d"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4yLjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.2.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.2.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.2.0-gradle",
+    "commit": {
+      "sha": "ff73c5b8d33548de42d8e8327004be8447675797",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/ff73c5b8d33548de42d8e8327004be8447675797"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4yLjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.1.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.1.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.1.0-maven",
+    "commit": {
+      "sha": "dbc35ee48a94815ec18df6989c7c9152ba554c4e",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/dbc35ee48a94815ec18df6989c7c9152ba554c4e"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4xLjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.1.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.1.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.1.0-gradle",
+    "commit": {
+      "sha": "ff9913674e37cab5af7b970df749eae51e4caa33",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/ff9913674e37cab5af7b970df749eae51e4caa33"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4xLjAtZ3JhZGxl"
+  },
+  {
+    "name": "v2.0.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.0.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.0.0-maven",
+    "commit": {
+      "sha": "39532e07e306f97b03af246ef80ac15011cc3a43",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/39532e07e306f97b03af246ef80ac15011cc3a43"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4wLjAtbWF2ZW4="
+  },
+  {
+    "name": "v2.0.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v2.0.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v2.0.0-gradle",
+    "commit": {
+      "sha": "a059e11fbf969dab84f1ed3743df816036c34b35",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/a059e11fbf969dab84f1ed3743df816036c34b35"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92Mi4wLjAtZ3JhZGxl"
+  },
+  {
+    "name": "v1.8.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v1.8.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v1.8.0-maven",
+    "commit": {
+      "sha": "9905c13be36bf43a536eb3ad7de54c97c130ebb7",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/9905c13be36bf43a536eb3ad7de54c97c130ebb7"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92MS44LjAtbWF2ZW4="
+  },
+  {
+    "name": "v1.8.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v1.8.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v1.8.0-gradle",
+    "commit": {
+      "sha": "c3477b01c210d8fb5d5682a01f0b59d913fb7dba",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/c3477b01c210d8fb5d5682a01f0b59d913fb7dba"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92MS44LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v1.7.0-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v1.7.0-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v1.7.0-maven",
+    "commit": {
+      "sha": "6d24b504c30e9604fe579e78801dcdc7b2633ceb",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/6d24b504c30e9604fe579e78801dcdc7b2633ceb"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92MS43LjAtbWF2ZW4="
+  },
+  {
+    "name": "v1.7.0-gradle",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v1.7.0-gradle",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v1.7.0-gradle",
+    "commit": {
+      "sha": "32126fece7c4eeff848c18f76e20ba9f34f1fd23",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/32126fece7c4eeff848c18f76e20ba9f34f1fd23"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92MS43LjAtZ3JhZGxl"
+  },
+  {
+    "name": "v1.6.1-maven",
+    "zipball_url": "https://api.github.com/repos/GoogleContainerTools/jib/zipball/refs/tags/v1.6.1-maven",
+    "tarball_url": "https://api.github.com/repos/GoogleContainerTools/jib/tarball/refs/tags/v1.6.1-maven",
+    "commit": {
+      "sha": "37bace1e15d2ca47197d2ab617dda7ef80c30e61",
+      "url": "https://api.github.com/repos/GoogleContainerTools/jib/commits/37bace1e15d2ca47197d2ab617dda7ef80c30e61"
+    },
+    "node_id": "MDM6UmVmMTE4NDk3ODQxOnJlZnMvdGFncy92MS42LjEtbWF2ZW4="
+  }
+]

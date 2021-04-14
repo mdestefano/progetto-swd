@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.8.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.8.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.8.1",
+    "commit": {
+      "sha": "08754ff73c849763f703a3dfb416393c3ccd147e",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/08754ff73c849763f703a3dfb416393c3ccd147e"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjguMQ=="
+  },
+  {
+    "name": "v1.8.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.8.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.8.0",
+    "commit": {
+      "sha": "891010618214b8e826b3c124f5572988135ade58",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/891010618214b8e826b3c124f5572988135ade58"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjguMA=="
+  },
+  {
+    "name": "v1.7.2",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.7.2",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.7.2",
+    "commit": {
+      "sha": "b2cb90e93dbb2eea3b94783a1a922afbd1fb6063",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/b2cb90e93dbb2eea3b94783a1a922afbd1fb6063"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjcuMg=="
+  },
+  {
+    "name": "v1.7.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.7.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.7.1",
+    "commit": {
+      "sha": "f28d0d5a300070795fba5b61f0bee624ab6f814d",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/f28d0d5a300070795fba5b61f0bee624ab6f814d"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjcuMQ=="
+  },
+  {
+    "name": "v1.7.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.7.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.7.0",
+    "commit": {
+      "sha": "27aa832c8dba550aa12184fc106790bbe10791e8",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/27aa832c8dba550aa12184fc106790bbe10791e8"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjcuMA=="
+  },
+  {
+    "name": "v1.6.2",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.6.2",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.6.2",
+    "commit": {
+      "sha": "a4ee45b3db9fd3176f67508648684a617b2254bf",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/a4ee45b3db9fd3176f67508648684a617b2254bf"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjYuMg=="
+  },
+  {
+    "name": "v1.6.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.6.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.6.1",
+    "commit": {
+      "sha": "f34231b223bdabb4ffcb232c3703129f71cbaad8",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/f34231b223bdabb4ffcb232c3703129f71cbaad8"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjYuMQ=="
+  },
+  {
+    "name": "v1.6.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.6.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.6.0",
+    "commit": {
+      "sha": "a2ae4ad8a8442c7f7842803b50b7783997d2b984",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/a2ae4ad8a8442c7f7842803b50b7783997d2b984"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjYuMA=="
+  },
+  {
+    "name": "v1.5.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.5.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.5.1",
+    "commit": {
+      "sha": "c9eae5410524957ebca97d85eb00eb38fa266125",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/c9eae5410524957ebca97d85eb00eb38fa266125"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjUuMQ=="
+  },
+  {
+    "name": "v1.5.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.5.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.5.0",
+    "commit": {
+      "sha": "0d824bb9085c66d3e1bcb8e09f53cf16a978715c",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/0d824bb9085c66d3e1bcb8e09f53cf16a978715c"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjUuMA=="
+  },
+  {
+    "name": "v1.4.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.4.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.4.0",
+    "commit": {
+      "sha": "6b0a06a4682e8171cc17f5f61ccc8d87f6871b6d",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/6b0a06a4682e8171cc17f5f61ccc8d87f6871b6d"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjQuMA=="
+  },
+  {
+    "name": "v1.3.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.3.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.3.0",
+    "commit": {
+      "sha": "d1ae147711af31ea522f988acb36a5c1bf3a4456",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/d1ae147711af31ea522f988acb36a5c1bf3a4456"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjMuMA=="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "dcc49834f2e3b12738c83078d19acebd2e336dc1",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/dcc49834f2e3b12738c83078d19acebd2e336dc1"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjIuMA=="
+  },
+  {
+    "name": "v1.1.2",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.1.2",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.1.2",
+    "commit": {
+      "sha": "3a8e92c9c2d0abefa89a8e693c0bfa58ccf2d675",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/3a8e92c9c2d0abefa89a8e693c0bfa58ccf2d675"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjEuMg=="
+  },
+  {
+    "name": "v1.1.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.1.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.1.1",
+    "commit": {
+      "sha": "c22ac5637432c3c557bd857314401a3983e704d2",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/c22ac5637432c3c557bd857314401a3983e704d2"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjEuMQ=="
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "7b8ccbe13c2902ebdd3dcffd5d6dd43dd824ce80",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/7b8ccbe13c2902ebdd3dcffd5d6dd43dd824ce80"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjEuMA=="
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "a3cf5b2b6d8462e37dc90f327e064964323d2a80",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/a3cf5b2b6d8462e37dc90f327e064964323d2a80"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YxLjAuMA=="
+  },
+  {
+    "name": "v0.11.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.11.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.11.0",
+    "commit": {
+      "sha": "be40a4bc28db310eb2a7d670e55337b5c2eedc1a",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/be40a4bc28db310eb2a7d670e55337b5c2eedc1a"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjExLjA="
+  },
+  {
+    "name": "v0.10.2",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.10.2",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.10.2",
+    "commit": {
+      "sha": "03825fa89b799a19be7f3bf0570f4e0c09b92cef",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/03825fa89b799a19be7f3bf0570f4e0c09b92cef"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjEwLjI="
+  },
+  {
+    "name": "v0.10.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.10.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.10.1",
+    "commit": {
+      "sha": "6b2467df6aa3c286102219e1c5b50efeeb68f747",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/6b2467df6aa3c286102219e1c5b50efeeb68f747"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjEwLjE="
+  },
+  {
+    "name": "v0.10.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.10.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.10.0",
+    "commit": {
+      "sha": "37b6485c7605ccc4b8620d27d1414736369af291",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/37b6485c7605ccc4b8620d27d1414736369af291"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjEwLjA="
+  },
+  {
+    "name": "v0.9.1",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.9.1",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.9.1",
+    "commit": {
+      "sha": "ac10768ee2e11c488523ca0e845984f6f71499ac",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/ac10768ee2e11c488523ca0e845984f6f71499ac"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjkuMQ=="
+  },
+  {
+    "name": "v0.9.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.9.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.9.0",
+    "commit": {
+      "sha": "2f3204d4181f5d35d7ee2ac5dc3b2c632be7f05a",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/2f3204d4181f5d35d7ee2ac5dc3b2c632be7f05a"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjkuMA=="
+  },
+  {
+    "name": "v0.8.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.8.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.8.0",
+    "commit": {
+      "sha": "5bcb4095bbfdbdfbe4e176e00d3ce9bdc1a099d7",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/5bcb4095bbfdbdfbe4e176e00d3ce9bdc1a099d7"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjguMA=="
+  },
+  {
+    "name": "v0.7.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.7.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.7.0",
+    "commit": {
+      "sha": "aeb9230b228b641db443d0d0a9b64bca1ceed9fc",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/aeb9230b228b641db443d0d0a9b64bca1ceed9fc"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjcuMA=="
+  },
+  {
+    "name": "v0.6.3",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.6.3",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.6.3",
+    "commit": {
+      "sha": "8372040f85896a93b60ccb14610c2bee2dcc9683",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/8372040f85896a93b60ccb14610c2bee2dcc9683"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjYuMw=="
+  },
+  {
+    "name": "v0.6.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.6.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.6.0",
+    "commit": {
+      "sha": "d0fdd72846a0b2530ca9bc1743b3f52e864ab6ed",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/d0fdd72846a0b2530ca9bc1743b3f52e864ab6ed"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjYuMA=="
+  },
+  {
+    "name": "v0.5.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.5.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.5.0",
+    "commit": {
+      "sha": "f5373b19100766c136aa4980edcf17e41975ee76",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/f5373b19100766c136aa4980edcf17e41975ee76"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjUuMA=="
+  },
+  {
+    "name": "v0.4.0",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/v0.4.0",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/v0.4.0",
+    "commit": {
+      "sha": "2219b0a23544b06a138fdfbc34a4320b2d9e00b5",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/2219b0a23544b06a138fdfbc34a4320b2d9e00b5"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzL3YwLjQuMA=="
+  },
+  {
+    "name": "0.6.2",
+    "zipball_url": "https://api.github.com/repos/ctripcorp/apollo/zipball/refs/tags/0.6.2",
+    "tarball_url": "https://api.github.com/repos/ctripcorp/apollo/tarball/refs/tags/0.6.2",
+    "commit": {
+      "sha": "d327f0703f690457220fb355e969562b75e6aee0",
+      "url": "https://api.github.com/repos/ctripcorp/apollo/commits/d327f0703f690457220fb355e969562b75e6aee0"
+    },
+    "node_id": "MDM6UmVmNTMxMjc0MDM6cmVmcy90YWdzLzAuNi4y"
+  }
+]
