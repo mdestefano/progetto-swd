@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v2.0.0-rc.2",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v2.0.0-rc.2",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v2.0.0-rc.2",
+    "commit": {
+      "sha": "7fb4c76ec1a886b9f1d3c27acf97934754f9bbe8",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/7fb4c76ec1a886b9f1d3c27acf97934754f9bbe8"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjIuMC4wLXJjLjI="
+  },
+  {
+    "name": "v2.0.0-rc.1",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v2.0.0-rc.1",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v2.0.0-rc.1",
+    "commit": {
+      "sha": "fa4c7c60623d40dcfbd9815ab844659343e5d97b",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/fa4c7c60623d40dcfbd9815ab844659343e5d97b"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjIuMC4wLXJjLjE="
+  },
+  {
+    "name": "v1.10.13",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.13",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.13",
+    "commit": {
+      "sha": "c43d873b9bc494bd0ff0d6a13d20cfde60b1b3e4",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/c43d873b9bc494bd0ff0d6a13d20cfde60b1b3e4"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMTM="
+  },
+  {
+    "name": "v1.10.12",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.12",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.12",
+    "commit": {
+      "sha": "51188cea4acbddd2c955eb8ec14bac80cb72986e",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/51188cea4acbddd2c955eb8ec14bac80cb72986e"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMTI="
+  },
+  {
+    "name": "v1.10.11",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.11",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.11",
+    "commit": {
+      "sha": "1749af98a8c60784c36e448813cc73cdb4e4823c",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/1749af98a8c60784c36e448813cc73cdb4e4823c"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMTE="
+  },
+  {
+    "name": "v1.10.10",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.10",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.10",
+    "commit": {
+      "sha": "336ee2bc5b73f6a2e37fb0135816de131562c391",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/336ee2bc5b73f6a2e37fb0135816de131562c391"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMTA="
+  },
+  {
+    "name": "v1.10.9",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.9",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.9",
+    "commit": {
+      "sha": "26f9b8cd95d18c4223ce697a40a76ee9f18c4d97",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/26f9b8cd95d18c4223ce697a40a76ee9f18c4d97"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuOQ=="
+  },
+  {
+    "name": "v1.10.8",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.8",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.8",
+    "commit": {
+      "sha": "c56bfb29ac82a571c9cbd6dbdf203e1cc32074f7",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/c56bfb29ac82a571c9cbd6dbdf203e1cc32074f7"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuOA=="
+  },
+  {
+    "name": "v1.10.7",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.7",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.7",
+    "commit": {
+      "sha": "16ab5e4483505a1a43546ebd0acefc2f6e9be2f6",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/16ab5e4483505a1a43546ebd0acefc2f6e9be2f6"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuNw=="
+  },
+  {
+    "name": "v1.10.6",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.6",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.6",
+    "commit": {
+      "sha": "b84b5c0da69445d687970786d94744fee02feff3",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/b84b5c0da69445d687970786d94744fee02feff3"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuNg=="
+  },
+  {
+    "name": "v1.10.5",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.5",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.5",
+    "commit": {
+      "sha": "38b99a42a0f7d3a628a76c32f523020bcceb1f7a",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/38b99a42a0f7d3a628a76c32f523020bcceb1f7a"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuNQ=="
+  },
+  {
+    "name": "v1.10.4",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.4",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.4",
+    "commit": {
+      "sha": "2607f30aaaba8e65246f4f632377d096899d1bae",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/2607f30aaaba8e65246f4f632377d096899d1bae"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuNA=="
+  },
+  {
+    "name": "v1.10.3",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.3",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.3",
+    "commit": {
+      "sha": "2607f30aaaba8e65246f4f632377d096899d1bae",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/2607f30aaaba8e65246f4f632377d096899d1bae"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMw=="
+  },
+  {
+    "name": "v1.10.2",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.2",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.2",
+    "commit": {
+      "sha": "2607f30aaaba8e65246f4f632377d096899d1bae",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/2607f30aaaba8e65246f4f632377d096899d1bae"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMg=="
+  },
+  {
+    "name": "v1.10.1",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.1",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.1",
+    "commit": {
+      "sha": "3e192528da1a474eb3ecd3c338a6b1fb92420469",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/3e192528da1a474eb3ecd3c338a6b1fb92420469"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMQ=="
+  },
+  {
+    "name": "v1.10.0",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.10.0",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.10.0",
+    "commit": {
+      "sha": "00e827eb3d082ce75e24ac5c7cdd9bef423be7ff",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/00e827eb3d082ce75e24ac5c7cdd9bef423be7ff"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuMTAuMA=="
+  },
+  {
+    "name": "v1.9.26",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.26",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.26",
+    "commit": {
+      "sha": "5c469f9098b7919865c63515d8be4b3d9f5b575f",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/5c469f9098b7919865c63515d8be4b3d9f5b575f"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yNg=="
+  },
+  {
+    "name": "v1.9.25",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.25",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.25",
+    "commit": {
+      "sha": "ef87b44d6466cc3710ff3902d3f808fa9d32191e",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/ef87b44d6466cc3710ff3902d3f808fa9d32191e"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yNQ=="
+  },
+  {
+    "name": "v1.9.24",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.24",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.24",
+    "commit": {
+      "sha": "5e266be6b22b776f90d4f7bf68ef47d94669a7d2",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/5e266be6b22b776f90d4f7bf68ef47d94669a7d2"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yNA=="
+  },
+  {
+    "name": "v1.9.23",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.23",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.23",
+    "commit": {
+      "sha": "6438fba6a42a6d2a1dd2e4cb48eab66c34bd0a21",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/6438fba6a42a6d2a1dd2e4cb48eab66c34bd0a21"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yMw=="
+  },
+  {
+    "name": "v1.9.22",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.22",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.22",
+    "commit": {
+      "sha": "9685296a47caf44e664f9883be1cb24748f48087",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/9685296a47caf44e664f9883be1cb24748f48087"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yMg=="
+  },
+  {
+    "name": "v1.9.21",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.21",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.21",
+    "commit": {
+      "sha": "80bf99f3c6bf3218647349a86f3467144aed6f9b",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/80bf99f3c6bf3218647349a86f3467144aed6f9b"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yMQ=="
+  },
+  {
+    "name": "v1.9.20",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.20",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.20",
+    "commit": {
+      "sha": "d45c537f7122a95bfa3b5766f266b07207fd71ba",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/d45c537f7122a95bfa3b5766f266b07207fd71ba"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4yMA=="
+  },
+  {
+    "name": "v1.9.19",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.19",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.19",
+    "commit": {
+      "sha": "cac06f4b431ef3c099719dd3ee9af7d8bb2d3bae",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/cac06f4b431ef3c099719dd3ee9af7d8bb2d3bae"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xOQ=="
+  },
+  {
+    "name": "v1.9.18",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.18",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.18",
+    "commit": {
+      "sha": "615448d12f21f219ee4e52f640159c45c8b587fe",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/615448d12f21f219ee4e52f640159c45c8b587fe"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xOA=="
+  },
+  {
+    "name": "v1.9.17",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.17",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.17",
+    "commit": {
+      "sha": "cefadab13ef8ddfa2d702cd07ad9a4a393ff94f4",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/cefadab13ef8ddfa2d702cd07ad9a4a393ff94f4"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xNw=="
+  },
+  {
+    "name": "v1.9.16",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.16",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.16",
+    "commit": {
+      "sha": "1ef3c55f7012ee44d0b73e24abad5c2f180e7799",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/1ef3c55f7012ee44d0b73e24abad5c2f180e7799"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xNg=="
+  },
+  {
+    "name": "v1.9.15",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.15",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.15",
+    "commit": {
+      "sha": "c4d212bf2b8af806472dcc86feceb0afd68ae1d6",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/c4d212bf2b8af806472dcc86feceb0afd68ae1d6"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xNQ=="
+  },
+  {
+    "name": "v1.9.14",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.14",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.14",
+    "commit": {
+      "sha": "689b6fa5edcd95bbb58a6152832071af83ac7722",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/689b6fa5edcd95bbb58a6152832071af83ac7722"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xNA=="
+  },
+  {
+    "name": "v1.9.13",
+    "zipball_url": "https://api.github.com/repos/Netflix/eureka/zipball/refs/tags/v1.9.13",
+    "tarball_url": "https://api.github.com/repos/Netflix/eureka/tarball/refs/tags/v1.9.13",
+    "commit": {
+      "sha": "9d07ac4aaba90876d89a691521c128c9c59bcce8",
+      "url": "https://api.github.com/repos/Netflix/eureka/commits/9d07ac4aaba90876d89a691521c128c9c59bcce8"
+    },
+    "node_id": "MDM6UmVmNTE5ODA0MTpyZWZzL3RhZ3MvdjEuOS4xMw=="
+  }
+]

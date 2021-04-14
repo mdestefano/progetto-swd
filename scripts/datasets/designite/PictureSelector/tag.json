@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v2.6.0",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.6.0",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.6.0",
+    "commit": {
+      "sha": "c9514020e6a7200977f0396bedf3c637cacdc9f0",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/c9514020e6a7200977f0396bedf3c637cacdc9f0"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjYuMA=="
+  },
+  {
+    "name": "v2.5.9",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.9",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.9",
+    "commit": {
+      "sha": "29c666fcf91378870ba47ec17328579e96d63705",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/29c666fcf91378870ba47ec17328579e96d63705"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuOQ=="
+  },
+  {
+    "name": "v2.5.8",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.8",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.8",
+    "commit": {
+      "sha": "ad93314efa92c787d97352a03bdfcfc614625a73",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/ad93314efa92c787d97352a03bdfcfc614625a73"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuOA=="
+  },
+  {
+    "name": "v2.5.6",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.6",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.6",
+    "commit": {
+      "sha": "0123d4d100020c7b3bcf03cab2f213c8ef638c21",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/0123d4d100020c7b3bcf03cab2f213c8ef638c21"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuNg=="
+  },
+  {
+    "name": "v2.5.5",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.5",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.5",
+    "commit": {
+      "sha": "31be38a756cfd40117c58ffb1e4729ca89c2ba7b",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/31be38a756cfd40117c58ffb1e4729ca89c2ba7b"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuNQ=="
+  },
+  {
+    "name": "v2.5.3",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.3",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.3",
+    "commit": {
+      "sha": "04a97badc352a6a4c0357628856c927acdd0659b",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/04a97badc352a6a4c0357628856c927acdd0659b"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuMw=="
+  },
+  {
+    "name": "v2.5.2",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.2",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.2",
+    "commit": {
+      "sha": "218f84d144047348d29cf76b63bfd3ee8fef26d2",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/218f84d144047348d29cf76b63bfd3ee8fef26d2"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuMg=="
+  },
+  {
+    "name": "v2.5.1",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.1",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.1",
+    "commit": {
+      "sha": "d389516de8f7f569bd08170306fa2c0dee8917f1",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/d389516de8f7f569bd08170306fa2c0dee8917f1"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuMQ=="
+  },
+  {
+    "name": "v2.5.0",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.5.0",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.5.0",
+    "commit": {
+      "sha": "c837c793e783efa3a5d549adb8ae220f8503818e",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/c837c793e783efa3a5d549adb8ae220f8503818e"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjUuMA=="
+  },
+  {
+    "name": "v2.4.9",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.9",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.9",
+    "commit": {
+      "sha": "c24a88d957aca01fa6f193e72922a26fc1bf710f",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/c24a88d957aca01fa6f193e72922a26fc1bf710f"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuOQ=="
+  },
+  {
+    "name": "v2.4.8",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.8",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.8",
+    "commit": {
+      "sha": "7f5d9d0dd64a7d51c2699df233b0df3fbec2b64b",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/7f5d9d0dd64a7d51c2699df233b0df3fbec2b64b"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuOA=="
+  },
+  {
+    "name": "v2.4.6",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.6",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.6",
+    "commit": {
+      "sha": "ca0152d0bb17429eb8c6c5c548ebdb0fa73e59fa",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/ca0152d0bb17429eb8c6c5c548ebdb0fa73e59fa"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuNg=="
+  },
+  {
+    "name": "v2.4.3",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.3",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.3",
+    "commit": {
+      "sha": "bc1cd48eba0e8ad8dd100a3a01a25d2b89416824",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/bc1cd48eba0e8ad8dd100a3a01a25d2b89416824"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuMw=="
+  },
+  {
+    "name": "v2.4.2",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.2",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.2",
+    "commit": {
+      "sha": "86aa8aa20fda70a9d67e8c5d6a05c0c0787a3502",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/86aa8aa20fda70a9d67e8c5d6a05c0c0787a3502"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuMg=="
+  },
+  {
+    "name": "v2.4.1",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.1",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.1",
+    "commit": {
+      "sha": "4a8eedc6df76edf54b3fce99ae49e98521e7a614",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/4a8eedc6df76edf54b3fce99ae49e98521e7a614"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuMQ=="
+  },
+  {
+    "name": "v2.4.0",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.4.0",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.4.0",
+    "commit": {
+      "sha": "6f7be2234f96770f89306a1fae08b69459abcf1e",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/6f7be2234f96770f89306a1fae08b69459abcf1e"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjQuMA=="
+  },
+  {
+    "name": "v2.3.9",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.9",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.9",
+    "commit": {
+      "sha": "e7e22cb4503963dde06843605b63d7045fbcdfbe",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/e7e22cb4503963dde06843605b63d7045fbcdfbe"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuOQ=="
+  },
+  {
+    "name": "v2.3.8",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.8",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.8",
+    "commit": {
+      "sha": "0be4c0d420332817a2570c4ba0952d130e291563",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/0be4c0d420332817a2570c4ba0952d130e291563"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuOA=="
+  },
+  {
+    "name": "v2.3.7",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.7",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.7",
+    "commit": {
+      "sha": "e0ca427a62d960ff9a2f6293e755c238e0e582ca",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/e0ca427a62d960ff9a2f6293e755c238e0e582ca"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuNw=="
+  },
+  {
+    "name": "v2.3.6",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.6",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.6",
+    "commit": {
+      "sha": "547392cccd8fe9b51d614e20990692dd347e6083",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/547392cccd8fe9b51d614e20990692dd347e6083"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuNg=="
+  },
+  {
+    "name": "v2.3.4",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.4",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.4",
+    "commit": {
+      "sha": "d703ff2652f3bd8d8ab5e4baaafe63e8994b2c4c",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/d703ff2652f3bd8d8ab5e4baaafe63e8994b2c4c"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuNA=="
+  },
+  {
+    "name": "v2.3.3",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.3",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.3",
+    "commit": {
+      "sha": "bbe87b4b1bfe72cf6f3daec954379b626aba6f05",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/bbe87b4b1bfe72cf6f3daec954379b626aba6f05"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuMw=="
+  },
+  {
+    "name": "v2.3.2",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.2",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.2",
+    "commit": {
+      "sha": "4ea67b595c1af3abc2dcf3645b1aab9134f77173",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/4ea67b595c1af3abc2dcf3645b1aab9134f77173"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuMg=="
+  },
+  {
+    "name": "v2.3.1",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.1",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.1",
+    "commit": {
+      "sha": "4ea67b595c1af3abc2dcf3645b1aab9134f77173",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/4ea67b595c1af3abc2dcf3645b1aab9134f77173"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuMQ=="
+  },
+  {
+    "name": "v2.3.0",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.3.0",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.3.0",
+    "commit": {
+      "sha": "8b73223a3d30c4c163eb008ab6e41a2ed398c428",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/8b73223a3d30c4c163eb008ab6e41a2ed398c428"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjMuMA=="
+  },
+  {
+    "name": "v2.2.9",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.2.9",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.2.9",
+    "commit": {
+      "sha": "77c2334bfc72b30d9603e8dc3501bf9e8913b537",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/77c2334bfc72b30d9603e8dc3501bf9e8913b537"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjIuOQ=="
+  },
+  {
+    "name": "v2.2.8",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.2.8",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.2.8",
+    "commit": {
+      "sha": "3c604d2691953684714b313ec76125d5334502d4",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/3c604d2691953684714b313ec76125d5334502d4"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjIuOA=="
+  },
+  {
+    "name": "v2.2.7",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.2.7",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.2.7",
+    "commit": {
+      "sha": "a99d5f7e42e7e3479c17611721825d1cfc2df29a",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/a99d5f7e42e7e3479c17611721825d1cfc2df29a"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjIuNw=="
+  },
+  {
+    "name": "v2.2.5",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.2.5",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.2.5",
+    "commit": {
+      "sha": "b92242557ee39b29728d9688ba9de6a93beb6289",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/b92242557ee39b29728d9688ba9de6a93beb6289"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjIuNQ=="
+  },
+  {
+    "name": "v2.2.4",
+    "zipball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/zipball/refs/tags/v2.2.4",
+    "tarball_url": "https://api.github.com/repos/LuckSiege/PictureSelector/tarball/refs/tags/v2.2.4",
+    "commit": {
+      "sha": "dc67fee031b007dd6006ae8b235830c3b8277a77",
+      "url": "https://api.github.com/repos/LuckSiege/PictureSelector/commits/dc67fee031b007dd6006ae8b235830c3b8277a77"
+    },
+    "node_id": "MDM6UmVmNzc5OTM1Nzg6cmVmcy90YWdzL3YyLjIuNA=="
+  }
+]
