@@ -1,0 +1,302 @@
+[
+  {
+    "name": "parent-2.8.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.8.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.8.1",
+    "commit": {
+      "sha": "7fa4b3e63735616cb4a2ce23f3ef08952178f8b0",
+      "url": "https://api.github.com/repos/square/retrofit/commits/7fa4b3e63735616cb4a2ce23f3ef08952178f8b0"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi44LjE="
+  },
+  {
+    "name": "parent-2.8.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.8.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.8.0",
+    "commit": {
+      "sha": "2cde2ae96b022f4151148d390ab7f79ca17d7124",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2cde2ae96b022f4151148d390ab7f79ca17d7124"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi44LjA="
+  },
+  {
+    "name": "parent-2.7.2",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.7.2",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.7.2",
+    "commit": {
+      "sha": "2d6404eb3d1a5e78efe9968068715c20a82173d9",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2d6404eb3d1a5e78efe9968068715c20a82173d9"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi43LjI="
+  },
+  {
+    "name": "parent-2.7.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.7.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.7.1",
+    "commit": {
+      "sha": "7110c196825031690235c4f331a05fc4a93f6a4f",
+      "url": "https://api.github.com/repos/square/retrofit/commits/7110c196825031690235c4f331a05fc4a93f6a4f"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi43LjE="
+  },
+  {
+    "name": "parent-2.7.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.7.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.7.0",
+    "commit": {
+      "sha": "e04e88d91d7792e5c45178e0236e410c4155717e",
+      "url": "https://api.github.com/repos/square/retrofit/commits/e04e88d91d7792e5c45178e0236e410c4155717e"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi43LjA="
+  },
+  {
+    "name": "parent-2.6.4",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.6.4",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.6.4",
+    "commit": {
+      "sha": "6b4ff78d20dc658884ef2ecd98338bdec67308ed",
+      "url": "https://api.github.com/repos/square/retrofit/commits/6b4ff78d20dc658884ef2ecd98338bdec67308ed"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi42LjQ="
+  },
+  {
+    "name": "parent-2.6.3",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.6.3",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.6.3",
+    "commit": {
+      "sha": "4401b6d5820341fe4a708dab6224c6b40e5a4e79",
+      "url": "https://api.github.com/repos/square/retrofit/commits/4401b6d5820341fe4a708dab6224c6b40e5a4e79"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi42LjM="
+  },
+  {
+    "name": "parent-2.6.2",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.6.2",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.6.2",
+    "commit": {
+      "sha": "eb4e62bdf9cde131cb877e30eea0e7522fe1d212",
+      "url": "https://api.github.com/repos/square/retrofit/commits/eb4e62bdf9cde131cb877e30eea0e7522fe1d212"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi42LjI="
+  },
+  {
+    "name": "parent-2.6.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.6.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.6.1",
+    "commit": {
+      "sha": "717c9a0c9e74311487f77c1a74f6581f7906cbee",
+      "url": "https://api.github.com/repos/square/retrofit/commits/717c9a0c9e74311487f77c1a74f6581f7906cbee"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi42LjE="
+  },
+  {
+    "name": "parent-2.6.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.6.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.6.0",
+    "commit": {
+      "sha": "b8d593cf029652eb682434c0217ad92b5cbb005e",
+      "url": "https://api.github.com/repos/square/retrofit/commits/b8d593cf029652eb682434c0217ad92b5cbb005e"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi42LjA="
+  },
+  {
+    "name": "parent-2.5.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.5.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.5.0",
+    "commit": {
+      "sha": "40621bf538f6d48af182350adc880406c53dc67c",
+      "url": "https://api.github.com/repos/square/retrofit/commits/40621bf538f6d48af182350adc880406c53dc67c"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi41LjA="
+  },
+  {
+    "name": "parent-2.4.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.4.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.4.0",
+    "commit": {
+      "sha": "7158698314daa138e993fac6a590ed19d78a8599",
+      "url": "https://api.github.com/repos/square/retrofit/commits/7158698314daa138e993fac6a590ed19d78a8599"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi40LjA="
+  },
+  {
+    "name": "parent-2.3.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.3.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.3.0",
+    "commit": {
+      "sha": "903e149a4f211a0fb7e01ed4fdf8c48a8b6c7891",
+      "url": "https://api.github.com/repos/square/retrofit/commits/903e149a4f211a0fb7e01ed4fdf8c48a8b6c7891"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4zLjA="
+  },
+  {
+    "name": "parent-2.2.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.2.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.2.0",
+    "commit": {
+      "sha": "98f8b43a24cb016d87f1f92302f1ca2853c7c896",
+      "url": "https://api.github.com/repos/square/retrofit/commits/98f8b43a24cb016d87f1f92302f1ca2853c7c896"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4yLjA="
+  },
+  {
+    "name": "parent-2.1.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.1.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.1.0",
+    "commit": {
+      "sha": "fd2f2e24a9e3aae3f7f6a832da3bb6fc22362577",
+      "url": "https://api.github.com/repos/square/retrofit/commits/fd2f2e24a9e3aae3f7f6a832da3bb6fc22362577"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4xLjA="
+  },
+  {
+    "name": "parent-2.0.2",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.2",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.2",
+    "commit": {
+      "sha": "7f3784746bf001501c9f0c34acd04f966f921105",
+      "url": "https://api.github.com/repos/square/retrofit/commits/7f3784746bf001501c9f0c34acd04f966f921105"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjI="
+  },
+  {
+    "name": "parent-2.0.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.1",
+    "commit": {
+      "sha": "2927160d513a731674ac3ad7b9ba10059f0d130f",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2927160d513a731674ac3ad7b9ba10059f0d130f"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjE="
+  },
+  {
+    "name": "parent-2.0.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.0",
+    "commit": {
+      "sha": "c4551d99892a3a56708dd0c945efa5619337269a",
+      "url": "https://api.github.com/repos/square/retrofit/commits/c4551d99892a3a56708dd0c945efa5619337269a"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjA="
+  },
+  {
+    "name": "parent-2.0.0-beta4",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.0-beta4",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.0-beta4",
+    "commit": {
+      "sha": "2613d174be2e6f31f4f742e040412aee308849cf",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2613d174be2e6f31f4f742e040412aee308849cf"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjAtYmV0YTQ="
+  },
+  {
+    "name": "parent-2.0.0-beta3",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.0-beta3",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.0-beta3",
+    "commit": {
+      "sha": "b5ef2af4e75f5285d4cbbb7da147b5d518680497",
+      "url": "https://api.github.com/repos/square/retrofit/commits/b5ef2af4e75f5285d4cbbb7da147b5d518680497"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjAtYmV0YTM="
+  },
+  {
+    "name": "parent-2.0.0-beta2",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.0-beta2",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.0-beta2",
+    "commit": {
+      "sha": "e68011938e92d7f50f8e2a64ad0e57788549dd5c",
+      "url": "https://api.github.com/repos/square/retrofit/commits/e68011938e92d7f50f8e2a64ad0e57788549dd5c"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjAtYmV0YTI="
+  },
+  {
+    "name": "parent-2.0.0-beta1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-2.0.0-beta1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-2.0.0-beta1",
+    "commit": {
+      "sha": "bcf627578ae8fd593e1c8a4a85a841f6a68b072c",
+      "url": "https://api.github.com/repos/square/retrofit/commits/bcf627578ae8fd593e1c8a4a85a841f6a68b072c"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMi4wLjAtYmV0YTE="
+  },
+  {
+    "name": "parent-1.9.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.9.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.9.0",
+    "commit": {
+      "sha": "2f4caa6f5df8e7f47a881266bbfc723f537b0b47",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2f4caa6f5df8e7f47a881266bbfc723f537b0b47"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS45LjA="
+  },
+  {
+    "name": "parent-1.8.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.8.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.8.0",
+    "commit": {
+      "sha": "ab0fd55bbabf609246faa13f7e6e336096a406af",
+      "url": "https://api.github.com/repos/square/retrofit/commits/ab0fd55bbabf609246faa13f7e6e336096a406af"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS44LjA="
+  },
+  {
+    "name": "parent-1.7.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.7.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.7.1",
+    "commit": {
+      "sha": "e8f3a1db3deb06d762f3dbce8090cb3fc5a5f7a6",
+      "url": "https://api.github.com/repos/square/retrofit/commits/e8f3a1db3deb06d762f3dbce8090cb3fc5a5f7a6"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS43LjE="
+  },
+  {
+    "name": "parent-1.7.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.7.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.7.0",
+    "commit": {
+      "sha": "2c42f2a1974410e19e3539d11088d2de33780122",
+      "url": "https://api.github.com/repos/square/retrofit/commits/2c42f2a1974410e19e3539d11088d2de33780122"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS43LjA="
+  },
+  {
+    "name": "parent-1.6.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.6.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.6.1",
+    "commit": {
+      "sha": "e552d9a9a2e7c168f33be963a276767da782cad0",
+      "url": "https://api.github.com/repos/square/retrofit/commits/e552d9a9a2e7c168f33be963a276767da782cad0"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS42LjE="
+  },
+  {
+    "name": "parent-1.6.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.6.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.6.0",
+    "commit": {
+      "sha": "0cb35c8a44742efc53c62eeaa6dd6b542efb90a1",
+      "url": "https://api.github.com/repos/square/retrofit/commits/0cb35c8a44742efc53c62eeaa6dd6b542efb90a1"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS42LjA="
+  },
+  {
+    "name": "parent-1.5.1",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.5.1",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.5.1",
+    "commit": {
+      "sha": "d5feecdecdbbdf5c18f4231d37055e154e33ef8b",
+      "url": "https://api.github.com/repos/square/retrofit/commits/d5feecdecdbbdf5c18f4231d37055e154e33ef8b"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS41LjE="
+  },
+  {
+    "name": "parent-1.5.0",
+    "zipball_url": "https://api.github.com/repos/square/retrofit/zipball/refs/tags/parent-1.5.0",
+    "tarball_url": "https://api.github.com/repos/square/retrofit/tarball/refs/tags/parent-1.5.0",
+    "commit": {
+      "sha": "6120d8618f861499f886ad3ba53c64ca3cc195a9",
+      "url": "https://api.github.com/repos/square/retrofit/commits/6120d8618f861499f886ad3ba53c64ca3cc195a9"
+    },
+    "node_id": "MDM6UmVmODkyMjc1OnJlZnMvdGFncy9wYXJlbnQtMS41LjA="
+  }
+]

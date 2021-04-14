@@ -1,6 +1,7 @@
 package utils;
 
 import java.io.*;
+import java.nio.file.Paths;
 
 public class UtilsFileDirectory {
     public static boolean deleteDirectory(File f) {
@@ -64,12 +65,12 @@ public class UtilsFileDirectory {
     public static File createTempFile(String prefix, String suffix) {
         File parent = new File(System.getProperty("java.io.tmpdir"));
 
-        File temp = new File(parent, prefix + suffix);
+        File temp = new File(parent, Paths.get(prefix,suffix).toString());
 
         try {
             boolean newFile = temp.createNewFile();
             if(newFile){
-                System.out.println("### File temporaneo creato "+temp);
+                System.out.println("### File temporaneo creato "+temp.getAbsolutePath());
             }
         } catch (IOException ex) {
             ex.printStackTrace();
@@ -79,10 +80,10 @@ public class UtilsFileDirectory {
     }
 
 
-    public static File createTempDirectory(String fileName) {
+    public static File createTempDirectory(String dirname) {
         File parent = new File(System.getProperty("java.io.tmpdir"));
 
-        File temp = new File(parent, fileName);
+        File temp = new File(parent, dirname);
 
         boolean mkdir = temp.mkdir();
 

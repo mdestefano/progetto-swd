@@ -7,6 +7,7 @@ import org.repodriller.filter.range.Commits;
 import org.repodriller.scm.GitRemoteRepository;
 import org.repodriller.scm.GitRepository;
 import java.io.*;
+import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
 import utils.*;
@@ -34,20 +35,15 @@ public class MyStudy implements Study {
             for (line = br.readLine(); line != null; line = br.readLine()) {
 
                 String repoDir = UtilsGit.getNameFromGitUrl(line);
-                File folder = new File(baseOutputFolder + repoDir);
+                File folder = new File(Paths.get(baseOutputFolder,repoDir).toString());
 
                 if (!folder.exists()) {
                     boolean mkdir = folder.mkdir();
 
                     if(mkdir){
-                        System.out.println("### Directory creata");
+                        System.out.println("### Creata directory "+folder.getAbsolutePath());
                     }
                 }
-
-                GitRemoteRepository
-                        .hostedOn(line)
-                        .inTempDir(repoDir)
-                        .buildAsSCMRepository();
 
                 ProcessBuilder builder = new ProcessBuilder("curl", UtilsGit.getUrlTagsFromGitUrl(line));
                 builder.redirectOutput(new File(baseOutputFolder + UtilsGit.getNameFromGitUrl(line) + "/tag.json"));
@@ -60,12 +56,12 @@ public class MyStudy implements Study {
                 developerVisitor = new DeveloperVisitor(repoDir ,hashTags);
                 new RepositoryMining()
                         .in(
-                                GitRepository.singleProject(repoDir)
+                                GitRemoteRepository.singleProject(line)
                         )
                         .through(Commits.list(UtilsGit.getHashTag(hashTags)))
                         .visitorsAreThreadSafe(true) // Threads are possible.
                         .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
-                        .withThreads() // Now pick a good number of threads for my machine.
+                        .withThreads(Runtime.getRuntime().availableProcessors()) // Now pick a good number of threads for my machine.
                         .process(developerVisitor)
                         .mine();
 

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "2.0.0-alpha11",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha11",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha11",
+    "commit": {
+      "sha": "ecdfab80f1fdf1b7374945626e8c0fa7fddb45c9",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/ecdfab80f1fdf1b7374945626e8c0fa7fddb45c9"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMTE="
+  },
+  {
+    "name": "2.0.0-alpha10",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha10",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha10",
+    "commit": {
+      "sha": "237bf6a033704c72e657184baaf15086fb6d200a",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/237bf6a033704c72e657184baaf15086fb6d200a"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMTA="
+  },
+  {
+    "name": "2.0.0-alpha09",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha09",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha09",
+    "commit": {
+      "sha": "b8a15ab523228e8ee4223d44af6a80a2e5869de2",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/b8a15ab523228e8ee4223d44af6a80a2e5869de2"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDk="
+  },
+  {
+    "name": "2.0.0-alpha08",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha08",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha08",
+    "commit": {
+      "sha": "dc7377e63de02eb961848eb09c23d05e3ae7295e",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/dc7377e63de02eb961848eb09c23d05e3ae7295e"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDg="
+  },
+  {
+    "name": "2.0.0-alpha07",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha07",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha07",
+    "commit": {
+      "sha": "ca34a301650db52d11c0557f117b77c8506fbbca",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/ca34a301650db52d11c0557f117b77c8506fbbca"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDc="
+  },
+  {
+    "name": "2.0.0-alpha06",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha06",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha06",
+    "commit": {
+      "sha": "e9cd228d056ee4c672ba0732373c9b8266f26d8d",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/e9cd228d056ee4c672ba0732373c9b8266f26d8d"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDY="
+  },
+  {
+    "name": "2.0.0-alpha05",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha05",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha05",
+    "commit": {
+      "sha": "fa19f2ed34e1eba49c499629523032b43e0cea03",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/fa19f2ed34e1eba49c499629523032b43e0cea03"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDU="
+  },
+  {
+    "name": "2.0.0-alpha04",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha04",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha04",
+    "commit": {
+      "sha": "197bc06d664e9b81f9d727d1429d605864b73bb9",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/197bc06d664e9b81f9d727d1429d605864b73bb9"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDQ="
+  },
+  {
+    "name": "2.0.0-alpha03",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha03",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha03",
+    "commit": {
+      "sha": "fa52783da6dd296572e553455b067cc31940238a",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/fa52783da6dd296572e553455b067cc31940238a"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDM="
+  },
+  {
+    "name": "2.0.0-alpha02",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha02",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha02",
+    "commit": {
+      "sha": "fe238fc7b116dd2d2102b16c0693e7e538c4e1f3",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/fe238fc7b116dd2d2102b16c0693e7e538c4e1f3"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDI="
+  },
+  {
+    "name": "2.0.0-alpha01",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/2.0.0-alpha01",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/2.0.0-alpha01",
+    "commit": {
+      "sha": "83d42684416a1b749162d00d7267b24163e73665",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/83d42684416a1b749162d00d7267b24163e73665"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzIuMC4wLWFscGhhMDE="
+  },
+  {
+    "name": "1.4.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.4.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.4.4",
+    "commit": {
+      "sha": "aae5a7c68cdc4c9c3aa9e41e7fc487be701de7a4",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/aae5a7c68cdc4c9c3aa9e41e7fc487be701de7a4"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuNC40"
+  },
+  {
+    "name": "1.4.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.4.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.4.0",
+    "commit": {
+      "sha": "7eb55d3b93f7112ac25f7b0a6db4f0c22252ebd5",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/7eb55d3b93f7112ac25f7b0a6db4f0c22252ebd5"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuNC4w"
+  },
+  {
+    "name": "1.3.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.3.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.3.4",
+    "commit": {
+      "sha": "c48dad3592da5bde291041a85048393840bd6b33",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/c48dad3592da5bde291041a85048393840bd6b33"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMy40"
+  },
+  {
+    "name": "1.3.3",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.3.3",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.3.3",
+    "commit": {
+      "sha": "51a25bc48ec3ceaee7821f492f0d96c6958bb149",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/51a25bc48ec3ceaee7821f492f0d96c6958bb149"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMy4z"
+  },
+  {
+    "name": "1.3.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.3.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.3.1",
+    "commit": {
+      "sha": "cde3a1b4f173d5ba639d950d7ffb627ede3907c7",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/cde3a1b4f173d5ba639d950d7ffb627ede3907c7"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMy4x"
+  },
+  {
+    "name": "1.2.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.2.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.2.0",
+    "commit": {
+      "sha": "9dca4dc9a506d2e9c47f185464daa28529b83d57",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/9dca4dc9a506d2e9c47f185464daa28529b83d57"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMi4w"
+  },
+  {
+    "name": "1.1.12",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.12",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.12",
+    "commit": {
+      "sha": "d724289b580238d267d884b3cd582163855334c1",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/d724289b580238d267d884b3cd582163855334c1"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS4xMg=="
+  },
+  {
+    "name": "1.1.11",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.11",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.11",
+    "commit": {
+      "sha": "0f201f80a183d159c513e16913a6ccd0e8e263b5",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/0f201f80a183d159c513e16913a6ccd0e8e263b5"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS4xMQ=="
+  },
+  {
+    "name": "1.1.10",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.10",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.10",
+    "commit": {
+      "sha": "4911f9f8d8c9268a026c83b67452598a8e794b55",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/4911f9f8d8c9268a026c83b67452598a8e794b55"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS4xMA=="
+  },
+  {
+    "name": "1.1.9",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.9",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.9",
+    "commit": {
+      "sha": "673d863a30363e28dedc598cbd7f847274ebd062",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/673d863a30363e28dedc598cbd7f847274ebd062"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS45"
+  },
+  {
+    "name": "1.1.8",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.8",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.8",
+    "commit": {
+      "sha": "7066ff949d244eaf6994db7edde94ad2112ab9d3",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/7066ff949d244eaf6994db7edde94ad2112ab9d3"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS44"
+  },
+  {
+    "name": "1.1.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.6",
+    "commit": {
+      "sha": "ef3f63eab2ade62686f21f9d3f68b022efcd1161",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/ef3f63eab2ade62686f21f9d3f68b022efcd1161"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS42"
+  },
+  {
+    "name": "1.1.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.5",
+    "commit": {
+      "sha": "f19384377fcc9937605d161be8fa4c8f05d4194d",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/f19384377fcc9937605d161be8fa4c8f05d4194d"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS41"
+  },
+  {
+    "name": "1.1.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.4",
+    "commit": {
+      "sha": "e23da796d77defe03c222419d643206ea9260ff4",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/e23da796d77defe03c222419d643206ea9260ff4"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS40"
+  },
+  {
+    "name": "1.1.3",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.3",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.3",
+    "commit": {
+      "sha": "e1e07bbfabdb57a0e2c662756f2bb1c3c7008ae2",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/e1e07bbfabdb57a0e2c662756f2bb1c3c7008ae2"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS4z"
+  },
+  {
+    "name": "1.1.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.1.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.1.0",
+    "commit": {
+      "sha": "047b6d04348046540343070ce7d864ff32851364",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/047b6d04348046540343070ce7d864ff32851364"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMS4w"
+  },
+  {
+    "name": "1.0.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.0.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.0.6",
+    "commit": {
+      "sha": "2626d7e232313c6c3bf2981c0b9f062d734eeea8",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/2626d7e232313c6c3bf2981c0b9f062d734eeea8"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMC42"
+  },
+  {
+    "name": "1.0.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.0.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.0.5",
+    "commit": {
+      "sha": "f9e74cbe5bd3b07b09146943d416395a9fc4067a",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/f9e74cbe5bd3b07b09146943d416395a9fc4067a"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMC41"
+  },
+  {
+    "name": "1.0.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/QMUI_Android/zipball/refs/tags/1.0.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/QMUI_Android/tarball/refs/tags/1.0.4",
+    "commit": {
+      "sha": "eaf70d5090ff15759f627beaef3fedf2184b534c",
+      "url": "https://api.github.com/repos/Tencent/QMUI_Android/commits/eaf70d5090ff15759f627beaef3fedf2184b534c"
+    },
+    "node_id": "MDM6UmVmODg5NzA1NjQ6cmVmcy90YWdzLzEuMC40"
+  }
+]

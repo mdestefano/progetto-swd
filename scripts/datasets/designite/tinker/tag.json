@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.9.14.15",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.15",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.15",
+    "commit": {
+      "sha": "7850986b985cae1c65d976d432d31f30f5b78db9",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/7850986b985cae1c65d976d432d31f30f5b78db9"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTU="
+  },
+  {
+    "name": "v1.9.14.14",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.14",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.14",
+    "commit": {
+      "sha": "f546629213ff0a046a0d30568eea370b6a3fc53a",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/f546629213ff0a046a0d30568eea370b6a3fc53a"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTQ="
+  },
+  {
+    "name": "v1.9.14.13",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.13",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.13",
+    "commit": {
+      "sha": "1d3664f7f8b761b768525cbb1553679c8b83d468",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/1d3664f7f8b761b768525cbb1553679c8b83d468"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTM="
+  },
+  {
+    "name": "v1.9.14.12",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.12",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.12",
+    "commit": {
+      "sha": "c39c68d240190277f9d8c4157e01d59a69280d0c",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/c39c68d240190277f9d8c4157e01d59a69280d0c"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTI="
+  },
+  {
+    "name": "v1.9.14.11",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.11",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.11",
+    "commit": {
+      "sha": "b185e526beae684e7ce6d21e9e70a4f88c063546",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/b185e526beae684e7ce6d21e9e70a4f88c063546"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTE="
+  },
+  {
+    "name": "v1.9.14.10",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.10",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.10",
+    "commit": {
+      "sha": "8b6db9cfec1d36bfc5fd05434ccf5eb7ca8dd363",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/8b6db9cfec1d36bfc5fd05434ccf5eb7ca8dd363"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMTA="
+  },
+  {
+    "name": "v1.9.14.9",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.9",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.9",
+    "commit": {
+      "sha": "6f187d299977cc892932902a2f0280bced064ab5",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/6f187d299977cc892932902a2f0280bced064ab5"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuOQ=="
+  },
+  {
+    "name": "v1.9.14.8",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.8",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.8",
+    "commit": {
+      "sha": "f4484cdf5ee7e40e5dfb5216c93638642dbba31e",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/f4484cdf5ee7e40e5dfb5216c93638642dbba31e"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuOA=="
+  },
+  {
+    "name": "v1.9.14.7",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.7",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.7",
+    "commit": {
+      "sha": "05e689a38e4e4690a078af8460f59c44bb033cfb",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/05e689a38e4e4690a078af8460f59c44bb033cfb"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuNw=="
+  },
+  {
+    "name": "v1.9.14.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.6",
+    "commit": {
+      "sha": "dca59ee21847d7066d8925c4eae46754cd8bbb31",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/dca59ee21847d7066d8925c4eae46754cd8bbb31"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuNg=="
+  },
+  {
+    "name": "v1.9.14.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.5",
+    "commit": {
+      "sha": "2b325e2a6972c5e8364d254edcf19047d18f14c7",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/2b325e2a6972c5e8364d254edcf19047d18f14c7"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuNQ=="
+  },
+  {
+    "name": "v1.9.14.3",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14.3",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14.3",
+    "commit": {
+      "sha": "a3ab753fe67bda79dac4c30a680b9bedc1d899de",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/a3ab753fe67bda79dac4c30a680b9bedc1d899de"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQuMw=="
+  },
+  {
+    "name": "v1.9.14",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.14",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.14",
+    "commit": {
+      "sha": "5b94a8d950c023b64023803487c508fb186e6dc5",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/5b94a8d950c023b64023803487c508fb186e6dc5"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTQ="
+  },
+  {
+    "name": "v1.9.13.2",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.13.2",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.13.2",
+    "commit": {
+      "sha": "31eff5d0c3293e1f48e330ee4176632838d220b3",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/31eff5d0c3293e1f48e330ee4176632838d220b3"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTMuMg=="
+  },
+  {
+    "name": "v1.9.13.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.13.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.13.1",
+    "commit": {
+      "sha": "0b947368f3d169bf293756a370d34703773e6976",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/0b947368f3d169bf293756a370d34703773e6976"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTMuMQ=="
+  },
+  {
+    "name": "v1.9.13",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.13",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.13",
+    "commit": {
+      "sha": "7b3f57eb4621b1cadc872a152492543a1f694fe1",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/7b3f57eb4621b1cadc872a152492543a1f694fe1"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTM="
+  },
+  {
+    "name": "v1.9.12",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.12",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.12",
+    "commit": {
+      "sha": "d1e388175f9fd705ee2bd757ccb22a13869c8b59",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/d1e388175f9fd705ee2bd757ccb22a13869c8b59"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTI="
+  },
+  {
+    "name": "v1.9.11",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.11",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.11",
+    "commit": {
+      "sha": "0a2ebb98c9acb70a8f95f7d0847f87a88ff80e2d",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/0a2ebb98c9acb70a8f95f7d0847f87a88ff80e2d"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMTE="
+  },
+  {
+    "name": "v1.9.9",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.9",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.9",
+    "commit": {
+      "sha": "d47a12a372c89365e2aa2481ba7d0a32409b607b",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/d47a12a372c89365e2aa2481ba7d0a32409b607b"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuOQ=="
+  },
+  {
+    "name": "v1.9.8",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.8",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.8",
+    "commit": {
+      "sha": "df6b1df4ade7ded51d725ad3577bb8bffe64a497",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/df6b1df4ade7ded51d725ad3577bb8bffe64a497"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuOA=="
+  },
+  {
+    "name": "v1.9.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.6",
+    "commit": {
+      "sha": "e2f7bd9988887a6c3f0e98e5144522aa1b93caa9",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/e2f7bd9988887a6c3f0e98e5144522aa1b93caa9"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuNg=="
+  },
+  {
+    "name": "v1.9.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.5",
+    "commit": {
+      "sha": "5d48d7dfbd82e36b3113265052718c74d2d9046d",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/5d48d7dfbd82e36b3113265052718c74d2d9046d"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuNQ=="
+  },
+  {
+    "name": "v1.9.4.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.4.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.4.1",
+    "commit": {
+      "sha": "97f1608b05dd9945ff6960c5ba53f1e90f751f6d",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/97f1608b05dd9945ff6960c5ba53f1e90f751f6d"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuNC4x"
+  },
+  {
+    "name": "v1.9.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.4",
+    "commit": {
+      "sha": "a823032e7339392697ba3e5f5fb69030316f530c",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/a823032e7339392697ba3e5f5fb69030316f530c"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuNA=="
+  },
+  {
+    "name": "v1.9.2",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.2",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.2",
+    "commit": {
+      "sha": "dd54a7010a06d298f513b5dadf9ca7e5b52dd5e8",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/dd54a7010a06d298f513b5dadf9ca7e5b52dd5e8"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMg=="
+  },
+  {
+    "name": "v1.9.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.1",
+    "commit": {
+      "sha": "d0fe056453adbc7418256600314fe128124fb89b",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/d0fe056453adbc7418256600314fe128124fb89b"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMQ=="
+  },
+  {
+    "name": "v1.9.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.9.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.9.0",
+    "commit": {
+      "sha": "9097c96b4144fb89ce874f8b374506c84e91baf5",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/9097c96b4144fb89ce874f8b374506c84e91baf5"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjkuMA=="
+  },
+  {
+    "name": "v1.8.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.8.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.8.1",
+    "commit": {
+      "sha": "d52d2254873cecd95b8e2f1f0f1c7b13d9fccf8a",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/d52d2254873cecd95b8e2f1f0f1c7b13d9fccf8a"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjguMQ=="
+  },
+  {
+    "name": "v1.8.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.8.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.8.0",
+    "commit": {
+      "sha": "6c4a856a8aa851adc79ea9a4a1f518f157075244",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/6c4a856a8aa851adc79ea9a4a1f518f157075244"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjguMA=="
+  },
+  {
+    "name": "v1.7.11",
+    "zipball_url": "https://api.github.com/repos/Tencent/tinker/zipball/refs/tags/v1.7.11",
+    "tarball_url": "https://api.github.com/repos/Tencent/tinker/tarball/refs/tags/v1.7.11",
+    "commit": {
+      "sha": "54582055e11d85c1c18453f25df94ab8a8e552bd",
+      "url": "https://api.github.com/repos/Tencent/tinker/commits/54582055e11d85c1c18453f25df94ab8a8e552bd"
+    },
+    "node_id": "MDM6UmVmNjc0ODE5ODY6cmVmcy90YWdzL3YxLjcuMTE="
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v5.3.5",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.5",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.5",
+    "commit": {
+      "sha": "7c2a72c9b43d066ae9e71d4f39d7bab8f6d9c2ff",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/7c2a72c9b43d066ae9e71d4f39d7bab8f6d9c2ff"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy41"
+  },
+  {
+    "name": "v5.3.4",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.4",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.4",
+    "commit": {
+      "sha": "d9a9686b453e9813d9d50b0298957beeed7be119",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/d9a9686b453e9813d9d50b0298957beeed7be119"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy40"
+  },
+  {
+    "name": "v5.3.3",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.3",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.3",
+    "commit": {
+      "sha": "91509805b759a108d7eca0b6b3041c434c61d837",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/91509805b759a108d7eca0b6b3041c434c61d837"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4z"
+  },
+  {
+    "name": "v5.3.2",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.2",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.2",
+    "commit": {
+      "sha": "6ffc44db78e73fd9e9a8360bdfabbb96b9548e42",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/6ffc44db78e73fd9e9a8360bdfabbb96b9548e42"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4y"
+  },
+  {
+    "name": "v5.3.1",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.1",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.1",
+    "commit": {
+      "sha": "967637d7636204484e37c26fa25e2f4ec8b5dba9",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/967637d7636204484e37c26fa25e2f4ec8b5dba9"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4x"
+  },
+  {
+    "name": "v5.3.0",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.0",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.0",
+    "commit": {
+      "sha": "5acffaa72da10ba42fe547eeea44d8615cbf99b9",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/5acffaa72da10ba42fe547eeea44d8615cbf99b9"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4w"
+  },
+  {
+    "name": "v5.3.0-RC2",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.0-RC2",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.0-RC2",
+    "commit": {
+      "sha": "c2ac93dec34139012759a1b3b7bfe8bd946366cf",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/c2ac93dec34139012759a1b3b7bfe8bd946366cf"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4wLVJDMg=="
+  },
+  {
+    "name": "v5.3.0-RC1",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.0-RC1",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.0-RC1",
+    "commit": {
+      "sha": "f932ff48c6b7ecdc4874cb1a44fc7dcf10fd202f",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/f932ff48c6b7ecdc4874cb1a44fc7dcf10fd202f"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4wLVJDMQ=="
+  },
+  {
+    "name": "v5.3.0-M2",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.0-M2",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.0-M2",
+    "commit": {
+      "sha": "a4dc13a0435484d5704e72a94a4e41c690afb381",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/a4dc13a0435484d5704e72a94a4e41c690afb381"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4wLU0y"
+  },
+  {
+    "name": "v5.3.0-M1",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.3.0-M1",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.3.0-M1",
+    "commit": {
+      "sha": "ed381b49480fb2494369f897673e6249f9d2e058",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/ed381b49480fb2494369f897673e6249f9d2e058"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMy4wLU0x"
+  },
+  {
+    "name": "v5.2.13.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.13.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.13.RELEASE",
+    "commit": {
+      "sha": "5d85e7f81e55b9e9a92543ba4d6424ff88dfecd9",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/5d85e7f81e55b9e9a92543ba4d6424ff88dfecd9"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4xMy5SRUxFQVNF"
+  },
+  {
+    "name": "v5.2.12.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.12.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.12.RELEASE",
+    "commit": {
+      "sha": "1c5e9faf900fbd48c580d2284d6ec3e9e4e385d1",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/1c5e9faf900fbd48c580d2284d6ec3e9e4e385d1"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4xMi5SRUxFQVNF"
+  },
+  {
+    "name": "v5.2.11.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.11.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.11.RELEASE",
+    "commit": {
+      "sha": "41fd015eed6b8e8fea00b162be052a6b61f85aec",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/41fd015eed6b8e8fea00b162be052a6b61f85aec"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4xMS5SRUxFQVNF"
+  },
+  {
+    "name": "v5.2.10.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.10.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.10.RELEASE",
+    "commit": {
+      "sha": "46465859ce9531f0f16faf1df46d91c77e04cb71",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/46465859ce9531f0f16faf1df46d91c77e04cb71"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4xMC5SRUxFQVNF"
+  },
+  {
+    "name": "v5.2.9.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.9.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.9.RELEASE",
+    "commit": {
+      "sha": "69921b49a5836e412ffcd1ea2c7e20d41f0c0fd6",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/69921b49a5836e412ffcd1ea2c7e20d41f0c0fd6"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi45LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.8.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.8.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.8.RELEASE",
+    "commit": {
+      "sha": "c23b1bd6afb529125ee8ad8df64e172cf4c65f31",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/c23b1bd6afb529125ee8ad8df64e172cf4c65f31"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi44LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.7.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.7.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.7.RELEASE",
+    "commit": {
+      "sha": "6110925ecc54b5d5e9eda528938672e384c2a152",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/6110925ecc54b5d5e9eda528938672e384c2a152"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi43LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.6.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.6.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.6.RELEASE",
+    "commit": {
+      "sha": "b6d61062735b372a9daa8fa9078bef59bc4d8973",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/b6d61062735b372a9daa8fa9078bef59bc4d8973"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi42LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.5.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.5.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.5.RELEASE",
+    "commit": {
+      "sha": "c08e31b7d613bf91cbe2beac2dad66714403faee",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/c08e31b7d613bf91cbe2beac2dad66714403faee"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi41LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.4.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.4.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.4.RELEASE",
+    "commit": {
+      "sha": "9c0f62ca867266584502b8adf5f24ddaa9444a3a",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/9c0f62ca867266584502b8adf5f24ddaa9444a3a"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi40LlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.3.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.3.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.3.RELEASE",
+    "commit": {
+      "sha": "0ddc62e87f9e0c9fb664ba085bcdf7ca61e697dd",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/0ddc62e87f9e0c9fb664ba085bcdf7ca61e697dd"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4zLlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.2.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.2.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.2.RELEASE",
+    "commit": {
+      "sha": "4596701e9ffb03e931adaac97c45de02a95d834d",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/4596701e9ffb03e931adaac97c45de02a95d834d"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4yLlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.1.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.1.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.1.RELEASE",
+    "commit": {
+      "sha": "21d751d22202c6df2d0144b155979c37b45fb167",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/21d751d22202c6df2d0144b155979c37b45fb167"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4xLlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.0.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.RELEASE",
+    "commit": {
+      "sha": "927b8c15ef20eaaa4002d4b2170cc536a6d6aa35",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/927b8c15ef20eaaa4002d4b2170cc536a6d6aa35"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLlJFTEVBU0U="
+  },
+  {
+    "name": "v5.2.0.RC2",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.RC2",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.RC2",
+    "commit": {
+      "sha": "3f9d426d04d3f74cde4187b6eac4abc70ab4480b",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/3f9d426d04d3f74cde4187b6eac4abc70ab4480b"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLlJDMg=="
+  },
+  {
+    "name": "v5.2.0.RC1",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.RC1",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.RC1",
+    "commit": {
+      "sha": "470e9b859467b90c8b191bb6063eb1aab7aae4db",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/470e9b859467b90c8b191bb6063eb1aab7aae4db"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLlJDMQ=="
+  },
+  {
+    "name": "v5.2.0.M3",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.M3",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.M3",
+    "commit": {
+      "sha": "fa56bcd45eb7f4176e9f6995c62b021d8022f4ad",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/fa56bcd45eb7f4176e9f6995c62b021d8022f4ad"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLk0z"
+  },
+  {
+    "name": "v5.2.0.M2",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.M2",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.M2",
+    "commit": {
+      "sha": "4c083093d88559b46fadcbec8bb0a59d213a1614",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/4c083093d88559b46fadcbec8bb0a59d213a1614"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLk0y"
+  },
+  {
+    "name": "v5.2.0.M1",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.2.0.M1",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.2.0.M1",
+    "commit": {
+      "sha": "66c295ef222027b98612c8e3a21cfef4a869fbf6",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/66c295ef222027b98612c8e3a21cfef4a869fbf6"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMi4wLk0x"
+  },
+  {
+    "name": "v5.1.20.RELEASE",
+    "zipball_url": "https://api.github.com/repos/spring-projects/spring-framework/zipball/refs/tags/v5.1.20.RELEASE",
+    "tarball_url": "https://api.github.com/repos/spring-projects/spring-framework/tarball/refs/tags/v5.1.20.RELEASE",
+    "commit": {
+      "sha": "965eee7bbfc454a6e5b304de254822743248c47c",
+      "url": "https://api.github.com/repos/spring-projects/spring-framework/commits/965eee7bbfc454a6e5b304de254822743248c47c"
+    },
+    "node_id": "MDM6UmVmMTE0ODc1MzpyZWZzL3RhZ3MvdjUuMS4yMC5SRUxFQVNF"
+  }
+]
