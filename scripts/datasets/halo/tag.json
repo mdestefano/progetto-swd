@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.4.7",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.7",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.7",
+    "commit": {
+      "sha": "30c50f61f874301105b1810afb3daa7979ab5ab9",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/30c50f61f874301105b1810afb3daa7979ab5ab9"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40Ljc="
+  },
+  {
+    "name": "v1.4.7-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.7-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.7-beta.1",
+    "commit": {
+      "sha": "a72131de85f3c5ffee6df7b32105bc5288209dee",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/a72131de85f3c5ffee6df7b32105bc5288209dee"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjctYmV0YS4x"
+  },
+  {
+    "name": "v1.4.6",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.6",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.6",
+    "commit": {
+      "sha": "8e9f8007caa7dce3390bdf35005276abbd508bd2",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/8e9f8007caa7dce3390bdf35005276abbd508bd2"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjY="
+  },
+  {
+    "name": "v1.4.5",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.5",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.5",
+    "commit": {
+      "sha": "b591595541c23ddc6d0b01aeafb6cb79a2050a65",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/b591595541c23ddc6d0b01aeafb6cb79a2050a65"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjU="
+  },
+  {
+    "name": "v1.4.4",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.4",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.4",
+    "commit": {
+      "sha": "d50930599865ced299d68ee1efe262806edcd66a",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/d50930599865ced299d68ee1efe262806edcd66a"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjQ="
+  },
+  {
+    "name": "v1.4.3",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.3",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.3",
+    "commit": {
+      "sha": "a854adf53a4922c026c34cc378688b62edbb6e2c",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/a854adf53a4922c026c34cc378688b62edbb6e2c"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjM="
+  },
+  {
+    "name": "v1.4.3-beta.3",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.3-beta.3",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.3-beta.3",
+    "commit": {
+      "sha": "d4b0e097cb0a24ac990244be3cabfd9da80ba903",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/d4b0e097cb0a24ac990244be3cabfd9da80ba903"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjMtYmV0YS4z"
+  },
+  {
+    "name": "v1.4.3-beta.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.3-beta.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.3-beta.2",
+    "commit": {
+      "sha": "305b62c0e4e274c4169d5b03a28a750b7084eec0",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/305b62c0e4e274c4169d5b03a28a750b7084eec0"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjMtYmV0YS4y"
+  },
+  {
+    "name": "v1.4.3-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.3-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.3-beta.1",
+    "commit": {
+      "sha": "d1258c831d4ab16a6df83d63204eb6056193ca5c",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/d1258c831d4ab16a6df83d63204eb6056193ca5c"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjMtYmV0YS4x"
+  },
+  {
+    "name": "v1.4.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.2",
+    "commit": {
+      "sha": "fa3fad172523d04d6ebf7e5ee3ca851d77482b7d",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/fa3fad172523d04d6ebf7e5ee3ca851d77482b7d"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjI="
+  },
+  {
+    "name": "v1.4.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.1",
+    "commit": {
+      "sha": "5828516733bc9b16d83ef0e7a322b579aa1611e4",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/5828516733bc9b16d83ef0e7a322b579aa1611e4"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjE="
+  },
+  {
+    "name": "v1.4.0",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.0",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.0",
+    "commit": {
+      "sha": "a69168e764f4e1e0fb19f5ef3764ee0da4843c59",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/a69168e764f4e1e0fb19f5ef3764ee0da4843c59"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjA="
+  },
+  {
+    "name": "v1.4.0-beta.3",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.0-beta.3",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.0-beta.3",
+    "commit": {
+      "sha": "dd4c6025260972027a8b010740834be0aae7782b",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/dd4c6025260972027a8b010740834be0aae7782b"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjAtYmV0YS4z"
+  },
+  {
+    "name": "v1.4.0-beta.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.0-beta.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.0-beta.2",
+    "commit": {
+      "sha": "782079dc9f90022731e2553d9f5152af6e068aab",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/782079dc9f90022731e2553d9f5152af6e068aab"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjAtYmV0YS4y"
+  },
+  {
+    "name": "v1.4.0-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.4.0-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.4.0-beta.1",
+    "commit": {
+      "sha": "46000fd0d0126a932a2334a6c5ff9ebc267a5b7e",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/46000fd0d0126a932a2334a6c5ff9ebc267a5b7e"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS40LjAtYmV0YS4x"
+  },
+  {
+    "name": "v1.3.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.2",
+    "commit": {
+      "sha": "9f65092b7475c0dff99c3c00e7b5b42ebc29479d",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/9f65092b7475c0dff99c3c00e7b5b42ebc29479d"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjI="
+  },
+  {
+    "name": "v1.3.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.1",
+    "commit": {
+      "sha": "c35341199714355a8fe909d6baa79150157c84bd",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/c35341199714355a8fe909d6baa79150157c84bd"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjE="
+  },
+  {
+    "name": "v1.3.0",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.0",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.0",
+    "commit": {
+      "sha": "89dc411b0fb8ff1e969e6d546a2a2cfc0df78f91",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/89dc411b0fb8ff1e969e6d546a2a2cfc0df78f91"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjA="
+  },
+  {
+    "name": "v1.3.0-beta.4",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.0-beta.4",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.0-beta.4",
+    "commit": {
+      "sha": "8f2894a2a406ed7e1ecf0d89a7ea0db29a426ddf",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/8f2894a2a406ed7e1ecf0d89a7ea0db29a426ddf"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjAtYmV0YS40"
+  },
+  {
+    "name": "v1.3.0-beta.3",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.0-beta.3",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.0-beta.3",
+    "commit": {
+      "sha": "8eac5716f119bbefd790de281356247b4350f6b7",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/8eac5716f119bbefd790de281356247b4350f6b7"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjAtYmV0YS4z"
+  },
+  {
+    "name": "v1.3.0-beta.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.0-beta.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.0-beta.2",
+    "commit": {
+      "sha": "378049ba21a1dcdc7180cb4ae85ee74396638869",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/378049ba21a1dcdc7180cb4ae85ee74396638869"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjAtYmV0YS4y"
+  },
+  {
+    "name": "v1.3.0-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.3.0-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.3.0-beta.1",
+    "commit": {
+      "sha": "7166829d8731e52bc1af5d03a2bf6ec3cb83ff44",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/7166829d8731e52bc1af5d03a2bf6ec3cb83ff44"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4zLjAtYmV0YS4x"
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "2203889fe70e6ca21937f1e38c9b1bce7ef36910",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/2203889fe70e6ca21937f1e38c9b1bce7ef36910"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjA="
+  },
+  {
+    "name": "v1.2.0-beta.5",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0-beta.5",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0-beta.5",
+    "commit": {
+      "sha": "28b4d384ddc8c87a8747bd640928209957bc0da7",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/28b4d384ddc8c87a8747bd640928209957bc0da7"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjAtYmV0YS41"
+  },
+  {
+    "name": "v1.2.0-beta.4",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0-beta.4",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0-beta.4",
+    "commit": {
+      "sha": "86e61036c6ed3169b0a93098fdd8073d5e9ce900",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/86e61036c6ed3169b0a93098fdd8073d5e9ce900"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjAtYmV0YS40"
+  },
+  {
+    "name": "v1.2.0-beta.3",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0-beta.3",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0-beta.3",
+    "commit": {
+      "sha": "90757f6555e6339fb72cdc193e7d2c56f97eab82",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/90757f6555e6339fb72cdc193e7d2c56f97eab82"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjAtYmV0YS4z"
+  },
+  {
+    "name": "v1.2.0-beta.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0-beta.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0-beta.2",
+    "commit": {
+      "sha": "308aefacca5d5d1d7b01a751bfa41d83ff2d1d66",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/308aefacca5d5d1d7b01a751bfa41d83ff2d1d66"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjAtYmV0YS4y"
+  },
+  {
+    "name": "v1.2.0-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.2.0-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.2.0-beta.1",
+    "commit": {
+      "sha": "514dfcf5dc5fdad8a4c7d2d502f2af77a3f8fbde",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/514dfcf5dc5fdad8a4c7d2d502f2af77a3f8fbde"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4yLjAtYmV0YS4x"
+  },
+  {
+    "name": "v1.1.3-beta.2",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.1.3-beta.2",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.1.3-beta.2",
+    "commit": {
+      "sha": "ee6e5d52be1f9ab72199100885d8cb75230214b7",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/ee6e5d52be1f9ab72199100885d8cb75230214b7"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4xLjMtYmV0YS4y"
+  },
+  {
+    "name": "v1.1.3-beta.1",
+    "zipball_url": "https://api.github.com/repos/halo-dev/halo/zipball/refs/tags/v1.1.3-beta.1",
+    "tarball_url": "https://api.github.com/repos/halo-dev/halo/tarball/refs/tags/v1.1.3-beta.1",
+    "commit": {
+      "sha": "406ced57f53000efd4b710a6c92e829b4685458a",
+      "url": "https://api.github.com/repos/halo-dev/halo/commits/406ced57f53000efd4b710a6c92e829b4685458a"
+    },
+    "node_id": "MDM6UmVmMTI2MTc4NjgzOnJlZnMvdGFncy92MS4xLjMtYmV0YS4x"
+  }
+]
