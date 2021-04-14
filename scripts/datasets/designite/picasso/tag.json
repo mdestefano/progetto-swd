@@ -1,0 +1,222 @@
+[
+  {
+    "name": "picasso-parent-2.5.2",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.5.2",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.5.2",
+    "commit": {
+      "sha": "6930ff127ed59bb8a51d4fcd9a836514922b8c00",
+      "url": "https://api.github.com/repos/square/picasso/commits/6930ff127ed59bb8a51d4fcd9a836514922b8c00"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuNS4y"
+  },
+  {
+    "name": "picasso-parent-2.5.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.5.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.5.1",
+    "commit": {
+      "sha": "f0b17379ec28126c0c74d0b16c5209595b19964b",
+      "url": "https://api.github.com/repos/square/picasso/commits/f0b17379ec28126c0c74d0b16c5209595b19964b"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuNS4x"
+  },
+  {
+    "name": "picasso-parent-2.5.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.5.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.5.0",
+    "commit": {
+      "sha": "a98d695c7fe686501173aed48aba7b5cca6c3b6d",
+      "url": "https://api.github.com/repos/square/picasso/commits/a98d695c7fe686501173aed48aba7b5cca6c3b6d"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuNS4w"
+  },
+  {
+    "name": "picasso-parent-2.4.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.4.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.4.0",
+    "commit": {
+      "sha": "4a8cf5bb3a71b19404058e3e25903f5d650abddc",
+      "url": "https://api.github.com/repos/square/picasso/commits/4a8cf5bb3a71b19404058e3e25903f5d650abddc"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuNC4w"
+  },
+  {
+    "name": "picasso-parent-2.3.4",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.3.4",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.3.4",
+    "commit": {
+      "sha": "c1d60eea6cf7116fa547e573d992794a7ba82414",
+      "url": "https://api.github.com/repos/square/picasso/commits/c1d60eea6cf7116fa547e573d992794a7ba82414"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMy40"
+  },
+  {
+    "name": "picasso-parent-2.3.3",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.3.3",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.3.3",
+    "commit": {
+      "sha": "79e707cd294af5f6639a8b0bfd3a3dcb96d8cac1",
+      "url": "https://api.github.com/repos/square/picasso/commits/79e707cd294af5f6639a8b0bfd3a3dcb96d8cac1"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMy4z"
+  },
+  {
+    "name": "picasso-parent-2.3.2",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.3.2",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.3.2",
+    "commit": {
+      "sha": "4daee1501b2ffa834a81d6c0bb63d152d56bab19",
+      "url": "https://api.github.com/repos/square/picasso/commits/4daee1501b2ffa834a81d6c0bb63d152d56bab19"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMy4y"
+  },
+  {
+    "name": "picasso-parent-2.3.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.3.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.3.1",
+    "commit": {
+      "sha": "7d09fac5368a81cadca2ab85142fe8b13680f8b9",
+      "url": "https://api.github.com/repos/square/picasso/commits/7d09fac5368a81cadca2ab85142fe8b13680f8b9"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMy4x"
+  },
+  {
+    "name": "picasso-parent-2.3.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.3.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.3.0",
+    "commit": {
+      "sha": "7417b447437066c0ae9ca4d3e5f8bcb9747950c8",
+      "url": "https://api.github.com/repos/square/picasso/commits/7417b447437066c0ae9ca4d3e5f8bcb9747950c8"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMy4w"
+  },
+  {
+    "name": "picasso-parent-2.2.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.2.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.2.0",
+    "commit": {
+      "sha": "8502aedf074eb0a0c14aa9a10e915520fbfa43ac",
+      "url": "https://api.github.com/repos/square/picasso/commits/8502aedf074eb0a0c14aa9a10e915520fbfa43ac"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMi4w"
+  },
+  {
+    "name": "picasso-parent-2.1.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.1.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.1.1",
+    "commit": {
+      "sha": "27d48ec5f59f94614ec9659f0dc753b492012b97",
+      "url": "https://api.github.com/repos/square/picasso/commits/27d48ec5f59f94614ec9659f0dc753b492012b97"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMS4x"
+  },
+  {
+    "name": "picasso-parent-2.1.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.1.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.1.0",
+    "commit": {
+      "sha": "deb57e91c8866619d039cfdd48d35a45f516a72b",
+      "url": "https://api.github.com/repos/square/picasso/commits/deb57e91c8866619d039cfdd48d35a45f516a72b"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMS4w"
+  },
+  {
+    "name": "picasso-parent-2.0.2",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.0.2",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.0.2",
+    "commit": {
+      "sha": "5c9c2838e1ca2471e61d0015eb185f837532bd3c",
+      "url": "https://api.github.com/repos/square/picasso/commits/5c9c2838e1ca2471e61d0015eb185f837532bd3c"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMC4y"
+  },
+  {
+    "name": "picasso-parent-2.0.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.0.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.0.1",
+    "commit": {
+      "sha": "8ad1ef2d5c6ef4287703f6b0847ec6ff2e91c5bd",
+      "url": "https://api.github.com/repos/square/picasso/commits/8ad1ef2d5c6ef4287703f6b0847ec6ff2e91c5bd"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMC4x"
+  },
+  {
+    "name": "picasso-parent-2.0.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-2.0.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-2.0.0",
+    "commit": {
+      "sha": "6d63733e760d6e3454ae736f8f46a670bb064504",
+      "url": "https://api.github.com/repos/square/picasso/commits/6d63733e760d6e3454ae736f8f46a670bb064504"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTIuMC4w"
+  },
+  {
+    "name": "picasso-parent-1.1.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-1.1.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-1.1.1",
+    "commit": {
+      "sha": "7ca6b211c392b662350d1aa67b03b0c5e6b9579a",
+      "url": "https://api.github.com/repos/square/picasso/commits/7ca6b211c392b662350d1aa67b03b0c5e6b9579a"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTEuMS4x"
+  },
+  {
+    "name": "picasso-parent-1.1.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-1.1.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-1.1.0",
+    "commit": {
+      "sha": "efa5ddf08d3ecd34b6a361714319cbc42729592f",
+      "url": "https://api.github.com/repos/square/picasso/commits/efa5ddf08d3ecd34b6a361714319cbc42729592f"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTEuMS4w"
+  },
+  {
+    "name": "picasso-parent-1.0.2",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-1.0.2",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-1.0.2",
+    "commit": {
+      "sha": "fe50131a97e8bd28c84b9d091943b45faa6fbc6d",
+      "url": "https://api.github.com/repos/square/picasso/commits/fe50131a97e8bd28c84b9d091943b45faa6fbc6d"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTEuMC4y"
+  },
+  {
+    "name": "picasso-parent-1.0.1",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-1.0.1",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-1.0.1",
+    "commit": {
+      "sha": "be18f84e1c21f6287f29b2052aa4a7a36f24bd82",
+      "url": "https://api.github.com/repos/square/picasso/commits/be18f84e1c21f6287f29b2052aa4a7a36f24bd82"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTEuMC4x"
+  },
+  {
+    "name": "picasso-parent-1.0.0",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/picasso-parent-1.0.0",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/picasso-parent-1.0.0",
+    "commit": {
+      "sha": "dea2e24767ad0c07b88c88b7c7553d2c5045e9f7",
+      "url": "https://api.github.com/repos/square/picasso/commits/dea2e24767ad0c07b88c88b7c7553d2c5045e9f7"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzL3BpY2Fzc28tcGFyZW50LTEuMC4w"
+  },
+  {
+    "name": "2.71828",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/2.71828",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/2.71828",
+    "commit": {
+      "sha": "677386d0dab0afc2366ee22f14075cddeff8082c",
+      "url": "https://api.github.com/repos/square/picasso/commits/677386d0dab0afc2366ee22f14075cddeff8082c"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzLzIuNzE4Mjg="
+  },
+  {
+    "name": "2.8",
+    "zipball_url": "https://api.github.com/repos/square/picasso/zipball/refs/tags/2.8",
+    "tarball_url": "https://api.github.com/repos/square/picasso/tarball/refs/tags/2.8",
+    "commit": {
+      "sha": "9accffe107fcc84918d1de106880eb267cc03aa3",
+      "url": "https://api.github.com/repos/square/picasso/commits/9accffe107fcc84918d1de106880eb267cc03aa3"
+    },
+    "node_id": "MDM6UmVmMTAwNTc5MzY6cmVmcy90YWdzLzIuOA=="
+  }
+]

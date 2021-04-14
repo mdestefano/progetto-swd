@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v3.1.0",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.1.0",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.1.0",
+    "commit": {
+      "sha": "0c2ac2d9cc169af2d5a8226d128fe90762f80a52",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/0c2ac2d9cc169af2d5a8226d128fe90762f80a52"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjEuMA=="
+  },
+  {
+    "name": "v3.1.0-alpha",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.1.0-alpha",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.1.0-alpha",
+    "commit": {
+      "sha": "6ce99326aee7232392d1dbd7ec82afac987f3cc8",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/6ce99326aee7232392d1dbd7ec82afac987f3cc8"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjEuMC1hbHBoYQ=="
+  },
+  {
+    "name": "v3.0.3",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.3",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.3",
+    "commit": {
+      "sha": "0868d9bf89ebff78ba8e0108954cc343bc8b711d",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/0868d9bf89ebff78ba8e0108954cc343bc8b711d"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMw=="
+  },
+  {
+    "name": "v3.0.2",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.2",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.2",
+    "commit": {
+      "sha": "557e55653bd7cab2c8f51c1d89ed9b437c35f1da",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/557e55653bd7cab2c8f51c1d89ed9b437c35f1da"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMg=="
+  },
+  {
+    "name": "v3.0.1",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.1",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.1",
+    "commit": {
+      "sha": "08f295eae1279ba69a18184ee4db86f770df0e18",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/08f295eae1279ba69a18184ee4db86f770df0e18"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMQ=="
+  },
+  {
+    "name": "v3.0.0",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.0",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.0",
+    "commit": {
+      "sha": "810c99c579aa99f2b99174b23380272291bd3931",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/810c99c579aa99f2b99174b23380272291bd3931"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMA=="
+  },
+  {
+    "name": "v3.0.0-beta1",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.0-beta1",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.0-beta1",
+    "commit": {
+      "sha": "6d21817c8aed43dae6deb1bf7bb835518ecbe2f6",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/6d21817c8aed43dae6deb1bf7bb835518ecbe2f6"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMC1iZXRhMQ=="
+  },
+  {
+    "name": "v3.0.0-beta",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v3.0.0-beta",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v3.0.0-beta",
+    "commit": {
+      "sha": "0789628197d9b05756a83d179889d37bba2d8abc",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/0789628197d9b05756a83d179889d37bba2d8abc"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YzLjAuMC1iZXRh"
+  },
+  {
+    "name": "v2.2.5",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.2.5",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.2.5",
+    "commit": {
+      "sha": "4ca511c4fd23f603b3f3243cf0567ac6e080cc23",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/4ca511c4fd23f603b3f3243cf0567ac6e080cc23"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjIuNQ=="
+  },
+  {
+    "name": "v2.2.4",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.2.4",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.2.4",
+    "commit": {
+      "sha": "3fd2a8a17bc80a71485d653e94b839896725a39a",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/3fd2a8a17bc80a71485d653e94b839896725a39a"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjIuNA=="
+  },
+  {
+    "name": "v2.2.3",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.2.3",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.2.3",
+    "commit": {
+      "sha": "5f51623993aea7dbdac82842b7a02b3a0e37d460",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/5f51623993aea7dbdac82842b7a02b3a0e37d460"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjIuMw=="
+  },
+  {
+    "name": "v2.2.2",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.2.2",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.2.2",
+    "commit": {
+      "sha": "5bc113680008ff700ae1ad20801e6b359e85af29",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/5bc113680008ff700ae1ad20801e6b359e85af29"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjIuMg=="
+  },
+  {
+    "name": "v2.2.0",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.2.0",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.2.0",
+    "commit": {
+      "sha": "2dee57a0dc64418d648dba9104ffecb5c8667eb3",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/2dee57a0dc64418d648dba9104ffecb5c8667eb3"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjIuMA=="
+  },
+  {
+    "name": "v2.1.6",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.6",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.6",
+    "commit": {
+      "sha": "af0c5acffbf0dbee912703241df3d8b0f09f85c0",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/af0c5acffbf0dbee912703241df3d8b0f09f85c0"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuNg=="
+  },
+  {
+    "name": "v2.1.5",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.5",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.5",
+    "commit": {
+      "sha": "e3a7b0969b97f4014122a6dce275c20928f14088",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/e3a7b0969b97f4014122a6dce275c20928f14088"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuNQ=="
+  },
+  {
+    "name": "v2.1.4",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.4",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.4",
+    "commit": {
+      "sha": "5a15715b25991e3d61d27d552f9eba45975d65e7",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/5a15715b25991e3d61d27d552f9eba45975d65e7"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuNA=="
+  },
+  {
+    "name": "v2.1.3",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.3",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.3",
+    "commit": {
+      "sha": "d473196b36577f0bdfa5ea2fe490693cd8182bd6",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/d473196b36577f0bdfa5ea2fe490693cd8182bd6"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuMw=="
+  },
+  {
+    "name": "v2.1.2",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.2",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.2",
+    "commit": {
+      "sha": "cd96679bdaf837325243e5b2aec19a314bbf61d9",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/cd96679bdaf837325243e5b2aec19a314bbf61d9"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuMg=="
+  },
+  {
+    "name": "v2.1.1",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.1",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.1",
+    "commit": {
+      "sha": "3b089daa4ca235b0f27b2df6518fc71e6a8eed2d",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/3b089daa4ca235b0f27b2df6518fc71e6a8eed2d"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuMQ=="
+  },
+  {
+    "name": "v2.1.0",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.1.0",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.1.0",
+    "commit": {
+      "sha": "2eca41fc8f71e7f889494df743a078c0b5a389da",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/2eca41fc8f71e7f889494df743a078c0b5a389da"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjEuMA=="
+  },
+  {
+    "name": "v2.0.9",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.9",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.9",
+    "commit": {
+      "sha": "a0347bb782810992ad015e0dc1b90e1b71658ea2",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/a0347bb782810992ad015e0dc1b90e1b71658ea2"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuOQ=="
+  },
+  {
+    "name": "v2.0.8",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.8",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.8",
+    "commit": {
+      "sha": "ddf205f57b9c51a603f4f37c5549889ba8086bc8",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/ddf205f57b9c51a603f4f37c5549889ba8086bc8"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuOA=="
+  },
+  {
+    "name": "v2.0.7",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.7",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.7",
+    "commit": {
+      "sha": "822e578f9bfda4ec67ff622b85b12efad02f3942",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/822e578f9bfda4ec67ff622b85b12efad02f3942"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuNw=="
+  },
+  {
+    "name": "v2.0.2",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.2",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.2",
+    "commit": {
+      "sha": "4b69d8bb5bd19623319a8a9310e5d495561ea3ae",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/4b69d8bb5bd19623319a8a9310e5d495561ea3ae"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuMg=="
+  },
+  {
+    "name": "v2.0.1",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.1",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.1",
+    "commit": {
+      "sha": "d41be04a3e8541c1c04590c973bae45b54d49c0b",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/d41be04a3e8541c1c04590c973bae45b54d49c0b"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuMQ=="
+  },
+  {
+    "name": "v2.0.0",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v2.0.0",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v2.0.0",
+    "commit": {
+      "sha": "de8322334c8222545a616a7e01bb98958eabaad6",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/de8322334c8222545a616a7e01bb98958eabaad6"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YyLjAuMA=="
+  },
+  {
+    "name": "v1.7.4",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v1.7.4",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v1.7.4",
+    "commit": {
+      "sha": "7ad2cc5643adcdda0748100f487074d1a3c46178",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/7ad2cc5643adcdda0748100f487074d1a3c46178"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YxLjcuNA=="
+  },
+  {
+    "name": "v1.7.3",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v1.7.3",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v1.7.3",
+    "commit": {
+      "sha": "60f4f52c5eb95b7e0e4d4092c096c5d72dfeda96",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/60f4f52c5eb95b7e0e4d4092c096c5d72dfeda96"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YxLjcuMw=="
+  },
+  {
+    "name": "v1.7.2",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v1.7.2",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v1.7.2",
+    "commit": {
+      "sha": "2cd355b8eb65e52acddc435ed86e9bd009e773f5",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/2cd355b8eb65e52acddc435ed86e9bd009e773f5"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YxLjcuMg=="
+  },
+  {
+    "name": "v1.7.1",
+    "zipball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/zipball/refs/tags/v1.7.1",
+    "tarball_url": "https://api.github.com/repos/PhilJay/MPAndroidChart/tarball/refs/tags/v1.7.1",
+    "commit": {
+      "sha": "a7a349869e748d7f52fb4fcd27fbcc1e0ba10aff",
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/commits/a7a349869e748d7f52fb4fcd27fbcc1e0ba10aff"
+    },
+    "node_id": "MDM6UmVmMTkxNDg5NDk6cmVmcy90YWdzL3YxLjcuMQ=="
+  }
+]

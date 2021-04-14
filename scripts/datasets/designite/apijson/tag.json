@@ -1,0 +1,302 @@
+[
+  {
+    "name": "更改依赖解析",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/更改依赖解析",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/更改依赖解析",
+    "commit": {
+      "sha": "539f2f19d33f65c4bf146f4a6ae4ba4ce92ce0b6",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/539f2f19d33f65c4bf146f4a6ae4ba4ce92ce0b6"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzL+abtOaUueS+nei1luino+aekA=="
+  },
+  {
+    "name": "完成数据库查询缓存",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/完成数据库查询缓存",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/完成数据库查询缓存",
+    "commit": {
+      "sha": "a9e7f8fab0ac18f5129b53f1f583d20c70b38e66",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/a9e7f8fab0ac18f5129b53f1f583d20c70b38e66"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzL+WujOaIkOaVsOaNruW6k+afpeivoue8k+WtmA=="
+  },
+  {
+    "name": "大调整",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/大调整",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/大调整",
+    "commit": {
+      "sha": "b0d210c966fa567a50b15c2a9743ef31320013ed",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/b0d210c966fa567a50b15c2a9743ef31320013ed"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzL+Wkp+iwg+aVtA=="
+  },
+  {
+    "name": "改的是Server",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/改的是Server",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/改的是Server",
+    "commit": {
+      "sha": "d1c0c5993d2c9644a3c6ef88e9e35b3de81ede1a",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/d1c0c5993d2c9644a3c6ef88e9e35b3de81ede1a"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzL+aUueeahOaYr1NlcnZlcg=="
+  },
+  {
+    "name": "解决多个AND,OR拼接问题",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/解决多个AND,OR拼接问题",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/解决多个AND,OR拼接问题",
+    "commit": {
+      "sha": "c5ea2fa670da1b6d5da7e5c1daf44a47c45e2909",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/c5ea2fa670da1b6d5da7e5c1daf44a47c45e2909"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzL+ino+WGs+WkmuS4qkFORCxPUuaLvOaOpemXrumimA=="
+  },
+  {
+    "name": "4.6.7",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.6.7",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.6.7",
+    "commit": {
+      "sha": "8cf170c0bfb71052a09baad4e43029954352442a",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/8cf170c0bfb71052a09baad4e43029954352442a"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNi43"
+  },
+  {
+    "name": "4.6.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.6.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.6.6",
+    "commit": {
+      "sha": "8a6672b5f95ac8bb447742018068e842213d2469",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/8a6672b5f95ac8bb447742018068e842213d2469"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNi42"
+  },
+  {
+    "name": "4.6.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.6.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.6.5",
+    "commit": {
+      "sha": "786d326e6f5f5da2dad2e31490c91bec88ff34f5",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/786d326e6f5f5da2dad2e31490c91bec88ff34f5"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNi41"
+  },
+  {
+    "name": "4.6.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.6.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.6.1",
+    "commit": {
+      "sha": "a32d5f420ee816472777471c312aaf223ed6f77c",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/a32d5f420ee816472777471c312aaf223ed6f77c"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNi4x"
+  },
+  {
+    "name": "4.6.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.6.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.6.0",
+    "commit": {
+      "sha": "9cd448713a97163159f21bbd712f214c6420d254",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/9cd448713a97163159f21bbd712f214c6420d254"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNi4w"
+  },
+  {
+    "name": "4.5.2",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.5.2",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.5.2",
+    "commit": {
+      "sha": "893d3b3fd9cb617b2bcfa17b503b097dede1dfdc",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/893d3b3fd9cb617b2bcfa17b503b097dede1dfdc"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNS4y"
+  },
+  {
+    "name": "4.5.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.5.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.5.1",
+    "commit": {
+      "sha": "8fd88e0af62cb164ec3f07b4dcdf765f256b79bb",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/8fd88e0af62cb164ec3f07b4dcdf765f256b79bb"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNS4x"
+  },
+  {
+    "name": "4.5.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.5.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.5.0",
+    "commit": {
+      "sha": "05dc3ebf44ab0d4d49d90068389b4e3cea70d86c",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/05dc3ebf44ab0d4d49d90068389b4e3cea70d86c"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNS4w"
+  },
+  {
+    "name": "4.4.8",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.4.8",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.4.8",
+    "commit": {
+      "sha": "297c251f36bfacac4fb896f002f2c6a90c4cddf0",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/297c251f36bfacac4fb896f002f2c6a90c4cddf0"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNC44"
+  },
+  {
+    "name": "4.4.7",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.4.7",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.4.7",
+    "commit": {
+      "sha": "5a51f8825d284bc4e58b9bf79d3cc6de100881f8",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/5a51f8825d284bc4e58b9bf79d3cc6de100881f8"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNC43"
+  },
+  {
+    "name": "4.4.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.4.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.4.6",
+    "commit": {
+      "sha": "945f6e4b0a0e18351c8e752e7d501782b04dbbcf",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/945f6e4b0a0e18351c8e752e7d501782b04dbbcf"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNC42"
+  },
+  {
+    "name": "4.4.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.4.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.4.5",
+    "commit": {
+      "sha": "3e86b0921069a5fad7358cb45932beae781c2f87",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/3e86b0921069a5fad7358cb45932beae781c2f87"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNC41"
+  },
+  {
+    "name": "4.4.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.4.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.4.0",
+    "commit": {
+      "sha": "7fa6ac181e4871e54f9215d2c2ec9726693bd219",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/7fa6ac181e4871e54f9215d2c2ec9726693bd219"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuNC4w"
+  },
+  {
+    "name": "4.3.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.3.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.3.1",
+    "commit": {
+      "sha": "9d4bd7b37f9f06ef90f4cb2823902daffc8345b5",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/9d4bd7b37f9f06ef90f4cb2823902daffc8345b5"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMy4x"
+  },
+  {
+    "name": "4.3.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.3.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.3.0",
+    "commit": {
+      "sha": "a1a0316cf4584c8019c38f2ae3928db353ecd7df",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/a1a0316cf4584c8019c38f2ae3928db353ecd7df"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMy4w"
+  },
+  {
+    "name": "4.2.5",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.2.5",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.2.5",
+    "commit": {
+      "sha": "c32498b04162d19530c00b1cdf41bc958f3dbdee",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/c32498b04162d19530c00b1cdf41bc958f3dbdee"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMi41"
+  },
+  {
+    "name": "4.2.4",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.2.4",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.2.4",
+    "commit": {
+      "sha": "c416514e433e8c98cadfe745b1699cb5b4133d9e",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/c416514e433e8c98cadfe745b1699cb5b4133d9e"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMi40"
+  },
+  {
+    "name": "4.2.3",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.2.3",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.2.3",
+    "commit": {
+      "sha": "620ecfcb0be53fbfd36c66995a6bda4d6956b526",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/620ecfcb0be53fbfd36c66995a6bda4d6956b526"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMi4z"
+  },
+  {
+    "name": "4.2.1",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.2.1",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.2.1",
+    "commit": {
+      "sha": "2b2633f7b7e0666cffc1104a56cf57492b3bf670",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/2b2633f7b7e0666cffc1104a56cf57492b3bf670"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMi4x"
+  },
+  {
+    "name": "4.2.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.2.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.2.0",
+    "commit": {
+      "sha": "ba315e7e6c1a6daf21a9cfb2f797c361b5584f46",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/ba315e7e6c1a6daf21a9cfb2f797c361b5584f46"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMi4w"
+  },
+  {
+    "name": "4.1.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.1.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.1.0",
+    "commit": {
+      "sha": "d117c0be71e152dc11584859b26ea60905381bbe",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/d117c0be71e152dc11584859b26ea60905381bbe"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMS4w"
+  },
+  {
+    "name": "4.0.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/4.0.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/4.0.0",
+    "commit": {
+      "sha": "15dbd8baf776fc3b6af0373568030f718dfc915e",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/15dbd8baf776fc3b6af0373568030f718dfc915e"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzQuMC4w"
+  },
+  {
+    "name": "3.9.0",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/3.9.0",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/3.9.0",
+    "commit": {
+      "sha": "6b62775f3bd7bd473ed2ece44ac18291c22ef74f",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/6b62775f3bd7bd473ed2ece44ac18291c22ef74f"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzMuOS4w"
+  },
+  {
+    "name": "3.8.6",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/3.8.6",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/3.8.6",
+    "commit": {
+      "sha": "534e1dcd6702b2fa9b6820e22b4c371741998aff",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/534e1dcd6702b2fa9b6820e22b4c371741998aff"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzMuOC42"
+  },
+  {
+    "name": "3.7.3",
+    "zipball_url": "https://api.github.com/repos/Tencent/APIJSON/zipball/refs/tags/3.7.3",
+    "tarball_url": "https://api.github.com/repos/Tencent/APIJSON/tarball/refs/tags/3.7.3",
+    "commit": {
+      "sha": "da1b5bbb858b8416bf00419dec82cfd3369a80cd",
+      "url": "https://api.github.com/repos/Tencent/APIJSON/commits/da1b5bbb858b8416bf00419dec82cfd3369a80cd"
+    },
+    "node_id": "MDM6UmVmNzQzNTk0NDI6cmVmcy90YWdzLzMuNy4z"
+  }
+]

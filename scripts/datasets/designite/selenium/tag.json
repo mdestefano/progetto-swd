@@ -1,0 +1,302 @@
+[
+  {
+    "name": "selenium-4.0.0-beta-2",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-beta-2",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-beta-2",
+    "commit": {
+      "sha": "4ec0cfc112b37385b7bda4d72c9bf111f49620ea",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/4ec0cfc112b37385b7bda4d72c9bf111f49620ea"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYmV0YS0y"
+  },
+  {
+    "name": "selenium-4.0.0-beta-1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-beta-1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-beta-1",
+    "commit": {
+      "sha": "9c03156c2b238258e711f8095e5299cc6ace8f9d",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/9c03156c2b238258e711f8095e5299cc6ace8f9d"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYmV0YS0x"
+  },
+  {
+    "name": "selenium-4.0.0-alpha-7",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-7",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-7",
+    "commit": {
+      "sha": "de8579b6d5959bf3c78d35e1b8a95861728d0cb4",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/de8579b6d5959bf3c78d35e1b8a95861728d0cb4"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtNw=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-6",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-6",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-6",
+    "commit": {
+      "sha": "5f43a29cfccd9c7fb5adca5d69ed168150edb39f",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/5f43a29cfccd9c7fb5adca5d69ed168150edb39f"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtNg=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-5",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-5",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-5",
+    "commit": {
+      "sha": "b3a0d621cc6b8fa9afbd5f14296f6063caf6e078",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/b3a0d621cc6b8fa9afbd5f14296f6063caf6e078"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtNQ=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-4",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-4",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-4",
+    "commit": {
+      "sha": "c2d955b49eccb1d4b4be27a33dd5899af99f8a97",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/c2d955b49eccb1d4b4be27a33dd5899af99f8a97"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtNA=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-3",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-3",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-3",
+    "commit": {
+      "sha": "8c567de6dc59881a9ec90dfdd623583f9a8e7801",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/8c567de6dc59881a9ec90dfdd623583f9a8e7801"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtMw=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-2",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-2",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-2",
+    "commit": {
+      "sha": "f148142cf8aa65b703ad0896296ab66edf9776b8",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/f148142cf8aa65b703ad0896296ab66edf9776b8"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtMg=="
+  },
+  {
+    "name": "selenium-4.0.0-alpha-1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-4.0.0-alpha-1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-4.0.0-alpha-1",
+    "commit": {
+      "sha": "956e06188923218652c67cbba67a29b0a1b61f70",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/956e06188923218652c67cbba67a29b0a1b61f70"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tNC4wLjAtYWxwaGEtMQ=="
+  },
+  {
+    "name": "selenium-3.141.59",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.141.59",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.141.59",
+    "commit": {
+      "sha": "e82be7d3584062a0d16af8d562d387e3d4855aa1",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/e82be7d3584062a0d16af8d562d387e3d4855aa1"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xNDEuNTk="
+  },
+  {
+    "name": "selenium-3.141.5",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.141.5",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.141.5",
+    "commit": {
+      "sha": "d54ebd709a3454e94c2a137c1b06d20f92a73784",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/d54ebd709a3454e94c2a137c1b06d20f92a73784"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xNDEuNQ=="
+  },
+  {
+    "name": "selenium-3.141.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.141.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.141.0",
+    "commit": {
+      "sha": "2ecb7d9aaa7787b32106507f9326953a9874fc2b",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/2ecb7d9aaa7787b32106507f9326953a9874fc2b"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xNDEuMA=="
+  },
+  {
+    "name": "selenium-3.14.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.14.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.14.0",
+    "commit": {
+      "sha": "aacccce032ad8cda9fc15ecabfbd844c87db5497",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/aacccce032ad8cda9fc15ecabfbd844c87db5497"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xNC4w"
+  },
+  {
+    "name": "selenium-3.13.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.13.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.13.0",
+    "commit": {
+      "sha": "2f0d2927acdd5007da37536ce7cacd3ff78f5731",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/2f0d2927acdd5007da37536ce7cacd3ff78f5731"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xMy4w"
+  },
+  {
+    "name": "selenium-3.12.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.12.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.12.0",
+    "commit": {
+      "sha": "7c6e0b33434167433fc243d472a7a6de4d76bff4",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/7c6e0b33434167433fc243d472a7a6de4d76bff4"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xMi4w"
+  },
+  {
+    "name": "selenium-3.11.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.11.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.11.0",
+    "commit": {
+      "sha": "e59cfb3e5941f6eb17de358cae43a26c643fdd16",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/e59cfb3e5941f6eb17de358cae43a26c643fdd16"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xMS4w"
+  },
+  {
+    "name": "selenium-3.10.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.10.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.10.0",
+    "commit": {
+      "sha": "176b4a9e3082ac1926f2a436eb346760c37a5998",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/176b4a9e3082ac1926f2a436eb346760c37a5998"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4xMC4w"
+  },
+  {
+    "name": "selenium-3.9.1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.9.1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.9.1",
+    "commit": {
+      "sha": "63f7b500a7a5b4d6f48d8a1e7a5fee2dfda4f12e",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/63f7b500a7a5b4d6f48d8a1e7a5fee2dfda4f12e"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy45LjE="
+  },
+  {
+    "name": "selenium-3.9.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.9.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.9.0",
+    "commit": {
+      "sha": "c18cecf59e1b3a321a9791a8bd6073d34fd1c0d7",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/c18cecf59e1b3a321a9791a8bd6073d34fd1c0d7"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy45LjA="
+  },
+  {
+    "name": "selenium-3.8.1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.8.1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.8.1",
+    "commit": {
+      "sha": "6e95a6684bb3b7c393449ec6959f339530783b8e",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/6e95a6684bb3b7c393449ec6959f339530783b8e"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy44LjE="
+  },
+  {
+    "name": "selenium-3.8.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.8.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.8.0",
+    "commit": {
+      "sha": "57fe00346d1c4d6d3f8e33ae4d7426940e795a30",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/57fe00346d1c4d6d3f8e33ae4d7426940e795a30"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy44LjA="
+  },
+  {
+    "name": "selenium-3.7.1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.7.1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.7.1",
+    "commit": {
+      "sha": "b66efc8f47ccd43322075e070371f5fa0807b9a9",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/b66efc8f47ccd43322075e070371f5fa0807b9a9"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy43LjE="
+  },
+  {
+    "name": "selenium-3.7.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.7.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.7.0",
+    "commit": {
+      "sha": "2321c73b6562f22474511c6006c428b573e2ae50",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/2321c73b6562f22474511c6006c428b573e2ae50"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy43LjA="
+  },
+  {
+    "name": "selenium-3.6.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.6.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.6.0",
+    "commit": {
+      "sha": "c9b7c73f4368f7ff01c1a849e24c6027cb038262",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/c9b7c73f4368f7ff01c1a849e24c6027cb038262"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy42LjA="
+  },
+  {
+    "name": "selenium-3.5.3",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.5.3",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.5.3",
+    "commit": {
+      "sha": "a88d25fe6b71a9b200480374462078614f5319ac",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/a88d25fe6b71a9b200480374462078614f5319ac"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy41LjM="
+  },
+  {
+    "name": "selenium-3.5.2",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.5.2",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.5.2",
+    "commit": {
+      "sha": "10229a90206eab5be67d051d9a35eeab302fe39d",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/10229a90206eab5be67d051d9a35eeab302fe39d"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy41LjI="
+  },
+  {
+    "name": "selenium-3.5.1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.5.1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.5.1",
+    "commit": {
+      "sha": "9c21bb67ef9c4aa1d8577d1638e7a885e5b087e7",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/9c21bb67ef9c4aa1d8577d1638e7a885e5b087e7"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy41LjE="
+  },
+  {
+    "name": "selenium-3.5.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.5.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.5.0",
+    "commit": {
+      "sha": "8def36e06884f01de765664a61385bba70ab9e02",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/8def36e06884f01de765664a61385bba70ab9e02"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy41LjA="
+  },
+  {
+    "name": "selenium-3.4.0",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.4.0",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.4.0",
+    "commit": {
+      "sha": "7c2aed7298b37801f2f925042e36e30af603a614",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/7c2aed7298b37801f2f925042e36e30af603a614"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy40LjA="
+  },
+  {
+    "name": "selenium-3.3.1",
+    "zipball_url": "https://api.github.com/repos/SeleniumHQ/selenium/zipball/refs/tags/selenium-3.3.1",
+    "tarball_url": "https://api.github.com/repos/SeleniumHQ/selenium/tarball/refs/tags/selenium-3.3.1",
+    "commit": {
+      "sha": "5234b325d586517e40d57c763d59c5b4caec09bf",
+      "url": "https://api.github.com/repos/SeleniumHQ/selenium/commits/5234b325d586517e40d57c763d59c5b4caec09bf"
+    },
+    "node_id": "MDM6UmVmNzYxMzI1NzpyZWZzL3RhZ3Mvc2VsZW5pdW0tMy4zLjE="
+  }
+]
