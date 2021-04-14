@@ -1,0 +1,302 @@
+[
+  {
+    "name": "javawriter-2.5.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.5.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.5.1",
+    "commit": {
+      "sha": "ffe1e0d82c97e2be0524dcbb42b12ee4de74df54",
+      "url": "https://api.github.com/repos/square/javapoet/commits/ffe1e0d82c97e2be0524dcbb42b12ee4de74df54"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjUuMQ=="
+  },
+  {
+    "name": "javawriter-2.5.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.5.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.5.0",
+    "commit": {
+      "sha": "ace739ded010ec366f3c2a7a1501d01b7979297d",
+      "url": "https://api.github.com/repos/square/javapoet/commits/ace739ded010ec366f3c2a7a1501d01b7979297d"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjUuMA=="
+  },
+  {
+    "name": "javawriter-2.4.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.4.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.4.0",
+    "commit": {
+      "sha": "5eeae81953555b45b098b53dcda9dedaac3faed1",
+      "url": "https://api.github.com/repos/square/javapoet/commits/5eeae81953555b45b098b53dcda9dedaac3faed1"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjQuMA=="
+  },
+  {
+    "name": "javawriter-2.3.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.3.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.3.1",
+    "commit": {
+      "sha": "9a3c603bde0fbec2b3646fc92c99dbf18c6c6367",
+      "url": "https://api.github.com/repos/square/javapoet/commits/9a3c603bde0fbec2b3646fc92c99dbf18c6c6367"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjMuMQ=="
+  },
+  {
+    "name": "javawriter-2.3.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.3.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.3.0",
+    "commit": {
+      "sha": "ddb0a4312252e327bfb4738a8d835c4111308f43",
+      "url": "https://api.github.com/repos/square/javapoet/commits/ddb0a4312252e327bfb4738a8d835c4111308f43"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjMuMA=="
+  },
+  {
+    "name": "javawriter-2.2.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.2.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.2.1",
+    "commit": {
+      "sha": "d9098957bf1c50aacb4dcb311a963392bd38515a",
+      "url": "https://api.github.com/repos/square/javapoet/commits/d9098957bf1c50aacb4dcb311a963392bd38515a"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjIuMQ=="
+  },
+  {
+    "name": "javawriter-2.2.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.2.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.2.0",
+    "commit": {
+      "sha": "e3779806d57b3d0f5ab168f49967e97f90ea22e1",
+      "url": "https://api.github.com/repos/square/javapoet/commits/e3779806d57b3d0f5ab168f49967e97f90ea22e1"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjIuMA=="
+  },
+  {
+    "name": "javawriter-2.1.2",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.1.2",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.1.2",
+    "commit": {
+      "sha": "1746b5ca6600869ad1275c545368eff0ef2609e9",
+      "url": "https://api.github.com/repos/square/javapoet/commits/1746b5ca6600869ad1275c545368eff0ef2609e9"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjEuMg=="
+  },
+  {
+    "name": "javawriter-2.1.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.1.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.1.1",
+    "commit": {
+      "sha": "84fd31ce9b407dbd1aaea1137dbffbb3065e9b87",
+      "url": "https://api.github.com/repos/square/javapoet/commits/84fd31ce9b407dbd1aaea1137dbffbb3065e9b87"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjEuMQ=="
+  },
+  {
+    "name": "javawriter-2.1.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.1.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.1.0",
+    "commit": {
+      "sha": "7325befff234704ca2f61090b3173a97cce609fe",
+      "url": "https://api.github.com/repos/square/javapoet/commits/7325befff234704ca2f61090b3173a97cce609fe"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjEuMA=="
+  },
+  {
+    "name": "javawriter-2.0.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.0.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.0.1",
+    "commit": {
+      "sha": "ba6054b095dcab3d5f1b3d6cbb923c621f1498a7",
+      "url": "https://api.github.com/repos/square/javapoet/commits/ba6054b095dcab3d5f1b3d6cbb923c621f1498a7"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjAuMQ=="
+  },
+  {
+    "name": "javawriter-2.0.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-2.0.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-2.0.0",
+    "commit": {
+      "sha": "269e7e168421210412c1e882fbcdbe65ad3ec5d6",
+      "url": "https://api.github.com/repos/square/javapoet/commits/269e7e168421210412c1e882fbcdbe65ad3ec5d6"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0yLjAuMA=="
+  },
+  {
+    "name": "javawriter-1.0.5",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.5",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.5",
+    "commit": {
+      "sha": "fee0bc45e6885e614157dfc2f54e871f1079eba6",
+      "url": "https://api.github.com/repos/square/javapoet/commits/fee0bc45e6885e614157dfc2f54e871f1079eba6"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuNQ=="
+  },
+  {
+    "name": "javawriter-1.0.4",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.4",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.4",
+    "commit": {
+      "sha": "7c4b5564761d7f6fb50fe5ccf02e07553675acc1",
+      "url": "https://api.github.com/repos/square/javapoet/commits/7c4b5564761d7f6fb50fe5ccf02e07553675acc1"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuNA=="
+  },
+  {
+    "name": "javawriter-1.0.3",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.3",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.3",
+    "commit": {
+      "sha": "620fdd08c8a018290ba3260b7d4e47c06c5c5ead",
+      "url": "https://api.github.com/repos/square/javapoet/commits/620fdd08c8a018290ba3260b7d4e47c06c5c5ead"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuMw=="
+  },
+  {
+    "name": "javawriter-1.0.2",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.2",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.2",
+    "commit": {
+      "sha": "016e6beeacb5adcd90582902ddd5beef7a38df1d",
+      "url": "https://api.github.com/repos/square/javapoet/commits/016e6beeacb5adcd90582902ddd5beef7a38df1d"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuMg=="
+  },
+  {
+    "name": "javawriter-1.0.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.1",
+    "commit": {
+      "sha": "979eb1cb77cd6363db2b7e8e80aed2987bea7e8a",
+      "url": "https://api.github.com/repos/square/javapoet/commits/979eb1cb77cd6363db2b7e8e80aed2987bea7e8a"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuMQ=="
+  },
+  {
+    "name": "javawriter-1.0.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javawriter-1.0.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javawriter-1.0.0",
+    "commit": {
+      "sha": "5659e780ea81ab236a36f3285bdd35d1b61801d0",
+      "url": "https://api.github.com/repos/square/javapoet/commits/5659e780ea81ab236a36f3285bdd35d1b61801d0"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXdyaXRlci0xLjAuMA=="
+  },
+  {
+    "name": "javapoet-1.13.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.13.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.13.0",
+    "commit": {
+      "sha": "714e05ca60179285746604452324262b126dcb2d",
+      "url": "https://api.github.com/repos/square/javapoet/commits/714e05ca60179285746604452324262b126dcb2d"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMy4w"
+  },
+  {
+    "name": "javapoet-1.13.0-2",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.13.0-2",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.13.0-2",
+    "commit": {
+      "sha": "ebb7d3ce593d9ae587e120f8a1e566555f9e074b",
+      "url": "https://api.github.com/repos/square/javapoet/commits/ebb7d3ce593d9ae587e120f8a1e566555f9e074b"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMy4wLTI="
+  },
+  {
+    "name": "javapoet-1.13.0-1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.13.0-1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.13.0-1",
+    "commit": {
+      "sha": "5ca6d5b206bccb53305ad6235df45a173e983297",
+      "url": "https://api.github.com/repos/square/javapoet/commits/5ca6d5b206bccb53305ad6235df45a173e983297"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMy4wLTE="
+  },
+  {
+    "name": "javapoet-1.12.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.12.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.12.1",
+    "commit": {
+      "sha": "9451a362adee16bbf7be382c2a95772fae2c48d1",
+      "url": "https://api.github.com/repos/square/javapoet/commits/9451a362adee16bbf7be382c2a95772fae2c48d1"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMi4x"
+  },
+  {
+    "name": "javapoet-1.12.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.12.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.12.0",
+    "commit": {
+      "sha": "8b5db1a19db6366841a9ce31d526482c8b35e745",
+      "url": "https://api.github.com/repos/square/javapoet/commits/8b5db1a19db6366841a9ce31d526482c8b35e745"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMi4w"
+  },
+  {
+    "name": "javapoet-1.11.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.11.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.11.1",
+    "commit": {
+      "sha": "a5db06d05f8bd799cef194af28ace07427e2d07e",
+      "url": "https://api.github.com/repos/square/javapoet/commits/a5db06d05f8bd799cef194af28ace07427e2d07e"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMS4x"
+  },
+  {
+    "name": "javapoet-1.11.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.11.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.11.0",
+    "commit": {
+      "sha": "b09d944edd6029434aac2e14cff14df0f4bb521e",
+      "url": "https://api.github.com/repos/square/javapoet/commits/b09d944edd6029434aac2e14cff14df0f4bb521e"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMS4w"
+  },
+  {
+    "name": "javapoet-1.10.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.10.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.10.0",
+    "commit": {
+      "sha": "a2f21df8124e71c5ee55614919b86bb1e3879a55",
+      "url": "https://api.github.com/repos/square/javapoet/commits/a2f21df8124e71c5ee55614919b86bb1e3879a55"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS4xMC4w"
+  },
+  {
+    "name": "javapoet-1.9.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.9.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.9.0",
+    "commit": {
+      "sha": "dfba6d7272931991e56b0d0ac4b969c17cd3f334",
+      "url": "https://api.github.com/repos/square/javapoet/commits/dfba6d7272931991e56b0d0ac4b969c17cd3f334"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS45LjA="
+  },
+  {
+    "name": "javapoet-1.8.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.8.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.8.0",
+    "commit": {
+      "sha": "46913cd91914f2b30f3730390c96b8143c260a46",
+      "url": "https://api.github.com/repos/square/javapoet/commits/46913cd91914f2b30f3730390c96b8143c260a46"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS44LjA="
+  },
+  {
+    "name": "javapoet-1.7.0",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.7.0",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.7.0",
+    "commit": {
+      "sha": "79d83b201dea2fcd9eeee414d963b55136727aa6",
+      "url": "https://api.github.com/repos/square/javapoet/commits/79d83b201dea2fcd9eeee414d963b55136727aa6"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS43LjA="
+  },
+  {
+    "name": "javapoet-1.6.1",
+    "zipball_url": "https://api.github.com/repos/square/javapoet/zipball/refs/tags/javapoet-1.6.1",
+    "tarball_url": "https://api.github.com/repos/square/javapoet/tarball/refs/tags/javapoet-1.6.1",
+    "commit": {
+      "sha": "30455b1a25b3ff348578d882812e4e7c94eb9e9e",
+      "url": "https://api.github.com/repos/square/javapoet/commits/30455b1a25b3ff348578d882812e4e7c94eb9e9e"
+    },
+    "node_id": "MDM6UmVmNzk2MTk5MTpyZWZzL3RhZ3MvamF2YXBvZXQtMS42LjE="
+  }
+]

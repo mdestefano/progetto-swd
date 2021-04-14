@@ -1,0 +1,152 @@
+[
+  {
+    "name": "v3.1.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v3.1.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v3.1.0",
+    "commit": {
+      "sha": "b2c76d51b394b140bbfaf692eb4071613ac36cdb",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/b2c76d51b394b140bbfaf692eb4071613ac36cdb"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YzLjEuMA=="
+  },
+  {
+    "name": "v3.0.2",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v3.0.2",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v3.0.2",
+    "commit": {
+      "sha": "2b0ba76c6bcfff07b36d08101c257c6a516f58dd",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/2b0ba76c6bcfff07b36d08101c257c6a516f58dd"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YzLjAuMg=="
+  },
+  {
+    "name": "v3.0.1",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v3.0.1",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v3.0.1",
+    "commit": {
+      "sha": "1482d9be1026ff0be56df07e1d32d05f94c0def0",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/1482d9be1026ff0be56df07e1d32d05f94c0def0"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YzLjAuMQ=="
+  },
+  {
+    "name": "v3.0.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v3.0.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v3.0.0",
+    "commit": {
+      "sha": "8a24219ffc7309f38f1c63f4e801802724066dcb",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/8a24219ffc7309f38f1c63f4e801802724066dcb"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YzLjAuMA=="
+  },
+  {
+    "name": "v2.2.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v2.2.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v2.2.0",
+    "commit": {
+      "sha": "cc6f3809d941b3d7413be4bd215c2f39e5e227e1",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/cc6f3809d941b3d7413be4bd215c2f39e5e227e1"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YyLjIuMA=="
+  },
+  {
+    "name": "v2.1.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v2.1.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v2.1.0",
+    "commit": {
+      "sha": "5186ac1b0a3f24ac65376b3c0a90ee01549201cb",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/5186ac1b0a3f24ac65376b3c0a90ee01549201cb"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YyLjEuMA=="
+  },
+  {
+    "name": "v2.0.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v2.0.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v2.0.0",
+    "commit": {
+      "sha": "28c0c9e4f68e1e0478e6e09cd15945df8b966ddb",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/28c0c9e4f68e1e0478e6e09cd15945df8b966ddb"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YyLjAuMA=="
+  },
+  {
+    "name": "v1.3.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.3.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.3.0",
+    "commit": {
+      "sha": "4bbdb57a990023c56d88376f3b6bc97ffb648828",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/4bbdb57a990023c56d88376f3b6bc97ffb648828"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjMuMA=="
+  },
+  {
+    "name": "v1.2.2",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.2.2",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.2.2",
+    "commit": {
+      "sha": "473c3e1239b6fb2bc78ca848013c3b3c4b4397d8",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/473c3e1239b6fb2bc78ca848013c3b3c4b4397d8"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjIuMg=="
+  },
+  {
+    "name": "v1.2.1",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.2.1",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.2.1",
+    "commit": {
+      "sha": "dc948278e8fa27e307e4de873c48b026d1c72d7c",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/dc948278e8fa27e307e4de873c48b026d1c72d7c"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjIuMQ=="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "9051f888d2ab5c033fe67ac6e4624ea64e1e4869",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/9051f888d2ab5c033fe67ac6e4624ea64e1e4869"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjIuMA=="
+  },
+  {
+    "name": "v1.1.1",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.1.1",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.1.1",
+    "commit": {
+      "sha": "2601e9b860a7fcf8a27eeeecc1acbcb51daace2b",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/2601e9b860a7fcf8a27eeeecc1acbcb51daace2b"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjEuMQ=="
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "3716914bfba591dd5a7959f25c930ca40d41f131",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/3716914bfba591dd5a7959f25c930ca40d41f131"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjEuMA=="
+  },
+  {
+    "name": "v1.0.1",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.0.1",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.0.1",
+    "commit": {
+      "sha": "4ac86044d361d1b1bc015dadb9854733457a8258",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/4ac86044d361d1b1bc015dadb9854733457a8258"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjAuMQ=="
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/hdodenhof/CircleImageView/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "0aac8e7a8a09e495f29ca92fb759bc57613c8d4a",
+      "url": "https://api.github.com/repos/hdodenhof/CircleImageView/commits/0aac8e7a8a09e495f29ca92fb759bc57613c8d4a"
+    },
+    "node_id": "MDM6UmVmMTYwMDU0MTA6cmVmcy90YWdzL3YxLjAuMA=="
+  }
+]

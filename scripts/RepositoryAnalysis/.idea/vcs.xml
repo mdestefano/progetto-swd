@@ -2,11 +2,22 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/androidswipelayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apollo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/arouter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/arthas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baserecyclerviewadapterhelper" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/canal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cartellaTmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dbeaver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elasticsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fresco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/glide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gsyvideoplayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/javapoet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lottie-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/photoview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stetho" vcs="Git" />
   </component>
 </project>
