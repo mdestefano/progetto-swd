@@ -1,0 +1,192 @@
+[
+  {
+    "name": "1.5.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.5.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.5.1",
+    "commit": {
+      "sha": "f21a53dadd3feba053440d2543d8b34b02ca807b",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/f21a53dadd3feba053440d2543d8b34b02ca807b"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuNS4x"
+  },
+  {
+    "name": "1.5.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.5.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.5.0",
+    "commit": {
+      "sha": "790d091266c4ab011b1b2c984662ec37ba2c6e44",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/790d091266c4ab011b1b2c984662ec37ba2c6e44"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuNS4w"
+  },
+  {
+    "name": "1.4.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.4.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.4.1",
+    "commit": {
+      "sha": "2fddd53d5aea809ba0d2b17319b3f96c9eb64d7d",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/2fddd53d5aea809ba0d2b17319b3f96c9eb64d7d"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuNC4x"
+  },
+  {
+    "name": "1.4.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.4.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.4.0",
+    "commit": {
+      "sha": "b13b878f19aaa8928c28d2d34bc3c0c54b1610d4",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/b13b878f19aaa8928c28d2d34bc3c0c54b1610d4"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuNC4w"
+  },
+  {
+    "name": "1.3.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.3.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.3.1",
+    "commit": {
+      "sha": "a4c7f2ab995aaf3fcc50857e890248fd15c34a24",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/a4c7f2ab995aaf3fcc50857e890248fd15c34a24"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMy4x"
+  },
+  {
+    "name": "1.2.4",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.2.4",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.2.4",
+    "commit": {
+      "sha": "eed3c6c00314a60c0a4fcac3796735b62ee9515d",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/eed3c6c00314a60c0a4fcac3796735b62ee9515d"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMi40"
+  },
+  {
+    "name": "1.2.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.2.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.2.1",
+    "commit": {
+      "sha": "91bbd143fb6da5369df8a7c6ae8ad66cc1e48cde",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/91bbd143fb6da5369df8a7c6ae8ad66cc1e48cde"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMi4x"
+  },
+  {
+    "name": "1.2.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.2.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.2.0",
+    "commit": {
+      "sha": "468e1f6ca4cb00bdea28689426ae012b1a40208e",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/468e1f6ca4cb00bdea28689426ae012b1a40208e"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMi4w"
+  },
+  {
+    "name": "1.1.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.1.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.1.1",
+    "commit": {
+      "sha": "330702f0698e581bc94feba2956101297cffc014",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/330702f0698e581bc94feba2956101297cffc014"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMS4x"
+  },
+  {
+    "name": "1.1.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.1.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.1.0",
+    "commit": {
+      "sha": "741eab81a06c2a368d5e7b8ed33d1524edaf8f02",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/741eab81a06c2a368d5e7b8ed33d1524edaf8f02"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMS4w"
+  },
+  {
+    "name": "1.0.9",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.9",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.9",
+    "commit": {
+      "sha": "e495ef8dbd0715d9ee284aeea2b3992403d6d26c",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/e495ef8dbd0715d9ee284aeea2b3992403d6d26c"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC45"
+  },
+  {
+    "name": "1.0.8",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.8",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.8",
+    "commit": {
+      "sha": "f11fb764bfce4d4f35a0a1799998e6566a352f76",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/f11fb764bfce4d4f35a0a1799998e6566a352f76"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC44"
+  },
+  {
+    "name": "1.0.7",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.7",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.7",
+    "commit": {
+      "sha": "8780ba5eef415088cd10d3b01115e8d59bb9a164",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/8780ba5eef415088cd10d3b01115e8d59bb9a164"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC43"
+  },
+  {
+    "name": "1.0.6",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.6",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.6",
+    "commit": {
+      "sha": "8d09269ba3e81f4a047864ce93858f95e29e6b60",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/8d09269ba3e81f4a047864ce93858f95e29e6b60"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC42"
+  },
+  {
+    "name": "1.0.5",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.5",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.5",
+    "commit": {
+      "sha": "6bd2098637243d0fbaf25758360ffbc705cc7ea4",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/6bd2098637243d0fbaf25758360ffbc705cc7ea4"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC41"
+  },
+  {
+    "name": "1.0.4",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.4",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.4",
+    "commit": {
+      "sha": "0d1facfb1fc9ad0b1e52f726c29353649f548868",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/0d1facfb1fc9ad0b1e52f726c29353649f548868"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC40"
+  },
+  {
+    "name": "1.0.3",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.3",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.3",
+    "commit": {
+      "sha": "eed43b94381d7f57b4371f944583c4f0bb950871",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/eed43b94381d7f57b4371f944583c4f0bb950871"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC4z"
+  },
+  {
+    "name": "1.0.2",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.2",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.2",
+    "commit": {
+      "sha": "616e85fbd899e16a14f24016ca37b257d9b87a1c",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/616e85fbd899e16a14f24016ca37b257d9b87a1c"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC4y"
+  },
+  {
+    "name": "1.0.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/ARouter/zipball/refs/tags/1.0.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/ARouter/tarball/refs/tags/1.0.1",
+    "commit": {
+      "sha": "57b46dca65c329d7500c8cc9507fcb2f264cd3d2",
+      "url": "https://api.github.com/repos/alibaba/ARouter/commits/57b46dca65c329d7500c8cc9507fcb2f264cd3d2"
+    },
+    "node_id": "MDM6UmVmNzY0MTMxODY6cmVmcy90YWdzLzEuMC4x"
+  }
+]

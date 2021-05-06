@@ -1,0 +1,302 @@
+[
+  {
+    "name": "vv2.6.0-beta10",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/vv2.6.0-beta10",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/vv2.6.0-beta10",
+    "commit": {
+      "sha": "31c6d89cf6fb12e5a9e9798aed6404d7d607e929",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/31c6d89cf6fb12e5a9e9798aed6404d7d607e929"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3Z2Mi42LjAtYmV0YTEw"
+  },
+  {
+    "name": "v3.6.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.6.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.6.1",
+    "commit": {
+      "sha": "446d588db77bf2c2b42a7fd69be1371a71929dcc",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/446d588db77bf2c2b42a7fd69be1371a71929dcc"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjYuMQ=="
+  },
+  {
+    "name": "v3.6.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.6.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.6.0",
+    "commit": {
+      "sha": "b277b57fb21f19afefa0076fe3772a166de7a71a",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/b277b57fb21f19afefa0076fe3772a166de7a71a"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjYuMA=="
+  },
+  {
+    "name": "v3.5.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.5.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.5.0",
+    "commit": {
+      "sha": "97286e34cfbb401bab4c813f9efb40cf93452f10",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/97286e34cfbb401bab4c813f9efb40cf93452f10"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjUuMA=="
+  },
+  {
+    "name": "v3.4.4",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.4.4",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.4.4",
+    "commit": {
+      "sha": "18bbe72caa7c0f2368cb72ddfccc33ba85a0348f",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/18bbe72caa7c0f2368cb72ddfccc33ba85a0348f"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjQuNA=="
+  },
+  {
+    "name": "v3.4.3",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.4.3",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.4.3",
+    "commit": {
+      "sha": "edb4c2297ed4b1e2b22f4a3269617d2b7a0ff363",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/edb4c2297ed4b1e2b22f4a3269617d2b7a0ff363"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjQuMw=="
+  },
+  {
+    "name": "v3.4.2",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.4.2",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.4.2",
+    "commit": {
+      "sha": "bb518009c47b5f93d505d86f6365404f822033bd",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/bb518009c47b5f93d505d86f6365404f822033bd"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjQuMg=="
+  },
+  {
+    "name": "v3.4.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.4.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.4.1",
+    "commit": {
+      "sha": "1d4652804c145b11e3e0fb89c28f8e62cb1e50b4",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/1d4652804c145b11e3e0fb89c28f8e62cb1e50b4"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjQuMQ=="
+  },
+  {
+    "name": "v3.4.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.4.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.4.0",
+    "commit": {
+      "sha": "b56509c83a1025ea714ad90dae3aaae832f554cc",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/b56509c83a1025ea714ad90dae3aaae832f554cc"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjQuMA=="
+  },
+  {
+    "name": "v3.3.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.3.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.3.1",
+    "commit": {
+      "sha": "085a7cf8f629a3a15848657aa9f40b28febc0fed",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/085a7cf8f629a3a15848657aa9f40b28febc0fed"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjMuMQ=="
+  },
+  {
+    "name": "v3.3.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.3.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.3.0",
+    "commit": {
+      "sha": "329a515751c1cacc1aca1819bb17483d9b7624a8",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/329a515751c1cacc1aca1819bb17483d9b7624a8"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjMuMA=="
+  },
+  {
+    "name": "v3.2.2",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.2.2",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.2.2",
+    "commit": {
+      "sha": "9b375440adf3a8c89e4cfaf7f4ddac03ca5f698d",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/9b375440adf3a8c89e4cfaf7f4ddac03ca5f698d"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjIuMg=="
+  },
+  {
+    "name": "v3.2.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.2.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.2.1",
+    "commit": {
+      "sha": "1ca49d3cb45f12600e0d849bbf38c44bdb5f652d",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/1ca49d3cb45f12600e0d849bbf38c44bdb5f652d"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjIuMQ=="
+  },
+  {
+    "name": "v3.2.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.2.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.2.0",
+    "commit": {
+      "sha": "fb2b6cbf9f09e57debd14eb22bcab8d5206054e0",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/fb2b6cbf9f09e57debd14eb22bcab8d5206054e0"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjIuMA=="
+  },
+  {
+    "name": "v3.1.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.1.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.1.0",
+    "commit": {
+      "sha": "2786b1d5c66c02b9c219b57e7d1724badd5281ce",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/2786b1d5c66c02b9c219b57e7d1724badd5281ce"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjEuMA=="
+  },
+  {
+    "name": "v3.0.7",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.7",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.7",
+    "commit": {
+      "sha": "99dea0e0e3bc9d0b0b4b1cbf8cfa08163964e816",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/99dea0e0e3bc9d0b0b4b1cbf8cfa08163964e816"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuNw=="
+  },
+  {
+    "name": "v3.0.6",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.6",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.6",
+    "commit": {
+      "sha": "35de50dd3bbe1b11aa6e983209c26ec0bd99d359",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/35de50dd3bbe1b11aa6e983209c26ec0bd99d359"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuNg=="
+  },
+  {
+    "name": "v3.0.5",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.5",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.5",
+    "commit": {
+      "sha": "da11cc72295d6bbf70035667d9dd1871d248cde5",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/da11cc72295d6bbf70035667d9dd1871d248cde5"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuNQ=="
+  },
+  {
+    "name": "v3.0.4",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.4",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.4",
+    "commit": {
+      "sha": "77401c58972d6a60b6ee530b58459df6b84f0991",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/77401c58972d6a60b6ee530b58459df6b84f0991"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuNA=="
+  },
+  {
+    "name": "v3.0.3",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.3",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.3",
+    "commit": {
+      "sha": "6bef284ac9b23c215364d2cd5221a29120c0e889",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/6bef284ac9b23c215364d2cd5221a29120c0e889"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMw=="
+  },
+  {
+    "name": "v3.0.2",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.2",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.2",
+    "commit": {
+      "sha": "0c138f8fc2ea5ed5ae4d725cbaeab5131a933d36",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/0c138f8fc2ea5ed5ae4d725cbaeab5131a933d36"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMg=="
+  },
+  {
+    "name": "v3.0.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.1",
+    "commit": {
+      "sha": "46f88fe7d1260ded135af8a00f53190c38ff8624",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/46f88fe7d1260ded135af8a00f53190c38ff8624"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMQ=="
+  },
+  {
+    "name": "v3.0.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.0",
+    "commit": {
+      "sha": "d7e044f21ee2fde0b69dde068f76503aa23fa5a8",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/d7e044f21ee2fde0b69dde068f76503aa23fa5a8"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMA=="
+  },
+  {
+    "name": "v3.0.0-beta3",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.0-beta3",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.0-beta3",
+    "commit": {
+      "sha": "e3bba6cbef78f1883e320ae2268e01b2889a073c",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/e3bba6cbef78f1883e320ae2268e01b2889a073c"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMC1iZXRhMw=="
+  },
+  {
+    "name": "v3.0.0-beta2",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.0-beta2",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.0-beta2",
+    "commit": {
+      "sha": "deb6e2208721902d6057ed88f18361e0c77eb6d8",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/deb6e2208721902d6057ed88f18361e0c77eb6d8"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMC1iZXRhMg=="
+  },
+  {
+    "name": "v3.0.0-beta1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v3.0.0-beta1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v3.0.0-beta1",
+    "commit": {
+      "sha": "3c0df996cbf5afbac380f4974bf668c33cc8e818",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/3c0df996cbf5afbac380f4974bf668c33cc8e818"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YzLjAuMC1iZXRhMQ=="
+  },
+  {
+    "name": "v2.8.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v2.8.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v2.8.0",
+    "commit": {
+      "sha": "7283e03c08776e542352166a1edcedf2adc0ef48",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/7283e03c08776e542352166a1edcedf2adc0ef48"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YyLjguMA=="
+  },
+  {
+    "name": "v2.7.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v2.7.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v2.7.0",
+    "commit": {
+      "sha": "49d94b859943d754d6c7b8a1843c3302aba2b9ec",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/49d94b859943d754d6c7b8a1843c3302aba2b9ec"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YyLjcuMA=="
+  },
+  {
+    "name": "v2.6.1",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v2.6.1",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v2.6.1",
+    "commit": {
+      "sha": "073bf89653b3f6871018802f7912c8119a93643f",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/073bf89653b3f6871018802f7912c8119a93643f"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YyLjYuMQ=="
+  },
+  {
+    "name": "v2.6.0",
+    "zipball_url": "https://api.github.com/repos/airbnb/lottie-android/zipball/refs/tags/v2.6.0",
+    "tarball_url": "https://api.github.com/repos/airbnb/lottie-android/tarball/refs/tags/v2.6.0",
+    "commit": {
+      "sha": "b82850ab09cb6fdb1b5818f41319adfb58b5bcd0",
+      "url": "https://api.github.com/repos/airbnb/lottie-android/commits/b82850ab09cb6fdb1b5818f41319adfb58b5bcd0"
+    },
+    "node_id": "MDM6UmVmNzAxOTg4NzU6cmVmcy90YWdzL3YyLjYuMA=="
+  }
+]

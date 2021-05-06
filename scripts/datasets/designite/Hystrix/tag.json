@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.5.18",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.18",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.18",
+    "commit": {
+      "sha": "809104c8751be0065a8269df3677965f3092e6b9",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/809104c8751be0065a8269df3677965f3092e6b9"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xOA=="
+  },
+  {
+    "name": "v1.5.17",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.17",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.17",
+    "commit": {
+      "sha": "ed2c966f7f598dc5169c72349a611aeef309d97a",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/ed2c966f7f598dc5169c72349a611aeef309d97a"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xNw=="
+  },
+  {
+    "name": "v1.5.16",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.16",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.16",
+    "commit": {
+      "sha": "2aa9d9cf444d31a5402377e64f15c89b4727bbea",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/2aa9d9cf444d31a5402377e64f15c89b4727bbea"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xNg=="
+  },
+  {
+    "name": "v1.5.15",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.15",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.15",
+    "commit": {
+      "sha": "db8ab7598049c411fe41044cd0cd6249241e18f0",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/db8ab7598049c411fe41044cd0cd6249241e18f0"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xNQ=="
+  },
+  {
+    "name": "v1.5.14",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.14",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.14",
+    "commit": {
+      "sha": "db8ab7598049c411fe41044cd0cd6249241e18f0",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/db8ab7598049c411fe41044cd0cd6249241e18f0"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xNA=="
+  },
+  {
+    "name": "v1.5.13",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.13",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.13",
+    "commit": {
+      "sha": "a8203446b90333f005c88cacf91a5dc8faf07c1c",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/a8203446b90333f005c88cacf91a5dc8faf07c1c"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xMw=="
+  },
+  {
+    "name": "v1.5.12",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.12",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.12",
+    "commit": {
+      "sha": "a7b66cad1874d5d0dc21d8e490e89f83e078a9f4",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/a7b66cad1874d5d0dc21d8e490e89f83e078a9f4"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xMg=="
+  },
+  {
+    "name": "v1.5.11",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.11",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.11",
+    "commit": {
+      "sha": "db8ab7598049c411fe41044cd0cd6249241e18f0",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/db8ab7598049c411fe41044cd0cd6249241e18f0"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xMQ=="
+  },
+  {
+    "name": "v1.5.10",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.10",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.10",
+    "commit": {
+      "sha": "4cf7e88d116d6d1505312070990b0ef65f2a1986",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/4cf7e88d116d6d1505312070990b0ef65f2a1986"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4xMA=="
+  },
+  {
+    "name": "v1.5.9",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.9",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.9",
+    "commit": {
+      "sha": "3c6b1b03c535bf6b8b2d574d0eb62193cea617a6",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/3c6b1b03c535bf6b8b2d574d0eb62193cea617a6"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS45"
+  },
+  {
+    "name": "v1.5.8",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.8",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.8",
+    "commit": {
+      "sha": "1f6e9d4172a65b7faf06425afbb627ae603247e8",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/1f6e9d4172a65b7faf06425afbb627ae603247e8"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS44"
+  },
+  {
+    "name": "v1.5.7",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.7",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.7",
+    "commit": {
+      "sha": "e701c5422c969699b60ee10fe18c9b2d2b2bc063",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/e701c5422c969699b60ee10fe18c9b2d2b2bc063"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS43"
+  },
+  {
+    "name": "v1.5.6",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.6",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.6",
+    "commit": {
+      "sha": "4ec663e4fb63c4df5e77743b2031f389bf885f0c",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/4ec663e4fb63c4df5e77743b2031f389bf885f0c"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS42"
+  },
+  {
+    "name": "v1.5.5",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.5",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.5",
+    "commit": {
+      "sha": "68ecc5a03ae09470fc95426263789897c5601748",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/68ecc5a03ae09470fc95426263789897c5601748"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS41"
+  },
+  {
+    "name": "v1.5.4",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.4",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.4",
+    "commit": {
+      "sha": "f27c62c4edf37f29db4cbbca5a77d3c8cbf25364",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/f27c62c4edf37f29db4cbbca5a77d3c8cbf25364"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS40"
+  },
+  {
+    "name": "v1.5.3",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.3",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.3",
+    "commit": {
+      "sha": "5d27548e5b9b7c770f689771b89767f06f8a870a",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/5d27548e5b9b7c770f689771b89767f06f8a870a"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4z"
+  },
+  {
+    "name": "v1.5.3-rc.2",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.3-rc.2",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.3-rc.2",
+    "commit": {
+      "sha": "7d3afbf11b30611433eb5f3bb1274643a1cae09e",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/7d3afbf11b30611433eb5f3bb1274643a1cae09e"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4zLXJjLjI="
+  },
+  {
+    "name": "v1.5.3-rc.1",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.3-rc.1",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.3-rc.1",
+    "commit": {
+      "sha": "9f64774dbf9b0181bfe0cf901e7a2d59477dedc6",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/9f64774dbf9b0181bfe0cf901e7a2d59477dedc6"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4zLXJjLjE="
+  },
+  {
+    "name": "v1.5.2",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.2",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.2",
+    "commit": {
+      "sha": "559341311ba47315efeee2bd9c562ca37aa7a10a",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/559341311ba47315efeee2bd9c562ca37aa7a10a"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4y"
+  },
+  {
+    "name": "v1.5.1",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.1",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.1",
+    "commit": {
+      "sha": "19dd71ea6bbaac642462ae50df5ed69008bfb846",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/19dd71ea6bbaac642462ae50df5ed69008bfb846"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4x"
+  },
+  {
+    "name": "v1.5.0",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0",
+    "commit": {
+      "sha": "c280059bc932ff8950eee9ce9278d9355597eb8a",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/c280059bc932ff8950eee9ce9278d9355597eb8a"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4w"
+  },
+  {
+    "name": "v1.5.0-rc.5",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0-rc.5",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0-rc.5",
+    "commit": {
+      "sha": "4ae31e9f8437ab48501d6554d7d577f8147614d7",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/4ae31e9f8437ab48501d6554d7d577f8147614d7"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4wLXJjLjU="
+  },
+  {
+    "name": "v1.5.0-rc.4",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0-rc.4",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0-rc.4",
+    "commit": {
+      "sha": "56680f77d61bf1e575cfb023d2a1131f27b2d9aa",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/56680f77d61bf1e575cfb023d2a1131f27b2d9aa"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4wLXJjLjQ="
+  },
+  {
+    "name": "v1.5.0-rc.3",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0-rc.3",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0-rc.3",
+    "commit": {
+      "sha": "5bf9d3045a1d165088c39c533dd813f0531302b8",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/5bf9d3045a1d165088c39c533dd813f0531302b8"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4wLXJjLjM="
+  },
+  {
+    "name": "v1.5.0-rc.2",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0-rc.2",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0-rc.2",
+    "commit": {
+      "sha": "6b97ee5a405883249eeb11a84b1b3cfbe0e4faac",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/6b97ee5a405883249eeb11a84b1b3cfbe0e4faac"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4wLXJjLjI="
+  },
+  {
+    "name": "v1.5.0-rc.1",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.5.0-rc.1",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.5.0-rc.1",
+    "commit": {
+      "sha": "56ef8c2d2a5b840aa9f7533c0fd1b865c6ec59ef",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/56ef8c2d2a5b840aa9f7533c0fd1b865c6ec59ef"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNS4wLXJjLjE="
+  },
+  {
+    "name": "v1.4.26",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.4.26",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.4.26",
+    "commit": {
+      "sha": "69b768268052b6d85233705514aa08cd39608f47",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/69b768268052b6d85233705514aa08cd39608f47"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNC4yNg=="
+  },
+  {
+    "name": "v1.4.25",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.4.25",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.4.25",
+    "commit": {
+      "sha": "6f55c0aa1bf8a657606dabe4ed3836e90181e77c",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/6f55c0aa1bf8a657606dabe4ed3836e90181e77c"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNC4yNQ=="
+  },
+  {
+    "name": "v1.4.24",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.4.24",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.4.24",
+    "commit": {
+      "sha": "b3d74a55cb496427f954628dfe07e59cb965bdf7",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/b3d74a55cb496427f954628dfe07e59cb965bdf7"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNC4yNA=="
+  },
+  {
+    "name": "v1.4.23",
+    "zipball_url": "https://api.github.com/repos/Netflix/Hystrix/zipball/refs/tags/v1.4.23",
+    "tarball_url": "https://api.github.com/repos/Netflix/Hystrix/tarball/refs/tags/v1.4.23",
+    "commit": {
+      "sha": "b7ef9b1fecbc287283c33229d354a5c67c7e2bb7",
+      "url": "https://api.github.com/repos/Netflix/Hystrix/commits/b7ef9b1fecbc287283c33229d354a5c67c7e2bb7"
+    },
+    "node_id": "MDM6UmVmNjc2NjU1ODpyZWZzL3RhZ3MvdjEuNC4yMw=="
+  }
+]

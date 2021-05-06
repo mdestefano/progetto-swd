@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v0.17.3",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/v0.17.3",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/v0.17.3",
+    "commit": {
+      "sha": "3d42e59f55f45a5edeb9107be2ee66cce3b23d31",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/3d42e59f55f45a5edeb9107be2ee66cce3b23d31"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy92MC4xNy4z"
+  },
+  {
+    "name": "untagged-00020ffd9e678a915d12",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/untagged-00020ffd9e678a915d12",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/untagged-00020ffd9e678a915d12",
+    "commit": {
+      "sha": "1d00c4a435cfd2f65caa7db8b7245c2c5524c466",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/1d00c4a435cfd2f65caa7db8b7245c2c5524c466"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy91bnRhZ2dlZC0wMDAyMGZmZDllNjc4YTkxNWQxMg=="
+  },
+  {
+    "name": "Support_Google_Play",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/Support_Google_Play",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/Support_Google_Play",
+    "commit": {
+      "sha": "a9efea10e05b3f118453aa2d9a6820627841bdae",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/a9efea10e05b3f118453aa2d9a6820627841bdae"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy9TdXBwb3J0X0dvb2dsZV9QbGF5"
+  },
+  {
+    "name": "LaunchMode",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/LaunchMode",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/LaunchMode",
+    "commit": {
+      "sha": "bade1210a34062c0fd887339788edb95b72de858",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/bade1210a34062c0fd887339788edb95b72de858"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy9MYXVuY2hNb2Rl"
+  },
+  {
+    "name": "Feature_IO_Hook",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/Feature_IO_Hook",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/Feature_IO_Hook",
+    "commit": {
+      "sha": "0f5071946e3996945c5178707389119b696f8e15",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/0f5071946e3996945c5178707389119b696f8e15"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy9GZWF0dXJlX0lPX0hvb2s="
+  },
+  {
+    "name": "0.20.3",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.20.3",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.20.3",
+    "commit": {
+      "sha": "212db8e304d1205f4021be8411ac5dffc68eb658",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/212db8e304d1205f4021be8411ac5dffc68eb658"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjIwLjM="
+  },
+  {
+    "name": "0.20.2",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.20.2",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.20.2",
+    "commit": {
+      "sha": "41c3511fdf5a33771511c76243753b20d7ce8aee",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/41c3511fdf5a33771511c76243753b20d7ce8aee"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjIwLjI="
+  },
+  {
+    "name": "0.19.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.19.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.19.0",
+    "commit": {
+      "sha": "a1e2b2a1fe4d71eca1661bf1a7bf4b4fd4fa1f3a",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/a1e2b2a1fe4d71eca1661bf1a7bf4b4fd4fa1f3a"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE5LjA="
+  },
+  {
+    "name": "0.18.2",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.18.2",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.18.2",
+    "commit": {
+      "sha": "6cfcc0b14cd027f96aef0eef97faef7df608f8f8",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/6cfcc0b14cd027f96aef0eef97faef7df608f8f8"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE4LjI="
+  },
+  {
+    "name": "0.18.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.18.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.18.1",
+    "commit": {
+      "sha": "1ab205cf208d58e1a72dca620051d0f006fb4139",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/1ab205cf208d58e1a72dca620051d0f006fb4139"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE4LjE="
+  },
+  {
+    "name": "0.18.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.18.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.18.0",
+    "commit": {
+      "sha": "7b2068404e2dafa8f8f8ed2eed70ca99028f23bd",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/7b2068404e2dafa8f8f8ed2eed70ca99028f23bd"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE4LjA="
+  },
+  {
+    "name": "0.17.4",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.17.4",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.17.4",
+    "commit": {
+      "sha": "1b17825e4d516d5b57ef566113a1bddaeec2fa87",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/1b17825e4d516d5b57ef566113a1bddaeec2fa87"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE3LjQ="
+  },
+  {
+    "name": "0.17.2",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.17.2",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.17.2",
+    "commit": {
+      "sha": "8f0714b7d6af0072d8a5c30a53c01629d305c649",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/8f0714b7d6af0072d8a5c30a53c01629d305c649"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE3LjI="
+  },
+  {
+    "name": "0.17.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.17.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.17.1",
+    "commit": {
+      "sha": "4aa9b458702b5a1349e6c8aa35bcbc332a44a6cc",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/4aa9b458702b5a1349e6c8aa35bcbc332a44a6cc"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE3LjE="
+  },
+  {
+    "name": "0.17.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.17.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.17.0",
+    "commit": {
+      "sha": "6569e12695ca65ba07617abd48a9cfbb163f2650",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/6569e12695ca65ba07617abd48a9cfbb163f2650"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE3LjA="
+  },
+  {
+    "name": "0.16.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.16.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.16.1",
+    "commit": {
+      "sha": "7d051f02b4d31daff09a841aa1baf62d7cd6b8f6",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/7d051f02b4d31daff09a841aa1baf62d7cd6b8f6"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE2LjE="
+  },
+  {
+    "name": "0.16.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.16.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.16.0",
+    "commit": {
+      "sha": "30a65101e3546a5ba901f384cccd24acc5023741",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/30a65101e3546a5ba901f384cccd24acc5023741"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE2LjA="
+  },
+  {
+    "name": "0.15.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.15.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.15.1",
+    "commit": {
+      "sha": "128437d8b3b22beaf12d41c60bfe4dc8fdb07fe5",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/128437d8b3b22beaf12d41c60bfe4dc8fdb07fe5"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE1LjE="
+  },
+  {
+    "name": "0.14.6",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.14.6",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.14.6",
+    "commit": {
+      "sha": "9d28a09b97a0c78511a144ca9906bde59692936a",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/9d28a09b97a0c78511a144ca9906bde59692936a"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE0LjY="
+  },
+  {
+    "name": "0.14.5",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.14.5",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.14.5",
+    "commit": {
+      "sha": "fbf80a79c0acea402d20441263bf4c4a8ea8ade8",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/fbf80a79c0acea402d20441263bf4c4a8ea8ade8"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE0LjU="
+  },
+  {
+    "name": "0.14.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.14.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.14.0",
+    "commit": {
+      "sha": "49e1d3945475d6678b4a6cd5ee6208d3771be7a2",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/49e1d3945475d6678b4a6cd5ee6208d3771be7a2"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjE0LjA="
+  },
+  {
+    "name": "0.13.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.13.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.13.0",
+    "commit": {
+      "sha": "5bec36803b61c3183f0c56078930d61e7a704775",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/5bec36803b61c3183f0c56078930d61e7a704775"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEzLjA="
+  },
+  {
+    "name": "0.12.9",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.12.9",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.12.9",
+    "commit": {
+      "sha": "5bec36803b61c3183f0c56078930d61e7a704775",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/5bec36803b61c3183f0c56078930d61e7a704775"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEyLjk="
+  },
+  {
+    "name": "0.12.7",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.12.7",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.12.7",
+    "commit": {
+      "sha": "6294fad7933bee1d76d66dd6e3bdb2871146c31a",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/6294fad7933bee1d76d66dd6e3bdb2871146c31a"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEyLjc="
+  },
+  {
+    "name": "0.12.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.12.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.12.1",
+    "commit": {
+      "sha": "9b9222e8eeac450da9f77e4723e5ca7fc5f48a2c",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/9b9222e8eeac450da9f77e4723e5ca7fc5f48a2c"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEyLjE="
+  },
+  {
+    "name": "0.12.0",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.12.0",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.12.0",
+    "commit": {
+      "sha": "1d00c4a435cfd2f65caa7db8b7245c2c5524c466",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/1d00c4a435cfd2f65caa7db8b7245c2c5524c466"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEyLjA="
+  },
+  {
+    "name": "0.11.5",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.11.5",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.11.5",
+    "commit": {
+      "sha": "12f5cf79ef7e68fb793fac595bb279fb8f52e270",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/12f5cf79ef7e68fb793fac595bb279fb8f52e270"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjExLjU="
+  },
+  {
+    "name": "0.11.2",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.11.2",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.11.2",
+    "commit": {
+      "sha": "163f257544ef13675866b149bde168e4a3424a6f",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/163f257544ef13675866b149bde168e4a3424a6f"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjExLjI="
+  },
+  {
+    "name": "0.11.1",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.11.1",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.11.1",
+    "commit": {
+      "sha": "0968bc1d760a367b036ecc82f4dcc1cfb9ff8b23",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/0968bc1d760a367b036ecc82f4dcc1cfb9ff8b23"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjExLjE="
+  },
+  {
+    "name": "0.10.3",
+    "zipball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/zipball/refs/tags/0.10.3",
+    "tarball_url": "https://api.github.com/repos/android-hacker/VirtualXposed/tarball/refs/tags/0.10.3",
+    "commit": {
+      "sha": "e5350b9c85c9d5fbfa53e3a85f992f63859df3ed",
+      "url": "https://api.github.com/repos/android-hacker/VirtualXposed/commits/e5350b9c85c9d5fbfa53e3a85f992f63859df3ed"
+    },
+    "node_id": "MDM6UmVmMTEyNzE3OTYzOnJlZnMvdGFncy8wLjEwLjM="
+  }
+]

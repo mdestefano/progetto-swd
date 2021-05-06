@@ -1,0 +1,152 @@
+[
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "381afa27410249aae4a99a3f88bb65ecce548f6c",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/381afa27410249aae4a99a3f88bb65ecce548f6c"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjEuMi4w"
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "cc29da8e81e5bab534ad3d014e7162e1869d7ff6",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/cc29da8e81e5bab534ad3d014e7162e1869d7ff6"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjEuMS4w"
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "f02a33ace3b451420c2a7113840c2a514133644d",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/f02a33ace3b451420c2a7113840c2a514133644d"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjEuMC4w"
+  },
+  {
+    "name": "v0.9.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.9.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.9.0",
+    "commit": {
+      "sha": "8c7140d6b816fa65a51501098e86422bfe6b1723",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/8c7140d6b816fa65a51501098e86422bfe6b1723"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuOS4w"
+  },
+  {
+    "name": "v0.8.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.8.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.8.0",
+    "commit": {
+      "sha": "156e4209f98946a28be78a1dd4565383c922ba0b",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/156e4209f98946a28be78a1dd4565383c922ba0b"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuOC4w"
+  },
+  {
+    "name": "v0.7.1",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.7.1",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.7.1",
+    "commit": {
+      "sha": "1a736aadf5ed2b34134a28479782931f5d73cdf0",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/1a736aadf5ed2b34134a28479782931f5d73cdf0"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNy4x"
+  },
+  {
+    "name": "v0.6.1",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.6.1",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.6.1",
+    "commit": {
+      "sha": "913a5b5d0fa54b74058f5f2a6f3eccc87456a912",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/913a5b5d0fa54b74058f5f2a6f3eccc87456a912"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNi4x"
+  },
+  {
+    "name": "v0.6.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.6.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.6.0",
+    "commit": {
+      "sha": "3782aa7d0abbccb27cc338def860cd5573c33b41",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/3782aa7d0abbccb27cc338def860cd5573c33b41"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNi4w"
+  },
+  {
+    "name": "v0.5.4",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.5.4",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.5.4",
+    "commit": {
+      "sha": "fcb120a3edff42a423d037eb4cb22105d37630b6",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/fcb120a3edff42a423d037eb4cb22105d37630b6"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNS40"
+  },
+  {
+    "name": "v0.5.2",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.5.2",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.5.2",
+    "commit": {
+      "sha": "671be0af0a497d71c11ae0674e0e66aa68cad40c",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/671be0af0a497d71c11ae0674e0e66aa68cad40c"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNS4y"
+  },
+  {
+    "name": "v0.5.1",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.5.1",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.5.1",
+    "commit": {
+      "sha": "eaf623a560ec731aa006e42f4c9e0ea0e2985fa1",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/eaf623a560ec731aa006e42f4c9e0ea0e2985fa1"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNS4x"
+  },
+  {
+    "name": "v0.5.0",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.5.0",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.5.0",
+    "commit": {
+      "sha": "18a1788d2d4704e8a404c7bbb4b33e660abbb713",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/18a1788d2d4704e8a404c7bbb4b33e660abbb713"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNS4w"
+  },
+  {
+    "name": "v0.5.0-beta1",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.5.0-beta1",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.5.0-beta1",
+    "commit": {
+      "sha": "6bac5c162e2e91c1ec2b72bf6f2587f204b20f83",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/6bac5c162e2e91c1ec2b72bf6f2587f204b20f83"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNS4wLWJldGEx"
+  },
+  {
+    "name": "v0.4.1",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.4.1",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.4.1",
+    "commit": {
+      "sha": "5a40d960b2ad9aeae74f984625ae4a7a5b0af5ea",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/5a40d960b2ad9aeae74f984625ae4a7a5b0af5ea"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNC4x"
+  },
+  {
+    "name": "v0.4",
+    "zipball_url": "https://api.github.com/repos/skylot/jadx/zipball/refs/tags/v0.4",
+    "tarball_url": "https://api.github.com/repos/skylot/jadx/tarball/refs/tags/v0.4",
+    "commit": {
+      "sha": "1eb3555fed815eff9d317914be03f859bf9eecc9",
+      "url": "https://api.github.com/repos/skylot/jadx/commits/1eb3555fed815eff9d317914be03f859bf9eecc9"
+    },
+    "node_id": "MDM6UmVmODg1OTQ3NDpyZWZzL3RhZ3MvdjAuNA=="
+  }
+]

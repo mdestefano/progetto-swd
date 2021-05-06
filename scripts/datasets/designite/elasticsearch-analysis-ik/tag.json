@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v7.12.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.12.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.12.0",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTIuMA=="
+  },
+  {
+    "name": "v7.11.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.11.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.11.2",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTEuMg=="
+  },
+  {
+    "name": "v7.11.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.11.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.11.1",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTEuMQ=="
+  },
+  {
+    "name": "v7.10.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.10.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.10.2",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTAuMg=="
+  },
+  {
+    "name": "v7.10.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.10.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.10.1",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTAuMQ=="
+  },
+  {
+    "name": "v7.10.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.10.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.10.0",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMTAuMA=="
+  },
+  {
+    "name": "v7.9.3",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.9.3",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.9.3",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOS4z"
+  },
+  {
+    "name": "v7.9.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.9.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.9.2",
+    "commit": {
+      "sha": "5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5a1b8c8da629a05bd7c16245da5cbe0d3a0dad1c"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOS4y"
+  },
+  {
+    "name": "v7.9.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.9.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.9.1",
+    "commit": {
+      "sha": "1375ca6d39c53c85542ee4e8c147bfff8131e420",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/1375ca6d39c53c85542ee4e8c147bfff8131e420"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOS4x"
+  },
+  {
+    "name": "v7.9.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.9.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.9.0",
+    "commit": {
+      "sha": "1375ca6d39c53c85542ee4e8c147bfff8131e420",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/1375ca6d39c53c85542ee4e8c147bfff8131e420"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOS4w"
+  },
+  {
+    "name": "v7.8.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.8.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.8.1",
+    "commit": {
+      "sha": "1375ca6d39c53c85542ee4e8c147bfff8131e420",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/1375ca6d39c53c85542ee4e8c147bfff8131e420"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOC4x"
+  },
+  {
+    "name": "v7.8.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.8.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.8.0",
+    "commit": {
+      "sha": "1375ca6d39c53c85542ee4e8c147bfff8131e420",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/1375ca6d39c53c85542ee4e8c147bfff8131e420"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuOC4w"
+  },
+  {
+    "name": "v7.7.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.7.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.7.1",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNy4x"
+  },
+  {
+    "name": "v7.7.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.7.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.7.0",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNy4w"
+  },
+  {
+    "name": "v7.6.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.6.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.6.2",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNi4y"
+  },
+  {
+    "name": "v7.6.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.6.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.6.1",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNi4x"
+  },
+  {
+    "name": "v7.6.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.6.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.6.0",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNi4w"
+  },
+  {
+    "name": "v7.5.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.5.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.5.2",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNS4y"
+  },
+  {
+    "name": "v7.5.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.5.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.5.1",
+    "commit": {
+      "sha": "4619effa155056eb67411a87e8a96b5a78cc6d0b",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/4619effa155056eb67411a87e8a96b5a78cc6d0b"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNS4x"
+  },
+  {
+    "name": "v7.5.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.5.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.5.0",
+    "commit": {
+      "sha": "5f53f1a5bf93723cb7a1951df11e16145080a0aa",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5f53f1a5bf93723cb7a1951df11e16145080a0aa"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNS4w"
+  },
+  {
+    "name": "v7.4.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.4.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.4.2",
+    "commit": {
+      "sha": "5f53f1a5bf93723cb7a1951df11e16145080a0aa",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5f53f1a5bf93723cb7a1951df11e16145080a0aa"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNC4y"
+  },
+  {
+    "name": "v7.4.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.4.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.4.1",
+    "commit": {
+      "sha": "5f53f1a5bf93723cb7a1951df11e16145080a0aa",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5f53f1a5bf93723cb7a1951df11e16145080a0aa"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNC4x"
+  },
+  {
+    "name": "v7.4.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.4.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.4.0",
+    "commit": {
+      "sha": "5f53f1a5bf93723cb7a1951df11e16145080a0aa",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/5f53f1a5bf93723cb7a1951df11e16145080a0aa"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuNC4w"
+  },
+  {
+    "name": "v7.3.2",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.3.2",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.3.2",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMy4y"
+  },
+  {
+    "name": "v7.3.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.3.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.3.1",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMy4x"
+  },
+  {
+    "name": "v7.3.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.3.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.3.0",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMy4w"
+  },
+  {
+    "name": "v7.2.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.2.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.2.1",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMi4x"
+  },
+  {
+    "name": "v7.2.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.2.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.2.0",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMi4w"
+  },
+  {
+    "name": "v7.1.1",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.1.1",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.1.1",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMS4x"
+  },
+  {
+    "name": "v7.1.0",
+    "zipball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/zipball/refs/tags/v7.1.0",
+    "tarball_url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/tarball/refs/tags/v7.1.0",
+    "commit": {
+      "sha": "06e8a23d1828ae993aef21b81829a7729d06f224",
+      "url": "https://api.github.com/repos/medcl/elasticsearch-analysis-ik/commits/06e8a23d1828ae993aef21b81829a7729d06f224"
+    },
+    "node_id": "MDM6UmVmMjk5MzU5NTpyZWZzL3RhZ3MvdjcuMS4w"
+  }
+]

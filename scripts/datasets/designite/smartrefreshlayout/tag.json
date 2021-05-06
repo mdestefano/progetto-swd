@@ -1,0 +1,112 @@
+[
+  {
+    "name": "V2.0.0",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V2.0.0",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V2.0.0",
+    "commit": {
+      "sha": "d3598950244d685af762627b87a68d7b75389240",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/d3598950244d685af762627b87a68d7b75389240"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YyLjAuMA=="
+  },
+  {
+    "name": "V1.1.2",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.1.2",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.1.2",
+    "commit": {
+      "sha": "c54bc67fabdaeec3b1e5dc9dca64ce16d4dcc720",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/c54bc67fabdaeec3b1e5dc9dca64ce16d4dcc720"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjEuMg=="
+  },
+  {
+    "name": "V1.1.1",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.1.1",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.1.1",
+    "commit": {
+      "sha": "b8581421bb094fb3cd4a08d19b89cbb95ae03263",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/b8581421bb094fb3cd4a08d19b89cbb95ae03263"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjEuMQ=="
+  },
+  {
+    "name": "V1.1.0",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.1.0",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.1.0",
+    "commit": {
+      "sha": "bc0231c219cae694821f9e3f09f1df1762d56c5f",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/bc0231c219cae694821f9e3f09f1df1762d56c5f"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjEuMA=="
+  },
+  {
+    "name": "V1.0.5",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.5",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.5",
+    "commit": {
+      "sha": "f4e3b07ae3f104580550d81fd6d2ad12f4de0a9e",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/f4e3b07ae3f104580550d81fd6d2ad12f4de0a9e"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuNQ=="
+  },
+  {
+    "name": "V1.0.4",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.4",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.4",
+    "commit": {
+      "sha": "e2bfeb1bbe4f39b32e496409894baca817ad8bbe",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/e2bfeb1bbe4f39b32e496409894baca817ad8bbe"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuNA=="
+  },
+  {
+    "name": "V1.0.3",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.3",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.3",
+    "commit": {
+      "sha": "3bd2f627806dc3cc3b1631640e9f44d105b70567",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/3bd2f627806dc3cc3b1631640e9f44d105b70567"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuMw=="
+  },
+  {
+    "name": "V1.0.2",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.2",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.2",
+    "commit": {
+      "sha": "c5f53510874c091cca7c7156b0bdc735f7955215",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/c5f53510874c091cca7c7156b0bdc735f7955215"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuMg=="
+  },
+  {
+    "name": "V1.0.1",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.1",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.1",
+    "commit": {
+      "sha": "084a2ec254af41b76be74c40c6e338228a99b96d",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/084a2ec254af41b76be74c40c6e338228a99b96d"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuMQ=="
+  },
+  {
+    "name": "V1.0.0",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V1.0.0",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V1.0.0",
+    "commit": {
+      "sha": "3f346d1be9650d4be39848b5270c91aad97e6aef",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/3f346d1be9650d4be39848b5270c91aad97e6aef"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YxLjAuMA=="
+  },
+  {
+    "name": "V-ART",
+    "zipball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/zipball/refs/tags/V-ART",
+    "tarball_url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/tarball/refs/tags/V-ART",
+    "commit": {
+      "sha": "a2d00cc7da73cc5c7cb1f49269c42fbcdb90e893",
+      "url": "https://api.github.com/repos/scwang90/SmartRefreshLayout/commits/a2d00cc7da73cc5c7cb1f49269c42fbcdb90e893"
+    },
+    "node_id": "MDM6UmVmOTMxNTIyMjM6cmVmcy90YWdzL1YtQVJU"
+  }
+]

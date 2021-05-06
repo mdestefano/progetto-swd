@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v2.9.22",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.22",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.22",
+    "commit": {
+      "sha": "3c459fa86033af7d18d8a68b4c4c1fb3807c74b6",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/3c459fa86033af7d18d8a68b4c4c1fb3807c74b6"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMjI="
+  },
+  {
+    "name": "v2.9.21",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.21",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.21",
+    "commit": {
+      "sha": "5912e9ff4d6f0606238ba9bc8b0c1afdd2af9879",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/5912e9ff4d6f0606238ba9bc8b0c1afdd2af9879"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMjE="
+  },
+  {
+    "name": "v2.9.20",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.20",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.20",
+    "commit": {
+      "sha": "f76b31d8e7585370db7b31eb1ecddbd82b5d345d",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/f76b31d8e7585370db7b31eb1ecddbd82b5d345d"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMjA="
+  },
+  {
+    "name": "v2.9.19",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.19",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.19",
+    "commit": {
+      "sha": "9f3302f7a9f72ee27e3963235f71dfb96b65e5dc",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/9f3302f7a9f72ee27e3963235f71dfb96b65e5dc"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTk="
+  },
+  {
+    "name": "v2.9.18",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.18",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.18",
+    "commit": {
+      "sha": "7f227ca7e79244db95ca7b8277b6026e549cc58d",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/7f227ca7e79244db95ca7b8277b6026e549cc58d"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTg="
+  },
+  {
+    "name": "v2.9.17",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.17",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.17",
+    "commit": {
+      "sha": "b3e60ce5bfbde0478aa83e710f343531b9dd8cd3",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/b3e60ce5bfbde0478aa83e710f343531b9dd8cd3"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTc="
+  },
+  {
+    "name": "v2.9.16",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.16",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.16",
+    "commit": {
+      "sha": "73882082e8bb76a22cc9719fed26a98a47027330",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/73882082e8bb76a22cc9719fed26a98a47027330"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTY="
+  },
+  {
+    "name": "v2.9.15",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.15",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.15",
+    "commit": {
+      "sha": "ad876e79a0e32cf237a7fd234ff4414551687a4c",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/ad876e79a0e32cf237a7fd234ff4414551687a4c"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTU="
+  },
+  {
+    "name": "v2.9.14",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.14",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.14",
+    "commit": {
+      "sha": "cbb642d21f527cd18316fbf6efe88c9a2eedfe7d",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/cbb642d21f527cd18316fbf6efe88c9a2eedfe7d"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTQ="
+  },
+  {
+    "name": "v2.9.13",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.13",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.13",
+    "commit": {
+      "sha": "8d07bd5e96349d33df321e669c27d3ea4fb695ec",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/8d07bd5e96349d33df321e669c27d3ea4fb695ec"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTM="
+  },
+  {
+    "name": "v2.9.12",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.12",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.12",
+    "commit": {
+      "sha": "2d493c10bc938cc83c131997ccdf0648ab6ff3fa",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/2d493c10bc938cc83c131997ccdf0648ab6ff3fa"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMTI="
+  },
+  {
+    "name": "v2.9.8",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.8",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.8",
+    "commit": {
+      "sha": "89a14066dadbd7887f70e71e526d8d8efc566606",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/89a14066dadbd7887f70e71e526d8d8efc566606"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuOA=="
+  },
+  {
+    "name": "v2.9.7",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.7",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.7",
+    "commit": {
+      "sha": "34de98f0e8b35c926ffd51f57f5641ff159adc38",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/34de98f0e8b35c926ffd51f57f5641ff159adc38"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuNw=="
+  },
+  {
+    "name": "v2.9.6",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.6",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.6",
+    "commit": {
+      "sha": "858f3ea76ca2e8182ee4d3c02c71c2892a8b721b",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/858f3ea76ca2e8182ee4d3c02c71c2892a8b721b"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuNg=="
+  },
+  {
+    "name": "v2.9.5",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.5",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.5",
+    "commit": {
+      "sha": "7a85b4f38df78ab38b40f269c8d7c66064ac5255",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/7a85b4f38df78ab38b40f269c8d7c66064ac5255"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuNQ=="
+  },
+  {
+    "name": "v2.9.4",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.4",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.4",
+    "commit": {
+      "sha": "c0fee4ed33f03c8e39155cd12c0e5c865b5e2eb5",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/c0fee4ed33f03c8e39155cd12c0e5c865b5e2eb5"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuNA=="
+  },
+  {
+    "name": "v2.9.3",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.3",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.3",
+    "commit": {
+      "sha": "2addfb9096e253e6153a060fb5aad21bd23e3711",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/2addfb9096e253e6153a060fb5aad21bd23e3711"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMw=="
+  },
+  {
+    "name": "v2.9.2",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.2",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.2",
+    "commit": {
+      "sha": "376510bf915a4865d61282b87a65459f3f075ebb",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/376510bf915a4865d61282b87a65459f3f075ebb"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMg=="
+  },
+  {
+    "name": "v2.9.1",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.1",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.1",
+    "commit": {
+      "sha": "3df513f0cdf5e5e6e2f525d3b428d763e6838461",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/3df513f0cdf5e5e6e2f525d3b428d763e6838461"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMQ=="
+  },
+  {
+    "name": "v2.9.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.9.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.9.0",
+    "commit": {
+      "sha": "0f5ef7794488aaa1c6e2761d77f3c222c780f355",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/0f5ef7794488aaa1c6e2761d77f3c222c780f355"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjkuMA=="
+  },
+  {
+    "name": "v2.8.1",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.8.1",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.8.1",
+    "commit": {
+      "sha": "60c7c60babfb39d65415413ea53ae05cadd6afbb",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/60c7c60babfb39d65415413ea53ae05cadd6afbb"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjguMQ=="
+  },
+  {
+    "name": "v2.8.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.8.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.8.0",
+    "commit": {
+      "sha": "1cd3bfa92f710efe480b9b2b9f2b819c27966269",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/1cd3bfa92f710efe480b9b2b9f2b819c27966269"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjguMA=="
+  },
+  {
+    "name": "v2.7.1",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.7.1",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.7.1",
+    "commit": {
+      "sha": "58020b0891480f0a7939b94914d3becfb3bde516",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/58020b0891480f0a7939b94914d3becfb3bde516"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjcuMQ=="
+  },
+  {
+    "name": "v2.7.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.7.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.7.0",
+    "commit": {
+      "sha": "6acac78011cfe233aea6b5cce8ec9c794a70b77d",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/6acac78011cfe233aea6b5cce8ec9c794a70b77d"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjcuMA=="
+  },
+  {
+    "name": "v2.6.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.6.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.6.0",
+    "commit": {
+      "sha": "89f8273ccf34379e8af2deefb03f66c513f16a13",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/89f8273ccf34379e8af2deefb03f66c513f16a13"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjYuMA=="
+  },
+  {
+    "name": "v2.5.2",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.5.2",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.5.2",
+    "commit": {
+      "sha": "bf583ec9d9c2c1ac23128bb9cbfabda4dd0c768a",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/bf583ec9d9c2c1ac23128bb9cbfabda4dd0c768a"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjUuMg=="
+  },
+  {
+    "name": "v2.5.1",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.5.1",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.5.1",
+    "commit": {
+      "sha": "7d69d6da8ca9117d726cb7724dd51c1ab987314a",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/7d69d6da8ca9117d726cb7724dd51c1ab987314a"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjUuMQ=="
+  },
+  {
+    "name": "v2.5.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.5.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.5.0",
+    "commit": {
+      "sha": "bb95011f4732d620f62a20d8c6f59e100ffb52aa",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/bb95011f4732d620f62a20d8c6f59e100ffb52aa"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjUuMA=="
+  },
+  {
+    "name": "v2.4.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.4.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.4.0",
+    "commit": {
+      "sha": "e88eff5e32ea99e7baf3c4c0c4039924528fd3ab",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/e88eff5e32ea99e7baf3c4c0c4039924528fd3ab"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjQuMA=="
+  },
+  {
+    "name": "v2.3.0",
+    "zipball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/zipball/refs/tags/v2.3.0",
+    "tarball_url": "https://api.github.com/repos/Konloch/bytecode-viewer/tarball/refs/tags/v2.3.0",
+    "commit": {
+      "sha": "058e32d1751374f746426b6f0460de050281ad09",
+      "url": "https://api.github.com/repos/Konloch/bytecode-viewer/commits/058e32d1751374f746426b6f0460de050281ad09"
+    },
+    "node_id": "MDM6UmVmMjUyMDEzNjE6cmVmcy90YWdzL3YyLjMuMA=="
+  }
+]

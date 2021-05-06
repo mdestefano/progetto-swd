@@ -1,0 +1,212 @@
+[
+  {
+    "name": "v11",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v11",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v11",
+    "commit": {
+      "sha": "7a73cbf4bb30e128990efff796696c1f5c94fa53",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/7a73cbf4bb30e128990efff796696c1f5c94fa53"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxMQ=="
+  },
+  {
+    "name": "v1.10",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.10",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.10",
+    "commit": {
+      "sha": "0cd51f5b357bed8fcbf1a2c7f28c4b5db8fa705a",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/0cd51f5b357bed8fcbf1a2c7f28c4b5db8fa705a"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjEw"
+  },
+  {
+    "name": "v1.9",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.9",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.9",
+    "commit": {
+      "sha": "5abbc1563422457d4c23e1a0a412d2b0c7dc334e",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/5abbc1563422457d4c23e1a0a412d2b0c7dc334e"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjk="
+  },
+  {
+    "name": "v1.8-tag",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.8-tag",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.8-tag",
+    "commit": {
+      "sha": "8ef1e6bd213d59d701d70bdccadcbbcdb5354a06",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/8ef1e6bd213d59d701d70bdccadcbbcdb5354a06"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjgtdGFn"
+  },
+  {
+    "name": "v1.8-release",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.8-release",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.8-release",
+    "commit": {
+      "sha": "8ef1e6bd213d59d701d70bdccadcbbcdb5354a06",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/8ef1e6bd213d59d701d70bdccadcbbcdb5354a06"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjgtcmVsZWFzZQ=="
+  },
+  {
+    "name": "v1.7-tag",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.7-tag",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.7-tag",
+    "commit": {
+      "sha": "99d3aaf5c98eda40653a10435aae2e3708ef830d",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/99d3aaf5c98eda40653a10435aae2e3708ef830d"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjctdGFn"
+  },
+  {
+    "name": "v1.7-release",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.7-release",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.7-release",
+    "commit": {
+      "sha": "99d3aaf5c98eda40653a10435aae2e3708ef830d",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/99d3aaf5c98eda40653a10435aae2e3708ef830d"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjctcmVsZWFzZQ=="
+  },
+  {
+    "name": "v1.6-tag",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.6-tag",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.6-tag",
+    "commit": {
+      "sha": "0219996fd04c78d1267ddccb6df4dcf4ac3ff05f",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/0219996fd04c78d1267ddccb6df4dcf4ac3ff05f"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjYtdGFn"
+  },
+  {
+    "name": "v1.6-release",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.6-release",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.6-release",
+    "commit": {
+      "sha": "0219996fd04c78d1267ddccb6df4dcf4ac3ff05f",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/0219996fd04c78d1267ddccb6df4dcf4ac3ff05f"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjYtcmVsZWFzZQ=="
+  },
+  {
+    "name": "v1.5",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.5",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.5",
+    "commit": {
+      "sha": "d713a3a8f7ae410f513bc1fdd7426b236f799fb1",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/d713a3a8f7ae410f513bc1fdd7426b236f799fb1"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjU="
+  },
+  {
+    "name": "v1.5-release",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.5-release",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.5-release",
+    "commit": {
+      "sha": "d713a3a8f7ae410f513bc1fdd7426b236f799fb1",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/d713a3a8f7ae410f513bc1fdd7426b236f799fb1"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjUtcmVsZWFzZQ=="
+  },
+  {
+    "name": "v1.4",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.4",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.4",
+    "commit": {
+      "sha": "dfe2d93f24328646e99aa536d31c3a095dcfbade",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/dfe2d93f24328646e99aa536d31c3a095dcfbade"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjQ="
+  },
+  {
+    "name": "v1.3",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.3",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.3",
+    "commit": {
+      "sha": "d01e32311b96b4c056b210ef1aa8b8d3d95d1a87",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/d01e32311b96b4c056b210ef1aa8b8d3d95d1a87"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjM="
+  },
+  {
+    "name": "v1.2",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.2",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.2",
+    "commit": {
+      "sha": "f16635cdec2c6579607cb3c5d84c9e861338c25b",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/f16635cdec2c6579607cb3c5d84c9e861338c25b"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjI="
+  },
+  {
+    "name": "v1.1",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/v1.1",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/v1.1",
+    "commit": {
+      "sha": "7806d1d20f0541ff1765bf8d81687f9d8b3ebab5",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/7806d1d20f0541ff1765bf8d81687f9d8b3ebab5"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzL3YxLjE="
+  },
+  {
+    "name": "2.2.0",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/2.2.0",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/2.2.0",
+    "commit": {
+      "sha": "1e9ea42c5834b6bc759b73a6e5d1743d857de72d",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/1e9ea42c5834b6bc759b73a6e5d1743d857de72d"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzIuMi4w"
+  },
+  {
+    "name": "2.1.1",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/2.1.1",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/2.1.1",
+    "commit": {
+      "sha": "eb20ae8b4c2edd1d52d2ba53456d99df9e4342ea",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/eb20ae8b4c2edd1d52d2ba53456d99df9e4342ea"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzIuMS4x"
+  },
+  {
+    "name": "2.1.0",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/2.1.0",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/2.1.0",
+    "commit": {
+      "sha": "a5bcc3f531d2a6621bf412c41c228c4c1469643d",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/a5bcc3f531d2a6621bf412c41c228c4c1469643d"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzIuMS4w"
+  },
+  {
+    "name": "2.0.0",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/2.0.0",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/2.0.0",
+    "commit": {
+      "sha": "c9b7b5a7540ec7d9780cf36cd5db67e5f102e1e6",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/c9b7b5a7540ec7d9780cf36cd5db67e5f102e1e6"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzIuMC4w"
+  },
+  {
+    "name": "1.15",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/1.15",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/1.15",
+    "commit": {
+      "sha": "865f69ab304bd8bd79925986e88f7b9a4de447ba",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/865f69ab304bd8bd79925986e88f7b9a4de447ba"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzEuMTU="
+  },
+  {
+    "name": "1.12",
+    "zipball_url": "https://api.github.com/repos/orhanobut/logger/zipball/refs/tags/1.12",
+    "tarball_url": "https://api.github.com/repos/orhanobut/logger/tarball/refs/tags/1.12",
+    "commit": {
+      "sha": "63257eb8de57b68068bf107a7095dca8128182da",
+      "url": "https://api.github.com/repos/orhanobut/logger/commits/63257eb8de57b68068bf107a7095dca8128182da"
+    },
+    "node_id": "MDM6UmVmMzI2MTAzMzY6cmVmcy90YWdzLzEuMTI="
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.2.36",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.36",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.36",
+    "commit": {
+      "sha": "b7f46425e756162bf14fcc8e0c2d35e891810ef0",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/b7f46425e756162bf14fcc8e0c2d35e891810ef0"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMzY="
+  },
+  {
+    "name": "v1.2.31",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.31",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.31",
+    "commit": {
+      "sha": "35444b5ae8419e3514b968714790f093ab026f95",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/35444b5ae8419e3514b968714790f093ab026f95"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMzE="
+  },
+  {
+    "name": "v1.2.26",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.26",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.26",
+    "commit": {
+      "sha": "4cefde56e72167f2bb9d47c5d826f832f27feabb",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/4cefde56e72167f2bb9d47c5d826f832f27feabb"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMjY="
+  },
+  {
+    "name": "v1.2.22",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.22",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.22",
+    "commit": {
+      "sha": "bbd2ba451361d1ebde6dca00d7e6ffa89bf6e1cf",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/bbd2ba451361d1ebde6dca00d7e6ffa89bf6e1cf"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMjI="
+  },
+  {
+    "name": "v1.2.21",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.21",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.21",
+    "commit": {
+      "sha": "0c03bbc5fb1643bf66ee2c90d2e9277a34074a0d",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/0c03bbc5fb1643bf66ee2c90d2e9277a34074a0d"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMjE="
+  },
+  {
+    "name": "v1.2.20",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.20",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.20",
+    "commit": {
+      "sha": "c53f13b3f834e189ccc8ccb1662ab56891c25257",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/c53f13b3f834e189ccc8ccb1662ab56891c25257"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMjA="
+  },
+  {
+    "name": "v1.2.19",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.19",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.19",
+    "commit": {
+      "sha": "8b94f2c1eee2f195b86cffd27f65b6410254e4d1",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/8b94f2c1eee2f195b86cffd27f65b6410254e4d1"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTk="
+  },
+  {
+    "name": "v1.2.18",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.18",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.18",
+    "commit": {
+      "sha": "1d94f2be3bcf2e3f0e10beeacfd54093e5a3af3a",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/1d94f2be3bcf2e3f0e10beeacfd54093e5a3af3a"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTg="
+  },
+  {
+    "name": "v1.2.17",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.17",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.17",
+    "commit": {
+      "sha": "7e08f2e659a64b347a1369314ef81e6adcec2cd5",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/7e08f2e659a64b347a1369314ef81e6adcec2cd5"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTc="
+  },
+  {
+    "name": "v1.2.16",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.16",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.16",
+    "commit": {
+      "sha": "42bc30af3aec4b4121b718364e8efcfbefe87613",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/42bc30af3aec4b4121b718364e8efcfbefe87613"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTY="
+  },
+  {
+    "name": "v1.2.15",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.15",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.15",
+    "commit": {
+      "sha": "07304ddfc689a7459f0e037ac756aa9d77f48c9b",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/07304ddfc689a7459f0e037ac756aa9d77f48c9b"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTU="
+  },
+  {
+    "name": "v1.2.14",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.14",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.14",
+    "commit": {
+      "sha": "dd6446f33dc685181b122d63c8d9891f68a4dd4b",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/dd6446f33dc685181b122d63c8d9891f68a4dd4b"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTQ="
+  },
+  {
+    "name": "v1.2.13",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.13",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.13",
+    "commit": {
+      "sha": "a885e21eef6e472328ba802ff6c08a4e64d963ea",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/a885e21eef6e472328ba802ff6c08a4e64d963ea"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTM="
+  },
+  {
+    "name": "v1.2.12",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.12",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.12",
+    "commit": {
+      "sha": "f09df7ffe597e3b481c1d58b170bf9ea872e07aa",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/f09df7ffe597e3b481c1d58b170bf9ea872e07aa"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTI="
+  },
+  {
+    "name": "v1.2.11",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.11",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.11",
+    "commit": {
+      "sha": "a704a4b72dbea73035328f9238beaa046162a94a",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/a704a4b72dbea73035328f9238beaa046162a94a"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTE="
+  },
+  {
+    "name": "v1.2.10",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.10",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.10",
+    "commit": {
+      "sha": "ba4376cac09ab2d0f53bba36dd2425a80a737a0a",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/ba4376cac09ab2d0f53bba36dd2425a80a737a0a"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMTA="
+  },
+  {
+    "name": "v1.2.9",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.9",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.9",
+    "commit": {
+      "sha": "1299e8f729f67ce37a729dc1e52f44685b9be5ee",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/1299e8f729f67ce37a729dc1e52f44685b9be5ee"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuOQ=="
+  },
+  {
+    "name": "v1.2.8",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.8",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.8",
+    "commit": {
+      "sha": "5c9a304425e2f1998756fa56ef7589bfd3da2b05",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/5c9a304425e2f1998756fa56ef7589bfd3da2b05"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuOA=="
+  },
+  {
+    "name": "v1.2.7",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.7",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.7",
+    "commit": {
+      "sha": "e68722d1dad20b79a038d20d3645bcd3bcbd02a9",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/e68722d1dad20b79a038d20d3645bcd3bcbd02a9"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuNw=="
+  },
+  {
+    "name": "v1.2.6",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.6",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.6",
+    "commit": {
+      "sha": "054250ea2201b2ed4a4a9997ff8643f7b9a722d7",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/054250ea2201b2ed4a4a9997ff8643f7b9a722d7"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuNg=="
+  },
+  {
+    "name": "v1.2.5",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.5",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.5",
+    "commit": {
+      "sha": "788809d49944af7a1d4230129f5d0acfe2d6ebc9",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/788809d49944af7a1d4230129f5d0acfe2d6ebc9"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuNQ=="
+  },
+  {
+    "name": "v1.2.2",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.2",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.2",
+    "commit": {
+      "sha": "bbac82b45bc668d987c26ee8ea29974bcb998ac8",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/bbac82b45bc668d987c26ee8ea29974bcb998ac8"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMg=="
+  },
+  {
+    "name": "v1.2.1",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.1",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.1",
+    "commit": {
+      "sha": "5f03bba7150ce26f7ee84e8a95f8e2db3629ae6f",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/5f03bba7150ce26f7ee84e8a95f8e2db3629ae6f"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMQ=="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "3451a2d065d414b8a78f08b1ff2ea39a5351d6d6",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/3451a2d065d414b8a78f08b1ff2ea39a5351d6d6"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjIuMA=="
+  },
+  {
+    "name": "v1.1.0.11",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.1.0.11",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.1.0.11",
+    "commit": {
+      "sha": "2451b7016650ec90181e79e6c69b54492676057f",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/2451b7016650ec90181e79e6c69b54492676057f"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjEuMC4xMQ=="
+  },
+  {
+    "name": "v1.1.0.10",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.1.0.10",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.1.0.10",
+    "commit": {
+      "sha": "8e694f9a57eba8b2bfe6167b7158a377c1916aff",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/8e694f9a57eba8b2bfe6167b7158a377c1916aff"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjEuMC4xMA=="
+  },
+  {
+    "name": "v1.1.0.8",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.1.0.8",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.1.0.8",
+    "commit": {
+      "sha": "bf3248f2aafac600cf7a81d37f683012338f8f90",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/bf3248f2aafac600cf7a81d37f683012338f8f90"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjEuMC44"
+  },
+  {
+    "name": "v1.1.0.7",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.1.0.7",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.1.0.7",
+    "commit": {
+      "sha": "73386ac2d99598bf33f7e525b8d44625611cdcb8",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/73386ac2d99598bf33f7e525b8d44625611cdcb8"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjEuMC43"
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "f370b01e7571aae5f538e33cdd12e8dce7e0a476",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/f370b01e7571aae5f538e33cdd12e8dce7e0a476"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjEuMA=="
+  },
+  {
+    "name": "v1.0.10",
+    "zipball_url": "https://api.github.com/repos/alibaba/vlayout/zipball/refs/tags/v1.0.10",
+    "tarball_url": "https://api.github.com/repos/alibaba/vlayout/tarball/refs/tags/v1.0.10",
+    "commit": {
+      "sha": "23930929dd95d6d820b44f557785168c53a6d80c",
+      "url": "https://api.github.com/repos/alibaba/vlayout/commits/23930929dd95d6d820b44f557785168c53a6d80c"
+    },
+    "node_id": "MDM6UmVmODMyODUxMzg6cmVmcy90YWdzL3YxLjAuMTA="
+  }
+]

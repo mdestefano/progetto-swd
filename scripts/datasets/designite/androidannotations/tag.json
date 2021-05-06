@@ -1,0 +1,302 @@
+[
+  {
+    "name": "androidannotations-4.8.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.8.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.8.0",
+    "commit": {
+      "sha": "66d82fc8a4a81cf5e6a2dc7d500cdd1662258c4d",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/66d82fc8a4a81cf5e6a2dc7d500cdd1662258c4d"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuOC4w"
+  },
+  {
+    "name": "androidannotations-4.7.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.7.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.7.0",
+    "commit": {
+      "sha": "b2a100d232d70e90d702fc4408b435b09fdeafe9",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/b2a100d232d70e90d702fc4408b435b09fdeafe9"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNy4w"
+  },
+  {
+    "name": "androidannotations-4.6.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.6.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.6.0",
+    "commit": {
+      "sha": "12c774d23951223b39adf92698ee7780394104c8",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/12c774d23951223b39adf92698ee7780394104c8"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNi4w"
+  },
+  {
+    "name": "androidannotations-4.5.2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.5.2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.5.2",
+    "commit": {
+      "sha": "22e7acb20efaea4ba2e9ae6ab41df873f7f2ea6e",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/22e7acb20efaea4ba2e9ae6ab41df873f7f2ea6e"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNS4y"
+  },
+  {
+    "name": "androidannotations-4.5.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.5.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.5.1",
+    "commit": {
+      "sha": "69be7e0b716b8ef1dc4f53edd77bec785ec0ef70",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/69be7e0b716b8ef1dc4f53edd77bec785ec0ef70"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNS4x"
+  },
+  {
+    "name": "androidannotations-4.5.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.5.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.5.0",
+    "commit": {
+      "sha": "405528724773e273693d9e9ccaa4dacb9e8ab687",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/405528724773e273693d9e9ccaa4dacb9e8ab687"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNS4w"
+  },
+  {
+    "name": "androidannotations-4.4.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.4.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.4.0",
+    "commit": {
+      "sha": "07daa98de58fa6fc2916f7fb1b24ddbc326793b2",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/07daa98de58fa6fc2916f7fb1b24ddbc326793b2"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuNC4w"
+  },
+  {
+    "name": "androidannotations-4.3.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.3.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.3.1",
+    "commit": {
+      "sha": "1847f7083f0ce29747f12a496af9c0dffef183ea",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/1847f7083f0ce29747f12a496af9c0dffef183ea"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuMy4x"
+  },
+  {
+    "name": "androidannotations-4.3.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.3.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.3.0",
+    "commit": {
+      "sha": "7af3ead70430eeb22d69c7c62d92df205dcb1ea3",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/7af3ead70430eeb22d69c7c62d92df205dcb1ea3"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuMy4w"
+  },
+  {
+    "name": "androidannotations-4.2.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.2.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.2.0",
+    "commit": {
+      "sha": "357912f8cbc8528892323753c75c1c92ee214408",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/357912f8cbc8528892323753c75c1c92ee214408"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuMi4w"
+  },
+  {
+    "name": "androidannotations-4.1.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.1.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.1.0",
+    "commit": {
+      "sha": "574e7869ea9b6e743f57cbcb3970f2c77a01e206",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/574e7869ea9b6e743f57cbcb3970f2c77a01e206"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuMS4w"
+  },
+  {
+    "name": "androidannotations-4.0.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-4.0.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-4.0.0",
+    "commit": {
+      "sha": "19a6f68a2af2f918c020828a2f2acf356129c5cd",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/19a6f68a2af2f918c020828a2f2acf356129c5cd"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTQuMC4w"
+  },
+  {
+    "name": "androidannotations-3.3.2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.3.2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.3.2",
+    "commit": {
+      "sha": "197a8bf92d7e008d8406ad70cdf54f00eace6ce3",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/197a8bf92d7e008d8406ad70cdf54f00eace6ce3"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMy4y"
+  },
+  {
+    "name": "androidannotations-3.3.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.3.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.3.1",
+    "commit": {
+      "sha": "a1a3e7c232ae7bc6226f4f62080e003205a50e04",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/a1a3e7c232ae7bc6226f4f62080e003205a50e04"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMy4x"
+  },
+  {
+    "name": "androidannotations-3.3",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.3",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.3",
+    "commit": {
+      "sha": "0161898a42f72e2e3f6434f9737eec4f39b0c4d6",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/0161898a42f72e2e3f6434f9737eec4f39b0c4d6"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMw=="
+  },
+  {
+    "name": "androidannotations-3.2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.2",
+    "commit": {
+      "sha": "427d3f840a05c5fa4ded9fd3d94fe740c87e87ce",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/427d3f840a05c5fa4ded9fd3d94fe740c87e87ce"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMg=="
+  },
+  {
+    "name": "androidannotations-3.1.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.1.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.1.1",
+    "commit": {
+      "sha": "e8a55b122468b1e11d9571266951b9e19648fb19",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/e8a55b122468b1e11d9571266951b9e19648fb19"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMS4x"
+  },
+  {
+    "name": "androidannotations-3.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.1",
+    "commit": {
+      "sha": "d41226f0d976698ab9af0ba0f514bbfa19e89106",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/d41226f0d976698ab9af0ba0f514bbfa19e89106"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMQ=="
+  },
+  {
+    "name": "androidannotations-3.0.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.0.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.0.1",
+    "commit": {
+      "sha": "eb91a4a2a4ce8a24f52523b87089bddf33544b20",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/eb91a4a2a4ce8a24f52523b87089bddf33544b20"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMC4x"
+  },
+  {
+    "name": "androidannotations-3.0",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-3.0",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-3.0",
+    "commit": {
+      "sha": "eac9629f9ec1d5fcfe7c718d1281735463fec0f5",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/eac9629f9ec1d5fcfe7c718d1281735463fec0f5"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTMuMA=="
+  },
+  {
+    "name": "androidannotations-2.7.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.7.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.7.1",
+    "commit": {
+      "sha": "b341012673bab558386b37282c8077e5c0abea53",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/b341012673bab558386b37282c8077e5c0abea53"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNy4x"
+  },
+  {
+    "name": "androidannotations-2.7",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.7",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.7",
+    "commit": {
+      "sha": "f51ad5e7940cbbe106056f70033cb28f18406c40",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/f51ad5e7940cbbe106056f70033cb28f18406c40"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNw=="
+  },
+  {
+    "name": "androidannotations-2.6",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.6",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.6",
+    "commit": {
+      "sha": "aebbb20bf863a12b0877ea6c2ac64d83f52027c9",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/aebbb20bf863a12b0877ea6c2ac64d83f52027c9"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNg=="
+  },
+  {
+    "name": "androidannotations-2.5.1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.5.1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.5.1",
+    "commit": {
+      "sha": "f14504fa8684cab7def218ea08cf7e0094067a79",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/f14504fa8684cab7def218ea08cf7e0094067a79"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNS4x"
+  },
+  {
+    "name": "androidannotations-2.5",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.5",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.5",
+    "commit": {
+      "sha": "1742f310c7af613ab9fc1f746a01c7df4d624172",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/1742f310c7af613ab9fc1f746a01c7df4d624172"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNQ=="
+  },
+  {
+    "name": "androidannotations-2.4",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.4",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.4",
+    "commit": {
+      "sha": "594e66aa2c93a2a01caa924ae44df4e6629a29b8",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/594e66aa2c93a2a01caa924ae44df4e6629a29b8"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuNA=="
+  },
+  {
+    "name": "androidannotations-2.2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.2",
+    "commit": {
+      "sha": "2ad63a0e5cf5af0b4cdd09b102504ea10d4f9d6e",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/2ad63a0e5cf5af0b4cdd09b102504ea10d4f9d6e"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuMg=="
+  },
+  {
+    "name": "androidannotations-2.2-RC2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.2-RC2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.2-RC2",
+    "commit": {
+      "sha": "eede02f6e078297676e7fcada45e48bd477c43d1",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/eede02f6e078297676e7fcada45e48bd477c43d1"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuMi1SQzI="
+  },
+  {
+    "name": "androidannotations-2.2-RC1",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.2-RC1",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.2-RC1",
+    "commit": {
+      "sha": "c4245b6ffce3c5eae94c9b9e6c66a422af3c5bd8",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/c4245b6ffce3c5eae94c9b9e6c66a422af3c5bd8"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuMi1SQzE="
+  },
+  {
+    "name": "androidannotations-2.1.2",
+    "zipball_url": "https://api.github.com/repos/androidannotations/androidannotations/zipball/refs/tags/androidannotations-2.1.2",
+    "tarball_url": "https://api.github.com/repos/androidannotations/androidannotations/tarball/refs/tags/androidannotations-2.1.2",
+    "commit": {
+      "sha": "8d9cb3447f8bc0b97df2cc4c562b7ef4d80c16ab",
+      "url": "https://api.github.com/repos/androidannotations/androidannotations/commits/8d9cb3447f8bc0b97df2cc4c562b7ef4d80c16ab"
+    },
+    "node_id": "MDM6UmVmMzExNjc1MTpyZWZzL3RhZ3MvYW5kcm9pZGFubm90YXRpb25zLTIuMS4y"
+  }
+]
