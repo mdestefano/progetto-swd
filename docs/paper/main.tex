@@ -363,12 +363,13 @@
 % (Unless specifically asked to do so by the journal or conference you plan
 % to submit to, of course. )
 
-\usepackage{lipsum}
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
 
-
 \begin{document}
+\newcommand{\asmells}{architectural smells}
+\newcommand{\hublike}{Cyclic Dependency}
+\newcommand{\cyclic}{Hub-Like Dependency}
 %
 % paper title
 % Titles are generally capitalized except for words such as a, an, and, as,
@@ -477,7 +478,6 @@
 \IEEEtitleabstractindextext{%
 \begin{abstract}
 The abstract goes here.
-\lipsum[10]
 \end{abstract}
 
 % Note that keywords are not normally used for peerreview papers.
