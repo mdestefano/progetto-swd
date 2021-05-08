@@ -1,2 +1,1 @@
-https://github.com/jakewharton/butterknife.git
-
+https://github.com/square/javapoet.git

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AnalyzeTests" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="analyzeTests.MyStudyTest" />
+    <module name="provaMining" />
+    <option name="PROGRAM_PARAMETERS" value="file.txt C:\Users\Armando\swdProjects\progetto-swd\scripts\datasets\risultatiTest\" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
