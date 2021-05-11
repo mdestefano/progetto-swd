@@ -76,8 +76,14 @@ public class UtilsCSV {
             for (line = br.readLine(); line != null; line = br.readLine(), i++) {
                 if (i != 0) {
 
-                    /*String[] lineArray = line.split(";");
-                    line = line.replaceAll(lineArray[3], projectName);*/
+                    String[] lineArray = line.split(";");
+                    line = "";
+                    for(int y = 0; y < lineArray.length; y++) {
+                        if (!(y == 9 || y == 10 || y == 11 || y ==12)) {
+                            line += lineArray[y] + ";";
+                        }
+                    }
+                    line=line.substring(0,line.length()-1);
 
                     output.append(line).append(lineSep);
                 } else {

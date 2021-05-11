@@ -71,7 +71,7 @@ public class UtilsFileDirectory {
 
             final String lineSep = System.getProperty("line.separator");
 
-            output.write("NameTag;HashCommit;Date;testsuite;production;loc;nom;wmc;rfc;lc;bc;mc;ft;ar1;et1;it1;gf1;se1;mg1;ro1" + lineSep);
+            output.write("NameTag;HashCommit;Date;testsuite;production;loc;nom;wmc;rfc;ar1;et1;it1;gf1;se1;mg1;ro1" + lineSep);
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
