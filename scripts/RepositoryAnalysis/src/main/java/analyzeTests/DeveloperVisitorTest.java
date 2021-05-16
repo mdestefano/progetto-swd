@@ -14,16 +14,17 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class DeveloperVisitorTest implements CommitVisitor {
 
-    private  List<String> hashCommits;
-    private  HashMap<String,String> hashmapTag;
+    private List<String> hashCommits;
+    private HashMap<String, String> hashmapTag;
     private final String projectName;
     private final File pathOutput;
     private final File pathProject;
 
-    public DeveloperVisitorTest(String projectName, HashMap<String,String> hashmapTag) {
+    public DeveloperVisitorTest(String projectName, HashMap<String, String> hashmapTag) {
         hashCommits = Collections.synchronizedList(new ArrayList<String>());
         this.hashmapTag = hashmapTag;
         this.projectName = projectName;
@@ -48,25 +49,38 @@ public class DeveloperVisitorTest implements CommitVisitor {
 
             String tempCsvPathPrefix = Paths.get(pathOutput.getName(), pathProject.getName(), commit.getHash()).toString();
             UtilsFileDirectory.createTempDirectory(tempCsvPathPrefix);
+            UtilsFileDirectory.srcFolderInPath(repo.getPath());
+            ArrayList<String> pathsModuli = UtilsFileDirectory.paths;
+            UtilsFileDirectory.addColumnsCSVExtended(pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash());
 
-            try {
-                Process runtimeProcess = Runtime.getRuntime().exec
-                        ("java -jar Vitrum.jar " + repo.getPath() + " " + pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash(),
-                                null,
-                                new File("."));
-                System.out.println("#### VITRuM, progetto " + projectName +
-                        " commit " + commit.getHash() + "-> START");
-                int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
+            for (String modulo : pathsModuli) {
+                try {
+                    System.out.println("## "+repo.getPath() +" Per il commit "+commit.getHash()+" analizzo il modulo "+modulo);
+                    int lastIndex = modulo.lastIndexOf("\\");
+                    String moduleName = modulo.substring(lastIndex + 1);
+                    String tempCsvModule = Paths.get(pathOutput.getName(), pathProject.getName(), commit.getHash(), moduleName).toString();
+                    UtilsFileDirectory.createTempDirectory(tempCsvModule);
+                    Process runtimeProcess = Runtime.getRuntime().exec
+                            ("java -jar Vitrum.jar " + modulo + " " + pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash()
+                                            + "/" + moduleName,
+                                    null,
+                                    new File("."));
+                    System.out.println("#### VITRuM, progetto " + projectName +
+                            " commit " + commit.getHash() + "-> START");
+                    int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
 
-                if (processComplete == 0) {
-                    System.out.println("### VITRuM, progetto " + projectName +
-                            " commit " + commit.getHash() + "-> END");
+                    if (processComplete == 0) {
+                        System.out.println("### VITRuM, progetto " + projectName +
+                                " commit " + commit.getHash() + "-> END");
+                        UtilsCSV.mergeModules(pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash() + "/" + "resultTest.csv",
+                                pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash() + "/" + moduleName + "/" + "resultTest.csv");
+                    }
+               } catch (Exception e) {
+                    e.printStackTrace();
                 }
-            } catch (IOException | InterruptedException e) {
-                e.printStackTrace();
             }
-
-            String infoAggiuntive =  hashmapTag.get(commit.getHash())+ ";"+commit.getHash() + ";" + commit.getDate().getTime() + ";";
+            pathsModuli.clear();
+            String infoAggiuntive = hashmapTag.get(commit.getHash()) + ";" + commit.getHash() + ";" + commit.getDate().getTime() + ";";
             String resultTest =
                     UtilsFileDirectory.createTempFile(tempCsvPathPrefix, "resultTest.csv").getPath();
 
@@ -78,8 +92,8 @@ public class DeveloperVisitorTest implements CommitVisitor {
             repo.getScm().reset();
             boolean delete = pathOutput.delete();
 
-            if(delete){
-                System.out.println ("### Directory output eliminata:");
+            if (delete) {
+                System.out.println("### Directory output eliminata:");
             }
 
         }

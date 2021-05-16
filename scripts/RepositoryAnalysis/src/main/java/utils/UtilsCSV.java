@@ -236,4 +236,34 @@ public class UtilsCSV {
             }
         }
     }
+
+    public static void mergeModules(String pathDestination, String pathSource) throws IOException {
+        BufferedReader br = null;
+        final String lineSep = System.getProperty("line.separator");
+        File file = new File(pathSource);
+
+        if(!file.exists())
+            return;
+
+        Writer output = new BufferedWriter(new FileWriter(pathDestination, true));
+
+        try {
+            //names don't conflict or just use different folders
+            br = new BufferedReader(new InputStreamReader(new FileInputStream(file)));
+            String line;
+            int i = 0;
+            int numCol = 0;
+            for (line = br.readLine(); line != null; line = br.readLine(), i++) {
+                if (i != 0) {
+                    output.append(line).append(lineSep);
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (br != null)
+                br.close();
+            output.close();
+        }
+    }
 }

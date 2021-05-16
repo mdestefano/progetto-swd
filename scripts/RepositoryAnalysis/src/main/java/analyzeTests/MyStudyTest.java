@@ -61,9 +61,9 @@ public class MyStudyTest implements Study {
                                 GitRemoteRepository.singleProject(line)
                         )
                         .through(Commits.list(UtilsGit.getHashTag(hashTags)))
-                        .visitorsAreThreadSafe(true) // Threads are possible.
-                        .visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
-                        .withThreads() // Now pick a good number of threads for my machine.
+                        //.visitorsAreThreadSafe(true) // Threads are possible.
+                        //.visitorsChangeRepoState(true) // Each thread needs its own copy of the repo.
+                        //.withThreads() // Now pick a good number of threads for my machine.
                         .process(developerVisitor)
                         .mine();
 

@@ -2,8 +2,12 @@ package utils;
 
 import java.io.*;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class UtilsFileDirectory {
+    public static ArrayList<String> paths = new ArrayList<>();
+
     public static boolean deleteDirectory(File f) {
         File[] allContents = f.listFiles();
         if (allContents != null) {
@@ -85,6 +89,28 @@ public class UtilsFileDirectory {
         }
     }
 
+    public static void addColumnsCSVExtended(String baseOutputDirectory) {
+        Writer output = null;
+        try {
+            output = new BufferedWriter(new FileWriter(baseOutputDirectory
+                    +  "/resultTest.csv"));
+
+            final String lineSep = System.getProperty("line.separator");
+
+            output.write("testsuite;production;loc;nom;wmc;rfc;lc;bc;mc;ft;ar1;et1;it1;gf1;se1;mg1;ro1" + lineSep);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (output != null) {
+                    output.close();
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
     public static File createTempFile(String prefix, String suffix) {
         File parent = new File(System.getProperty("java.io.tmpdir"));
 
@@ -115,5 +141,31 @@ public class UtilsFileDirectory {
         }
 
         return temp;
+    }
+
+
+
+    public static void srcFolderInPath(String pathRepo) {
+        File root = new File(pathRepo);
+        File[] list = root.listFiles();
+
+        if (list == null) return;
+
+        for (File f : list) {
+            if (f.isDirectory()) {
+                if (f.getName().equals("src")) {
+                    System.out.println("Sono in " + f.getAbsolutePath());
+                    File[] tests = f.listFiles();
+                    for (File test : tests) {
+                        if (test.getName().equals("test")) {
+                            System.out.println("Sono in " + test.getAbsolutePath());
+                            System.out.println("Il path contenente la cartella test è " + f.getParent());
+                            paths.add(f.getParent());
+                        }
+                    }
+                }
+            }
+            srcFolderInPath(f.getAbsolutePath());
+        }
     }
 }
