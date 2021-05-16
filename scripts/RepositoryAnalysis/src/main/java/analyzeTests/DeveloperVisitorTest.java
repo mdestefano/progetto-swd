@@ -55,7 +55,7 @@ public class DeveloperVisitorTest implements CommitVisitor {
 
             for (String modulo : pathsModuli) {
                 try {
-                    System.out.println("## "+repo.getPath() +" Per il commit "+commit.getHash()+" analizzo il modulo "+modulo);
+                    System.out.println("#### "+repo.getPath() +" Per il commit "+commit.getHash()+" analizzo il modulo "+modulo);
                     int lastIndex = modulo.lastIndexOf("\\");
                     String moduleName = modulo.substring(lastIndex + 1);
                     String tempCsvModule = Paths.get(pathOutput.getName(), pathProject.getName(), commit.getHash(), moduleName).toString();
@@ -65,12 +65,12 @@ public class DeveloperVisitorTest implements CommitVisitor {
                                             + "/" + moduleName,
                                     null,
                                     new File("."));
-                    System.out.println("#### VITRuM, progetto " + projectName +
+                    System.out.println("### VITRuM, progetto " + projectName +
                             " commit " + commit.getHash() + "-> START");
                     int processComplete = runtimeProcess.waitFor(); // value 0 indicates normal termination
 
                     if (processComplete == 0) {
-                        System.out.println("### VITRuM, progetto " + projectName +
+                        System.out.println("## VITRuM, progetto " + projectName +
                                 " commit " + commit.getHash() + "-> END");
                         UtilsCSV.mergeModules(pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash() + "/" + "resultTest.csv",
                                 pathOutput.getPath() + "/" + pathProject.getName() + "/" + commit.getHash() + "/" + moduleName + "/" + "resultTest.csv");
