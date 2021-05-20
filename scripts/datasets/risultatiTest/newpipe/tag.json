@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v0.21.2",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.21.2",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.21.2",
+    "commit": {
+      "sha": "91ca680911488935d5ad151e9c5481390cb32bba",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/91ca680911488935d5ad151e9c5481390cb32bba"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIxLjI="
+  },
+  {
+    "name": "v0.21.1",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.21.1",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.21.1",
+    "commit": {
+      "sha": "600e156c4c21db97cdf17d7b18c4e9bfad680aa6",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/600e156c4c21db97cdf17d7b18c4e9bfad680aa6"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIxLjE="
+  },
+  {
+    "name": "v0.21.0",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.21.0",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.21.0",
+    "commit": {
+      "sha": "464d0e50b01317ffe41f8455e40efa770f067087",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/464d0e50b01317ffe41f8455e40efa770f067087"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIxLjA="
+  },
+  {
+    "name": "v0.20.11",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.11",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.11",
+    "commit": {
+      "sha": "7955ef81052970d54a52ea6dd81523c7c83157c4",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/7955ef81052970d54a52ea6dd81523c7c83157c4"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjEx"
+  },
+  {
+    "name": "v0.20.10",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.10",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.10",
+    "commit": {
+      "sha": "5383a0af0b0a64bdd8e4f25d103c8de026b85350",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/5383a0af0b0a64bdd8e4f25d103c8de026b85350"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjEw"
+  },
+  {
+    "name": "v0.20.9",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.9",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.9",
+    "commit": {
+      "sha": "7faa10754766f32376458b92d96c2cf82b433e86",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/7faa10754766f32376458b92d96c2cf82b433e86"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjk="
+  },
+  {
+    "name": "v0.20.8",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.8",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.8",
+    "commit": {
+      "sha": "7153506ddbe5b5c4ad3acf2ae281927ad73b44d7",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/7153506ddbe5b5c4ad3acf2ae281927ad73b44d7"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjg="
+  },
+  {
+    "name": "v0.20.7",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.7",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.7",
+    "commit": {
+      "sha": "d403a83a244aec5217830f91606558a12849938b",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/d403a83a244aec5217830f91606558a12849938b"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjc="
+  },
+  {
+    "name": "v0.20.6",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.6",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.6",
+    "commit": {
+      "sha": "3c306a0971d0615ad451d7e1ab8063f372652f0d",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/3c306a0971d0615ad451d7e1ab8063f372652f0d"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjY="
+  },
+  {
+    "name": "v0.20.5",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.5",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.5",
+    "commit": {
+      "sha": "a54bc96eab578f67f248b4bf928d347ff98bba52",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/a54bc96eab578f67f248b4bf928d347ff98bba52"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjU="
+  },
+  {
+    "name": "v0.20.4",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.4",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.4",
+    "commit": {
+      "sha": "57abe27895631fe2ed74799681106c8675ce1e73",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/57abe27895631fe2ed74799681106c8675ce1e73"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjQ="
+  },
+  {
+    "name": "v0.20.3",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.3",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.3",
+    "commit": {
+      "sha": "493e47f7e653db3f24e9d410e372d39df39732c4",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/493e47f7e653db3f24e9d410e372d39df39732c4"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjM="
+  },
+  {
+    "name": "v0.20.2",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.2",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.2",
+    "commit": {
+      "sha": "25d555126d6b8c9a24c4b0516d597a162a113e51",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/25d555126d6b8c9a24c4b0516d597a162a113e51"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjI="
+  },
+  {
+    "name": "v0.20.1",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.1",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.1",
+    "commit": {
+      "sha": "175652f23b72845ff094b5a81245443397fbca27",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/175652f23b72845ff094b5a81245443397fbca27"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjE="
+  },
+  {
+    "name": "v0.20.0",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.20.0",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.20.0",
+    "commit": {
+      "sha": "ea0a0c7c5a9179e4f7375f6c73596a9b20012187",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/ea0a0c7c5a9179e4f7375f6c73596a9b20012187"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjIwLjA="
+  },
+  {
+    "name": "v0.19.8",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.8",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.8",
+    "commit": {
+      "sha": "7918e3a1aa4d0c5632c18a553f8813de1fa9d855",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/7918e3a1aa4d0c5632c18a553f8813de1fa9d855"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5Ljg="
+  },
+  {
+    "name": "v0.19.7",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.7",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.7",
+    "commit": {
+      "sha": "d6d8c7830c2ee0be1a480e3a45c386ade34d4058",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/d6d8c7830c2ee0be1a480e3a45c386ade34d4058"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5Ljc="
+  },
+  {
+    "name": "v0.19.6",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.6",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.6",
+    "commit": {
+      "sha": "c900ef036cc25687f8a4fd45c7fed14ee3e48b5a",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/c900ef036cc25687f8a4fd45c7fed14ee3e48b5a"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjY="
+  },
+  {
+    "name": "v0.19.6-fdroid",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.6-fdroid",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.6-fdroid",
+    "commit": {
+      "sha": "ade5e38fa53a0b3c85096ffebc8de9b870094876",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/ade5e38fa53a0b3c85096ffebc8de9b870094876"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjYtZmRyb2lk"
+  },
+  {
+    "name": "v0.19.5",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.5",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.5",
+    "commit": {
+      "sha": "049c8f70cdb12fa95ce6d61bfc70e64584fbf063",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/049c8f70cdb12fa95ce6d61bfc70e64584fbf063"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjU="
+  },
+  {
+    "name": "v0.19.4",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.4",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.4",
+    "commit": {
+      "sha": "b2a5ff5f9d38d0bae58f3347a3954a83d746f023",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/b2a5ff5f9d38d0bae58f3347a3954a83d746f023"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjQ="
+  },
+  {
+    "name": "v0.19.3",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.3",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.3",
+    "commit": {
+      "sha": "dc8d1b0993d854b57287ae0365943e95e37feaf1",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/dc8d1b0993d854b57287ae0365943e95e37feaf1"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjM="
+  },
+  {
+    "name": "v0.19.2",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.2",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.2",
+    "commit": {
+      "sha": "8b2599297b693317b7150dbb0b105ab451e0a747",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/8b2599297b693317b7150dbb0b105ab451e0a747"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjI="
+  },
+  {
+    "name": "v0.19.1",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.1",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.1",
+    "commit": {
+      "sha": "ba151a8b839ba14c4c0148cc90c506ed97e72fa0",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/ba151a8b839ba14c4c0148cc90c506ed97e72fa0"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjE="
+  },
+  {
+    "name": "v0.19.0",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.19.0",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.19.0",
+    "commit": {
+      "sha": "dd682013f94d50884abbaa1f04af92761a198e64",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/dd682013f94d50884abbaa1f04af92761a198e64"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE5LjA="
+  },
+  {
+    "name": "v0.18.7",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.18.7",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.18.7",
+    "commit": {
+      "sha": "c73f7dd2f81d6b0b5e8457ec22570d6ff40fc774",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/c73f7dd2f81d6b0b5e8457ec22570d6ff40fc774"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE4Ljc="
+  },
+  {
+    "name": "v0.18.6",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.18.6",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.18.6",
+    "commit": {
+      "sha": "4674431829f1ec6967a8ee48a24d0c75dbbcb6e8",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/4674431829f1ec6967a8ee48a24d0c75dbbcb6e8"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE4LjY="
+  },
+  {
+    "name": "v0.18.5",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.18.5",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.18.5",
+    "commit": {
+      "sha": "3b5b9d7dab7487d499f547ea4ea8e4db2b50ee20",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/3b5b9d7dab7487d499f547ea4ea8e4db2b50ee20"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE4LjU="
+  },
+  {
+    "name": "v0.18.4",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.18.4",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.18.4",
+    "commit": {
+      "sha": "0bc769b9714db1fa163b41d07d52f6f1a2adfcaa",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/0bc769b9714db1fa163b41d07d52f6f1a2adfcaa"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE4LjQ="
+  },
+  {
+    "name": "v0.18.3",
+    "zipball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/zipball/refs/tags/v0.18.3",
+    "tarball_url": "https://api.github.com/repos/TeamNewPipe/NewPipe/tarball/refs/tags/v0.18.3",
+    "commit": {
+      "sha": "0df81409bfe97e3d9dc1ab4a52343bd4415a8d04",
+      "url": "https://api.github.com/repos/TeamNewPipe/NewPipe/commits/0df81409bfe97e3d9dc1ab4a52343bd4415a8d04"
+    },
+    "node_id": "MDM6UmVmNDE4ODkwMzE6cmVmcy90YWdzL3YwLjE4LjM="
+  }
+]

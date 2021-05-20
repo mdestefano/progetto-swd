@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.4.2",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.4.2",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.4.2",
+    "commit": {
+      "sha": "5ddfbc1f3cb7cca3545b8c1318b11a803b899bb2",
+      "url": "https://api.github.com/repos/seata/seata/commits/5ddfbc1f3cb7cca3545b8c1318b11a803b899bb2"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS40LjI="
+  },
+  {
+    "name": "v1.4.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.4.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.4.1",
+    "commit": {
+      "sha": "f8359f0529e787a8d9f533d89d10194e43b274e3",
+      "url": "https://api.github.com/repos/seata/seata/commits/f8359f0529e787a8d9f533d89d10194e43b274e3"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS40LjE="
+  },
+  {
+    "name": "v1.4.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.4.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.4.0",
+    "commit": {
+      "sha": "f270a2d660fbfea2331c5651d014079803a76584",
+      "url": "https://api.github.com/repos/seata/seata/commits/f270a2d660fbfea2331c5651d014079803a76584"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS40LjA="
+  },
+  {
+    "name": "v1.3.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.3.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.3.0",
+    "commit": {
+      "sha": "2e2a4247a82e76d51a56485b46c0d948a0c1ea13",
+      "url": "https://api.github.com/repos/seata/seata/commits/2e2a4247a82e76d51a56485b46c0d948a0c1ea13"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS4zLjA="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "04d0568c0e89fd77c5a8c22a9d39025a0be41051",
+      "url": "https://api.github.com/repos/seata/seata/commits/04d0568c0e89fd77c5a8c22a9d39025a0be41051"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS4yLjA="
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "f990a575328504ef4dece32a93383f1debc0d7f2",
+      "url": "https://api.github.com/repos/seata/seata/commits/f990a575328504ef4dece32a93383f1debc0d7f2"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS4xLjA="
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "5bdbc44e524263a47aa51a1a2a648b120456ee5b",
+      "url": "https://api.github.com/repos/seata/seata/commits/5bdbc44e524263a47aa51a1a2a648b120456ee5b"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MS4wLjA="
+  },
+  {
+    "name": "v0.9.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.9.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.9.0",
+    "commit": {
+      "sha": "a174ed5594d405ba26706c355327ac0ac8017b27",
+      "url": "https://api.github.com/repos/seata/seata/commits/a174ed5594d405ba26706c355327ac0ac8017b27"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC45LjA="
+  },
+  {
+    "name": "v0.8.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.8.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.8.1",
+    "commit": {
+      "sha": "9ffa29044209f04c222eab5445c8b01ea6295522",
+      "url": "https://api.github.com/repos/seata/seata/commits/9ffa29044209f04c222eab5445c8b01ea6295522"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC44LjE="
+  },
+  {
+    "name": "v0.8.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.8.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.8.0",
+    "commit": {
+      "sha": "09456818ecd6644439366647021b683516225cb3",
+      "url": "https://api.github.com/repos/seata/seata/commits/09456818ecd6644439366647021b683516225cb3"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC44LjA="
+  },
+  {
+    "name": "v0.7.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.7.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.7.1",
+    "commit": {
+      "sha": "39e4d892ada776f35c78528c85e773dd6ac8f5f1",
+      "url": "https://api.github.com/repos/seata/seata/commits/39e4d892ada776f35c78528c85e773dd6ac8f5f1"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC43LjE="
+  },
+  {
+    "name": "v0.7.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.7.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.7.0",
+    "commit": {
+      "sha": "1b90f935a27a928a8a75e8c11a4687235f1507d9",
+      "url": "https://api.github.com/repos/seata/seata/commits/1b90f935a27a928a8a75e8c11a4687235f1507d9"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC43LjA="
+  },
+  {
+    "name": "v0.6.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.6.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.6.1",
+    "commit": {
+      "sha": "ca567ef724cc53ef624a42718997853fbdddae54",
+      "url": "https://api.github.com/repos/seata/seata/commits/ca567ef724cc53ef624a42718997853fbdddae54"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC42LjE="
+  },
+  {
+    "name": "v0.6.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.6.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.6.0",
+    "commit": {
+      "sha": "7ca3332d67c2f0d43ce7d854e6bbb04e48bcae8b",
+      "url": "https://api.github.com/repos/seata/seata/commits/7ca3332d67c2f0d43ce7d854e6bbb04e48bcae8b"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC42LjA="
+  },
+  {
+    "name": "v0.5.2",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.5.2",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.5.2",
+    "commit": {
+      "sha": "f017c6b875c304f75fe34be37f9d4cf75e2f45f4",
+      "url": "https://api.github.com/repos/seata/seata/commits/f017c6b875c304f75fe34be37f9d4cf75e2f45f4"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC41LjI="
+  },
+  {
+    "name": "v0.5.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.5.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.5.1",
+    "commit": {
+      "sha": "e9e72550fdf5946b055d5b089178bf329966ee6b",
+      "url": "https://api.github.com/repos/seata/seata/commits/e9e72550fdf5946b055d5b089178bf329966ee6b"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC41LjE="
+  },
+  {
+    "name": "v0.4.2",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.4.2",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.4.2",
+    "commit": {
+      "sha": "95311569d727e94693e2a2061aa25f761b73c41c",
+      "url": "https://api.github.com/repos/seata/seata/commits/95311569d727e94693e2a2061aa25f761b73c41c"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC40LjI="
+  },
+  {
+    "name": "v0.4.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.4.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.4.1",
+    "commit": {
+      "sha": "e079af2845904946cd527b6f6df89b739efcdd9e",
+      "url": "https://api.github.com/repos/seata/seata/commits/e079af2845904946cd527b6f6df89b739efcdd9e"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC40LjE="
+  },
+  {
+    "name": "v0.4.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.4.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.4.0",
+    "commit": {
+      "sha": "af3654478ba6e1225b75fae207221898f6dee557",
+      "url": "https://api.github.com/repos/seata/seata/commits/af3654478ba6e1225b75fae207221898f6dee557"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC40LjA="
+  },
+  {
+    "name": "v0.3.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.3.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.3.1",
+    "commit": {
+      "sha": "3ffa06e703c6330029bb8eaa33f7b98638a9284a",
+      "url": "https://api.github.com/repos/seata/seata/commits/3ffa06e703c6330029bb8eaa33f7b98638a9284a"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4zLjE="
+  },
+  {
+    "name": "v0.3.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.3.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.3.0",
+    "commit": {
+      "sha": "9a256ab0cc7150fa9b32da328b6b713f56d5cb68",
+      "url": "https://api.github.com/repos/seata/seata/commits/9a256ab0cc7150fa9b32da328b6b713f56d5cb68"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4zLjA="
+  },
+  {
+    "name": "v0.2.3",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.2.3",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.2.3",
+    "commit": {
+      "sha": "50af0be57c96f73446dce5224124b6027b917347",
+      "url": "https://api.github.com/repos/seata/seata/commits/50af0be57c96f73446dce5224124b6027b917347"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4yLjM="
+  },
+  {
+    "name": "v0.2.2",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.2.2",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.2.2",
+    "commit": {
+      "sha": "84cd5291db42b6a32a8048831bca900be48b2da5",
+      "url": "https://api.github.com/repos/seata/seata/commits/84cd5291db42b6a32a8048831bca900be48b2da5"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4yLjI="
+  },
+  {
+    "name": "v0.2.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.2.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.2.1",
+    "commit": {
+      "sha": "f064095e84380173693b4f95f3788dbd62a34057",
+      "url": "https://api.github.com/repos/seata/seata/commits/f064095e84380173693b4f95f3788dbd62a34057"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4yLjE="
+  },
+  {
+    "name": "v0.2.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.2.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.2.0",
+    "commit": {
+      "sha": "34b6115934232e6c4f1c71636890faf0c24c29dd",
+      "url": "https://api.github.com/repos/seata/seata/commits/34b6115934232e6c4f1c71636890faf0c24c29dd"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4yLjA="
+  },
+  {
+    "name": "v0.1.4",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.1.4",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.1.4",
+    "commit": {
+      "sha": "7549d2f23b8ebed81e1c4e8195605a2f99bdeee4",
+      "url": "https://api.github.com/repos/seata/seata/commits/7549d2f23b8ebed81e1c4e8195605a2f99bdeee4"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4xLjQ="
+  },
+  {
+    "name": "v0.1.3",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.1.3",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.1.3",
+    "commit": {
+      "sha": "cca20cd6f4faf357ccee11dec152592a2b7ed532",
+      "url": "https://api.github.com/repos/seata/seata/commits/cca20cd6f4faf357ccee11dec152592a2b7ed532"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4xLjM="
+  },
+  {
+    "name": "v0.1.1",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.1.1",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.1.1",
+    "commit": {
+      "sha": "e10063c0553d8020ae6efe83fdf8f9be00c11d1d",
+      "url": "https://api.github.com/repos/seata/seata/commits/e10063c0553d8020ae6efe83fdf8f9be00c11d1d"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4xLjE="
+  },
+  {
+    "name": "v0.1.0",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/v0.1.0",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/v0.1.0",
+    "commit": {
+      "sha": "fff4d20f23aa23b54e9b5f1be383b25aef97a1a9",
+      "url": "https://api.github.com/repos/seata/seata/commits/fff4d20f23aa23b54e9b5f1be383b25aef97a1a9"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy92MC4xLjA="
+  },
+  {
+    "name": "V0.1.2",
+    "zipball_url": "https://api.github.com/repos/seata/seata/zipball/refs/tags/V0.1.2",
+    "tarball_url": "https://api.github.com/repos/seata/seata/tarball/refs/tags/V0.1.2",
+    "commit": {
+      "sha": "5b8c8b0447093de5732276f14aab4cab32026ef1",
+      "url": "https://api.github.com/repos/seata/seata/commits/5b8c8b0447093de5732276f14aab4cab32026ef1"
+    },
+    "node_id": "MDM6UmVmMTYzMzg3MzM3OnJlZnMvdGFncy9WMC4xLjI="
+  }
+]

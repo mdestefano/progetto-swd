@@ -1,0 +1,3 @@
+NameTag;HashCommit;Date;testsuite;production;loc;nom;wmc;rfc;ar1;et1;it1;gf1;se1;mg1;ro1
+v2.4.2;5eb254183497b59db6f8821fc4815ff90f0454a3;Thu Mar 04 02:48:40 CET 2021;org.jeecg.modules.system.test.SysUserTest;org.jeecg.modules.system.entity.SysUser;121;6;20;32;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v2.4.3;ef762ff21f8f27e9b21b2a595662daf2e489fcfb;Thu Apr 01 03:44:47 CEST 2021;org.jeecg.modules.system.test.SysUserTest;org.jeecg.modules.system.entity.SysUser;121;6;20;32;0.0;0.0;0.0;0.0;0.0;0.0;0.0

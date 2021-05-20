@@ -1,0 +1,302 @@
+[
+  {
+    "name": "redisson-parent-3.11.6",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-3.11.6",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-3.11.6",
+    "commit": {
+      "sha": "db0bbcca0abd8d5eec57552a5d8729d858c99276",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/db0bbcca0abd8d5eec57552a5d8729d858c99276"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0zLjExLjY="
+  },
+  {
+    "name": "redisson-parent-3.0.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-3.0.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-3.0.1",
+    "commit": {
+      "sha": "094f8a7c3ddcc9e2a88f3993bad8c2d31f30388c",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/094f8a7c3ddcc9e2a88f3993bad8c2d31f30388c"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0zLjAuMQ=="
+  },
+  {
+    "name": "redisson-parent-3.0.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-3.0.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-3.0.0",
+    "commit": {
+      "sha": "179df9d730d00cd6ecfe7907f4b5c81b5d50c2d7",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/179df9d730d00cd6ecfe7907f4b5c81b5d50c2d7"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0zLjAuMA=="
+  },
+  {
+    "name": "redisson-parent-2.5.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-2.5.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-2.5.1",
+    "commit": {
+      "sha": "edad3c52bb816dd9a4384a4ebfef106ac00b761a",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/edad3c52bb816dd9a4384a4ebfef106ac00b761a"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0yLjUuMQ=="
+  },
+  {
+    "name": "redisson-parent-2.5.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-2.5.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-2.5.0",
+    "commit": {
+      "sha": "c7fa9dc988d50a784eb6b59e906e59965b9af7ba",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/c7fa9dc988d50a784eb6b59e906e59965b9af7ba"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0yLjUuMA=="
+  },
+  {
+    "name": "redisson-parent-2.4.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-2.4.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-2.4.0",
+    "commit": {
+      "sha": "dba6b56a31e55495fc81163a7f474b26b3e46f4d",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/dba6b56a31e55495fc81163a7f474b26b3e46f4d"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0yLjQuMA=="
+  },
+  {
+    "name": "redisson-parent-2.3.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-2.3.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-2.3.0",
+    "commit": {
+      "sha": "651cd907fc2a2aff6e07af4613afc36ebb0110b2",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/651cd907fc2a2aff6e07af4613afc36ebb0110b2"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0yLjMuMA=="
+  },
+  {
+    "name": "redisson-parent-0.9.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-parent-0.9.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-parent-0.9.0",
+    "commit": {
+      "sha": "b3d5f49a8d7ce8122529d5f8fa3aa2ad7522ef92",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/b3d5f49a8d7ce8122529d5f8fa3aa2ad7522ef92"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLXBhcmVudC0wLjkuMA=="
+  },
+  {
+    "name": "redisson-3.15.5",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.5",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.5",
+    "commit": {
+      "sha": "dd999217a18441ceb97df3cc1a76bc15da4c7fba",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/dd999217a18441ceb97df3cc1a76bc15da4c7fba"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuNQ=="
+  },
+  {
+    "name": "redisson-3.15.4",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.4",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.4",
+    "commit": {
+      "sha": "b211cb2d9ea9add1202e5ac0b9b05639be2ca721",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/b211cb2d9ea9add1202e5ac0b9b05639be2ca721"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuNA=="
+  },
+  {
+    "name": "redisson-3.15.3",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.3",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.3",
+    "commit": {
+      "sha": "eb9ae799f74cf09360313b8b219793df195057e1",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/eb9ae799f74cf09360313b8b219793df195057e1"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuMw=="
+  },
+  {
+    "name": "redisson-3.15.2",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.2",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.2",
+    "commit": {
+      "sha": "d73b2d52b80dd52d4578d7b5244faff18182c37a",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/d73b2d52b80dd52d4578d7b5244faff18182c37a"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuMg=="
+  },
+  {
+    "name": "redisson-3.15.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.1",
+    "commit": {
+      "sha": "aa797f7fdd37fb0c4b67933349f4df7b9a99c999",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/aa797f7fdd37fb0c4b67933349f4df7b9a99c999"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuMQ=="
+  },
+  {
+    "name": "redisson-3.15.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.15.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.15.0",
+    "commit": {
+      "sha": "9c74227a434af3d3d8c2bd2361ff578a94e36e75",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/9c74227a434af3d3d8c2bd2361ff578a94e36e75"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTUuMA=="
+  },
+  {
+    "name": "redisson-3.14.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.14.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.14.1",
+    "commit": {
+      "sha": "6554da34e8923a8fc6218dd91d3f929f468dfb6e",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/6554da34e8923a8fc6218dd91d3f929f468dfb6e"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTQuMQ=="
+  },
+  {
+    "name": "redisson-3.14.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.14.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.14.0",
+    "commit": {
+      "sha": "be322e9d22e9df7c6466a7f280ce57b3db33f919",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/be322e9d22e9df7c6466a7f280ce57b3db33f919"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTQuMA=="
+  },
+  {
+    "name": "redisson-3.13.6",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.6",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.6",
+    "commit": {
+      "sha": "b54f4d768b1ae6e6d42e17344a3830dff12d3989",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/b54f4d768b1ae6e6d42e17344a3830dff12d3989"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuNg=="
+  },
+  {
+    "name": "redisson-3.13.5",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.5",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.5",
+    "commit": {
+      "sha": "b5149c0a03284ed0fa33a22a282730a62b0504f8",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/b5149c0a03284ed0fa33a22a282730a62b0504f8"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuNQ=="
+  },
+  {
+    "name": "redisson-3.13.4",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.4",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.4",
+    "commit": {
+      "sha": "642815e9c769d9062ca8c0bed751b6c0a7ff4d94",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/642815e9c769d9062ca8c0bed751b6c0a7ff4d94"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuNA=="
+  },
+  {
+    "name": "redisson-3.13.3",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.3",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.3",
+    "commit": {
+      "sha": "4576ab4a81c02e736844dcad885d3a67a5f4d90a",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/4576ab4a81c02e736844dcad885d3a67a5f4d90a"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuMw=="
+  },
+  {
+    "name": "redisson-3.13.2",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.2",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.2",
+    "commit": {
+      "sha": "59899bb0831cc8f6e8ec83358f9f17d9559d05b5",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/59899bb0831cc8f6e8ec83358f9f17d9559d05b5"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuMg=="
+  },
+  {
+    "name": "redisson-3.13.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.1",
+    "commit": {
+      "sha": "ce11996dbdae0d34cfedced063337ed9bf576b3f",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/ce11996dbdae0d34cfedced063337ed9bf576b3f"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuMQ=="
+  },
+  {
+    "name": "redisson-3.13.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.13.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.13.0",
+    "commit": {
+      "sha": "4ea330c5062fc0c48c435120bb71b765e8627e1a",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/4ea330c5062fc0c48c435120bb71b765e8627e1a"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTMuMA=="
+  },
+  {
+    "name": "redisson-3.12.5",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.5",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.5",
+    "commit": {
+      "sha": "02bea4da1afe0e9d1811ccb08812fc9126c2d1ea",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/02bea4da1afe0e9d1811ccb08812fc9126c2d1ea"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuNQ=="
+  },
+  {
+    "name": "redisson-3.12.4",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.4",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.4",
+    "commit": {
+      "sha": "43b2d568b270ec6544e61c44281c53a201decec9",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/43b2d568b270ec6544e61c44281c53a201decec9"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuNA=="
+  },
+  {
+    "name": "redisson-3.12.3",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.3",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.3",
+    "commit": {
+      "sha": "e471b2e0a9520b24b5114fe71ea983e4b9463247",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/e471b2e0a9520b24b5114fe71ea983e4b9463247"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuMw=="
+  },
+  {
+    "name": "redisson-3.12.2",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.2",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.2",
+    "commit": {
+      "sha": "ba86193b411a6f574935a63ae72761bc6e220dd3",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/ba86193b411a6f574935a63ae72761bc6e220dd3"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuMg=="
+  },
+  {
+    "name": "redisson-3.12.1",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.1",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.1",
+    "commit": {
+      "sha": "0259701922bede00e1b4f8a02593912872b5af41",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/0259701922bede00e1b4f8a02593912872b5af41"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuMQ=="
+  },
+  {
+    "name": "redisson-3.12.0",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.12.0",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.12.0",
+    "commit": {
+      "sha": "2797509850fa1b01e79c994e60b3752282bc8f40",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/2797509850fa1b01e79c994e60b3752282bc8f40"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTIuMA=="
+  },
+  {
+    "name": "redisson-3.11.6",
+    "zipball_url": "https://api.github.com/repos/redisson/redisson/zipball/refs/tags/redisson-3.11.6",
+    "tarball_url": "https://api.github.com/repos/redisson/redisson/tarball/refs/tags/redisson-3.11.6",
+    "commit": {
+      "sha": "a79442bd3ecb4cbfb3a84f81e1d1b11c6787b014",
+      "url": "https://api.github.com/repos/redisson/redisson/commits/a79442bd3ecb4cbfb3a84f81e1d1b11c6787b014"
+    },
+    "node_id": "MDM6UmVmMTU4MjM0NjA6cmVmcy90YWdzL3JlZGlzc29uLTMuMTEuNg=="
+  }
+]

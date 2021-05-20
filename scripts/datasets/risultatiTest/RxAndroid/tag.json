@@ -1,0 +1,192 @@
+[
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "8e3419c78670675bed79d55fe401ee42b69d803f",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/8e3419c78670675bed79d55fe401ee42b69d803f"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YxLjAuMA=="
+  },
+  {
+    "name": "v1.0.0-rc1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v1.0.0-rc1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v1.0.0-rc1",
+    "commit": {
+      "sha": "9c26d1b491e0239e3a6b00ee1c909326f6e0bdb9",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/9c26d1b491e0239e3a6b00ee1c909326f6e0bdb9"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YxLjAuMC1yYzE="
+  },
+  {
+    "name": "v0.25.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v0.25.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v0.25.0",
+    "commit": {
+      "sha": "5584213566af8049cdc01c25e2b24659221fc94b",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/5584213566af8049cdc01c25e2b24659221fc94b"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YwLjI1LjA="
+  },
+  {
+    "name": "v0.24.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v0.24.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v0.24.0",
+    "commit": {
+      "sha": "ba80d3643ebfe1d83c42a6d55b2df2d9250a6088",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/ba80d3643ebfe1d83c42a6d55b2df2d9250a6088"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YwLjI0LjA="
+  },
+  {
+    "name": "v0.23.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v0.23.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v0.23.0",
+    "commit": {
+      "sha": "f281f090c47fd4f71a4fbd13ae07a39544b94157",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/f281f090c47fd4f71a4fbd13ae07a39544b94157"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YwLjIzLjA="
+  },
+  {
+    "name": "v0.22.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v0.22.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v0.22.0",
+    "commit": {
+      "sha": "ddbd8d7e65f8dcb18ba961665e03d51d5be7150e",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/ddbd8d7e65f8dcb18ba961665e03d51d5be7150e"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YwLjIyLjA="
+  },
+  {
+    "name": "v0.21.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/v0.21.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/v0.21.0",
+    "commit": {
+      "sha": "48c3e97530606d7cb1c56f4cefda9bbe2738a4e4",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/48c3e97530606d7cb1c56f4cefda9bbe2738a4e4"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzL3YwLjIxLjA="
+  },
+  {
+    "name": "3.0.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/3.0.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/3.0.0",
+    "commit": {
+      "sha": "c617e3bb78bcd0b06ff5327331fe98e53e31e25f",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/c617e3bb78bcd0b06ff5327331fe98e53e31e25f"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzMuMC4w"
+  },
+  {
+    "name": "2.1.1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.1.1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.1.1",
+    "commit": {
+      "sha": "23bf0bd953dbb4390c065b59c6212bd47234d19d",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/23bf0bd953dbb4390c065b59c6212bd47234d19d"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMS4x"
+  },
+  {
+    "name": "2.1.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.1.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.1.0",
+    "commit": {
+      "sha": "0efa44442c2bcfe4e37290ef0d743046fa2fc985",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/0efa44442c2bcfe4e37290ef0d743046fa2fc985"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMS4w"
+  },
+  {
+    "name": "2.0.2",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.0.2",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.0.2",
+    "commit": {
+      "sha": "0f113210dd5f13002aa3f9b9008c8ee2802487d5",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/0f113210dd5f13002aa3f9b9008c8ee2802487d5"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMC4y"
+  },
+  {
+    "name": "2.0.1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.0.1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.0.1",
+    "commit": {
+      "sha": "fb7983eb608307ae291173c0c250c14ffef92b13",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/fb7983eb608307ae291173c0c250c14ffef92b13"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMC4x"
+  },
+  {
+    "name": "2.0.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.0.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.0.0",
+    "commit": {
+      "sha": "b333ed39fbf7230e62493a9afcbf255951b968d3",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/b333ed39fbf7230e62493a9afcbf255951b968d3"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMC4w"
+  },
+  {
+    "name": "2.0.0-RC1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/2.0.0-RC1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/2.0.0-RC1",
+    "commit": {
+      "sha": "6c0e494c2dedfbd62aecdb007d58d13ed3c27d24",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/6c0e494c2dedfbd62aecdb007d58d13ed3c27d24"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzIuMC4wLVJDMQ=="
+  },
+  {
+    "name": "1.2.1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/1.2.1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/1.2.1",
+    "commit": {
+      "sha": "ff69ffc8dd22df8a84c92530e1d90c7c3be9cf8b",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/ff69ffc8dd22df8a84c92530e1d90c7c3be9cf8b"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzEuMi4x"
+  },
+  {
+    "name": "1.2.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/1.2.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/1.2.0",
+    "commit": {
+      "sha": "6a0acbbb410e4d49bad95fefffde6706f268a77a",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/6a0acbbb410e4d49bad95fefffde6706f268a77a"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzEuMi4w"
+  },
+  {
+    "name": "1.1.0",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/1.1.0",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/1.1.0",
+    "commit": {
+      "sha": "db59c052310d035c1b38805347cf46ce1da1f580",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/db59c052310d035c1b38805347cf46ce1da1f580"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzEuMS4w"
+  },
+  {
+    "name": "1.0.1",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/1.0.1",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/1.0.1",
+    "commit": {
+      "sha": "ccc37bc8d5d04c55caf83e9bd75e630d3d020e26",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/ccc37bc8d5d04c55caf83e9bd75e630d3d020e26"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzEuMC4x"
+  },
+  {
+    "name": "0.20.4",
+    "zipball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/zipball/refs/tags/0.20.4",
+    "tarball_url": "https://api.github.com/repos/ReactiveX/RxAndroid/tarball/refs/tags/0.20.4",
+    "commit": {
+      "sha": "0cb51c08baeace06c7639c4e9c98c78a1b5955a0",
+      "url": "https://api.github.com/repos/ReactiveX/RxAndroid/commits/0cb51c08baeace06c7639c4e9c98c78a1b5955a0"
+    },
+    "node_id": "MDM6UmVmMjMwOTU5NTQ6cmVmcy90YWdzLzAuMjAuNA=="
+  }
+]
