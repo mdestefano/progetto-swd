@@ -1,0 +1,302 @@
+[
+  {
+    "name": "vrbranch",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/vrbranch",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/vrbranch",
+    "commit": {
+      "sha": "7d9f4503a7756cceab2906e1419bb811ccf9ea2f",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/7d9f4503a7756cceab2906e1419bb811ccf9ea2f"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdnJicmFuY2g="
+  },
+  {
+    "name": "v3.10.0",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.10.0",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.10.0",
+    "commit": {
+      "sha": "544cc758bbf6c8b14e5d18ec395b98e11375d8e5",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/544cc758bbf6c8b14e5d18ec395b98e11375d8e5"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuMTAuMA=="
+  },
+  {
+    "name": "v3.9.10",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.10",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.10",
+    "commit": {
+      "sha": "80374488162380d006b8ae6da915d940cbf68c7c",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/80374488162380d006b8ae6da915d940cbf68c7c"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS4xMA=="
+  },
+  {
+    "name": "v3.9.9",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.9",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.9",
+    "commit": {
+      "sha": "fe5a669d99461f3f78bfceb1465fb69f80ce8c4b",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/fe5a669d99461f3f78bfceb1465fb69f80ce8c4b"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS45"
+  },
+  {
+    "name": "v3.9.7",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.7",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.7",
+    "commit": {
+      "sha": "823e4ff90ddf76732656179a3ca834291410e482",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/823e4ff90ddf76732656179a3ca834291410e482"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS43"
+  },
+  {
+    "name": "v3.9.3",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.3",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.3",
+    "commit": {
+      "sha": "09df1111e3b5a5ebdae658f376461103e4ad889e",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/09df1111e3b5a5ebdae658f376461103e4ad889e"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS4z"
+  },
+  {
+    "name": "v3.9.2",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.2",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.2",
+    "commit": {
+      "sha": "2fa2a635e63c3a2f3010b73d6416506d56e0e614",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/2fa2a635e63c3a2f3010b73d6416506d56e0e614"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS4y"
+  },
+  {
+    "name": "v3.9.0",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.9.0",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.9.0",
+    "commit": {
+      "sha": "95841edecb5e236792c2cb09ba5c72e6a38ee88f",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/95841edecb5e236792c2cb09ba5c72e6a38ee88f"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOS4w"
+  },
+  {
+    "name": "v3.8.25",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.25",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.25",
+    "commit": {
+      "sha": "d3d11f40abddb8b79a3be52c8c47ddd7d288d6eb",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/d3d11f40abddb8b79a3be52c8c47ddd7d288d6eb"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4yNQ=="
+  },
+  {
+    "name": "v3.8.22",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.22",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.22",
+    "commit": {
+      "sha": "08a2e7661f221e6aa721260bc22d46318ae71f65",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/08a2e7661f221e6aa721260bc22d46318ae71f65"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4yMg=="
+  },
+  {
+    "name": "v3.8.21",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.21",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.21",
+    "commit": {
+      "sha": "3b96d1f4b9b2e727a06cf6a3b046ed975c183383",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/3b96d1f4b9b2e727a06cf6a3b046ed975c183383"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4yMQ=="
+  },
+  {
+    "name": "v3.8.20",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.20",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.20",
+    "commit": {
+      "sha": "7f036eb9ed79444adcec3a6c635870222b109e50",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/7f036eb9ed79444adcec3a6c635870222b109e50"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4yMA=="
+  },
+  {
+    "name": "v3.8.17",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.17",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.17",
+    "commit": {
+      "sha": "c5be5c3144af9198acf3f33190c0f45718627a2f",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/c5be5c3144af9198acf3f33190c0f45718627a2f"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4xNw=="
+  },
+  {
+    "name": "v3.8.16",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.16",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.16",
+    "commit": {
+      "sha": "221a89bd613a722c4975807ed37760a322dc01c5",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/221a89bd613a722c4975807ed37760a322dc01c5"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4xNg=="
+  },
+  {
+    "name": "v3.8.14",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.14",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.14",
+    "commit": {
+      "sha": "f5b9975e9305f596e208d840ea90c483193aadd3",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/f5b9975e9305f596e208d840ea90c483193aadd3"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4xNA=="
+  },
+  {
+    "name": "v3.8.11",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.11",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.11",
+    "commit": {
+      "sha": "767eb86520a0fc6dca977041b40e854637bebb1c",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/767eb86520a0fc6dca977041b40e854637bebb1c"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4xMQ=="
+  },
+  {
+    "name": "v3.8.6",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.6",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.6",
+    "commit": {
+      "sha": "ea6d7adaeea2ff9844bbb56920cb3a5bce6aff2d",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/ea6d7adaeea2ff9844bbb56920cb3a5bce6aff2d"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC42"
+  },
+  {
+    "name": "v3.8.5",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.5",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.5",
+    "commit": {
+      "sha": "d2b4f288c40627d9f61d83939aca405142c581ea",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/d2b4f288c40627d9f61d83939aca405142c581ea"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC41"
+  },
+  {
+    "name": "v3.8.4",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.4",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.4",
+    "commit": {
+      "sha": "8e43adf70b54353b95a4ff4f3a35966e8d18b0b1",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/8e43adf70b54353b95a4ff4f3a35966e8d18b0b1"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC40"
+  },
+  {
+    "name": "v3.8.2",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.2",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.2",
+    "commit": {
+      "sha": "9ab17225adcad35e44cdf0f81d058ff0a8bd5e6b",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/9ab17225adcad35e44cdf0f81d058ff0a8bd5e6b"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4y"
+  },
+  {
+    "name": "v3.8.1",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.1",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.1",
+    "commit": {
+      "sha": "eed35442e01c904699338f341fbd31c38aa27666",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/eed35442e01c904699338f341fbd31c38aa27666"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4x"
+  },
+  {
+    "name": "v3.8.0",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.8.0",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.8.0",
+    "commit": {
+      "sha": "900552416c42a494c564a314a34072afc3cc0502",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/900552416c42a494c564a314a34072afc3cc0502"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuOC4w"
+  },
+  {
+    "name": "v3.7.18",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.18",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.18",
+    "commit": {
+      "sha": "84774556217c23472e54ff9ffe32bc041a40426d",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/84774556217c23472e54ff9ffe32bc041a40426d"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xOA=="
+  },
+  {
+    "name": "v3.7.17",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.17",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.17",
+    "commit": {
+      "sha": "c2488e0a2a0682bd396e9260b0863b89ee554437",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/c2488e0a2a0682bd396e9260b0863b89ee554437"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xNw=="
+  },
+  {
+    "name": "v3.7.16",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.16",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.16",
+    "commit": {
+      "sha": "e88fe26110afd6641c464cb0e87bd898b41bf457",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/e88fe26110afd6641c464cb0e87bd898b41bf457"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xNg=="
+  },
+  {
+    "name": "v3.7.15",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.15",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.15",
+    "commit": {
+      "sha": "3bffcd0e8f9e1e0fe5678a99e7e9f37426e10635",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/3bffcd0e8f9e1e0fe5678a99e7e9f37426e10635"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xNQ=="
+  },
+  {
+    "name": "v3.7.14",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.14",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.14",
+    "commit": {
+      "sha": "632a0c829a9d9fe6f55d89e4f4593a3d76a6d4cc",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/632a0c829a9d9fe6f55d89e4f4593a3d76a6d4cc"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xNA=="
+  },
+  {
+    "name": "v3.7.13",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.13",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.13",
+    "commit": {
+      "sha": "43facffb6861bb73c41560c39ba5aaa592a452fc",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/43facffb6861bb73c41560c39ba5aaa592a452fc"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xMw=="
+  },
+  {
+    "name": "v3.7.12",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.12",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.12",
+    "commit": {
+      "sha": "7745992ae91751df134b7ea09e1ef1ca4d39242a",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/7745992ae91751df134b7ea09e1ef1ca4d39242a"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xMg=="
+  },
+  {
+    "name": "v3.7.11",
+    "zipball_url": "https://api.github.com/repos/mockito/mockito/zipball/refs/tags/v3.7.11",
+    "tarball_url": "https://api.github.com/repos/mockito/mockito/tarball/refs/tags/v3.7.11",
+    "commit": {
+      "sha": "780cfc18b06e82cf6592fc5f250b2e52f6f6a9e6",
+      "url": "https://api.github.com/repos/mockito/mockito/commits/780cfc18b06e82cf6592fc5f250b2e52f6f6a9e6"
+    },
+    "node_id": "MDM6UmVmNjIwNzE2NzpyZWZzL3RhZ3MvdjMuNy4xMQ=="
+  }
+]

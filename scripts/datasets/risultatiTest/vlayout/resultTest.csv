@@ -1,0 +1,11 @@
+NameTag;HashCommit;Date;testsuite;production;loc;nom;wmc;rfc;ar1;et1;it1;gf1;se1;mg1;ro1
+v1.2.0;3451a2d065d414b8a78f08b1ff2ea39a5351d6d6;Thu Aug 31 03:58:57 CEST 2017;com.alibaba.android.vlayout.test.VirtualLayoutAdapterTest;com.alibaba.android.vlayout.VirtualLayoutAdapter;5;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v1.2.0;3451a2d065d414b8a78f08b1ff2ea39a5351d6d6;Thu Aug 31 03:58:57 CEST 2017;com.alibaba.android.vlayout.test.LinearLayoutHelperTest;com.alibaba.android.vlayout.layout.LinearLayoutHelper;18;2;3;7;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+v1.2.1;5f03bba7150ce26f7ee84e8a95f8e2db3629ae6f;Tue Sep 12 15:41:08 CEST 2017;com.alibaba.android.vlayout.test.VirtualLayoutAdapterTest;com.alibaba.android.vlayout.VirtualLayoutAdapter;5;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v1.2.1;5f03bba7150ce26f7ee84e8a95f8e2db3629ae6f;Tue Sep 12 15:41:08 CEST 2017;com.alibaba.android.vlayout.test.LinearLayoutHelperTest;com.alibaba.android.vlayout.layout.LinearLayoutHelper;18;2;3;7;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+v1.2.5;788809d49944af7a1d4230129f5d0acfe2d6ebc9;Sun Dec 03 09:51:26 CET 2017;com.alibaba.android.vlayout.test.VirtualLayoutAdapterTest;com.alibaba.android.vlayout.VirtualLayoutAdapter;5;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v1.2.5;788809d49944af7a1d4230129f5d0acfe2d6ebc9;Sun Dec 03 09:51:26 CET 2017;com.alibaba.android.vlayout.test.LinearLayoutHelperTest;com.alibaba.android.vlayout.layout.LinearLayoutHelper;18;2;3;7;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+v1.2.7;e68722d1dad20b79a038d20d3645bcd3bcbd02a9;Sun Jan 07 12:24:13 CET 2018;com.alibaba.android.vlayout.test.VirtualLayoutAdapterTest;com.alibaba.android.vlayout.VirtualLayoutAdapter;5;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v1.2.7;e68722d1dad20b79a038d20d3645bcd3bcbd02a9;Sun Jan 07 12:24:13 CET 2018;com.alibaba.android.vlayout.test.LinearLayoutHelperTest;com.alibaba.android.vlayout.layout.LinearLayoutHelper;18;2;3;7;1.0;0.0;0.0;1.0;0.0;0.0;0.0
+v1.2.9;1299e8f729f67ce37a729dc1e52f44685b9be5ee;Wed Jan 17 07:15:21 CET 2018;com.alibaba.android.vlayout.test.VirtualLayoutAdapterTest;com.alibaba.android.vlayout.VirtualLayoutAdapter;5;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+v1.2.9;1299e8f729f67ce37a729dc1e52f44685b9be5ee;Wed Jan 17 07:15:21 CET 2018;com.alibaba.android.vlayout.test.LinearLayoutHelperTest;com.alibaba.android.vlayout.layout.LinearLayoutHelper;18;2;3;7;1.0;0.0;0.0;1.0;0.0;0.0;0.0

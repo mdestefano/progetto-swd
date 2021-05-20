@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v1.16.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.16.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.16.1",
+    "commit": {
+      "sha": "94f6540338c5a1c937d48bbc4a3b48009c3f97ed",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/94f6540338c5a1c937d48bbc4a3b48009c3f97ed"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNi4x"
+  },
+  {
+    "name": "v1.16.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.16.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.16.0",
+    "commit": {
+      "sha": "e64e9def63d5739e2e09e440dfe20de21947e228",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/e64e9def63d5739e2e09e440dfe20de21947e228"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNi4w"
+  },
+  {
+    "name": "v1.15.9",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.9",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.9",
+    "commit": {
+      "sha": "050459e6165cfc8c3c79bf1c44ae352ddd8d9881",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/050459e6165cfc8c3c79bf1c44ae352ddd8d9881"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS45"
+  },
+  {
+    "name": "v1.15.8",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.8",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.8",
+    "commit": {
+      "sha": "fb90fbdcb871040ea8dc78ffba3e254553202ca2",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/fb90fbdcb871040ea8dc78ffba3e254553202ca2"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS44"
+  },
+  {
+    "name": "v1.15.7",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.7",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.7",
+    "commit": {
+      "sha": "b71b081c96813d0210831fdc685471d170ca369a",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/b71b081c96813d0210831fdc685471d170ca369a"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS43"
+  },
+  {
+    "name": "v1.15.7-beta.3",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.7-beta.3",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.7-beta.3",
+    "commit": {
+      "sha": "b71b081c96813d0210831fdc685471d170ca369a",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/b71b081c96813d0210831fdc685471d170ca369a"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS43LWJldGEuMw=="
+  },
+  {
+    "name": "v1.15.7-beta.2",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.7-beta.2",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.7-beta.2",
+    "commit": {
+      "sha": "abbfb733377a41dfb347f3a2ec63d5eaa9e654fa",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/abbfb733377a41dfb347f3a2ec63d5eaa9e654fa"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS43LWJldGEuMg=="
+  },
+  {
+    "name": "v1.15.7-beta.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.7-beta.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.7-beta.1",
+    "commit": {
+      "sha": "e39d1dd0f8e11ca7b8885992e3f3d14ad6aa2a8d",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/e39d1dd0f8e11ca7b8885992e3f3d14ad6aa2a8d"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS43LWJldGEuMQ=="
+  },
+  {
+    "name": "v1.15.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.15.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.15.1",
+    "commit": {
+      "sha": "be1e23e2abf28884c07e5677bb4b3e3fb5450a1d",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/be1e23e2abf28884c07e5677bb4b3e3fb5450a1d"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNS4x"
+  },
+  {
+    "name": "v1.14.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.14.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.14.0",
+    "commit": {
+      "sha": "65c60a61b32a53bbf2310e1b6a1aa3a8dbd47bd4",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/65c60a61b32a53bbf2310e1b6a1aa3a8dbd47bd4"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xNC4w"
+  },
+  {
+    "name": "v1.13.2",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.13.2",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.13.2",
+    "commit": {
+      "sha": "2038f24b3b6a5c1a844b6508fdb238bc5a4f8566",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/2038f24b3b6a5c1a844b6508fdb238bc5a4f8566"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMy4y"
+  },
+  {
+    "name": "v1.13.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.13.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.13.1",
+    "commit": {
+      "sha": "c730072f07fab4f6b12a53af632c83d92c08fa61",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/c730072f07fab4f6b12a53af632c83d92c08fa61"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMy4x"
+  },
+  {
+    "name": "v1.13.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.13.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.13.0",
+    "commit": {
+      "sha": "c674457f2fb564314b7cc671ebcc5f949fa6b2da",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/c674457f2fb564314b7cc671ebcc5f949fa6b2da"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMy4w"
+  },
+  {
+    "name": "v1.12.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.12.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.12.0",
+    "commit": {
+      "sha": "fdc78212ffaca3e0f6201b1db35951da91f0e1ce",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/fdc78212ffaca3e0f6201b1db35951da91f0e1ce"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMi4w"
+  },
+  {
+    "name": "v1.11.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.11.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.11.0",
+    "commit": {
+      "sha": "c94b123a4bbe336b2b21c0f87aa65772490a73df",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/c94b123a4bbe336b2b21c0f87aa65772490a73df"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMS4w"
+  },
+  {
+    "name": "v1.10.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.10.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.10.1",
+    "commit": {
+      "sha": "10df9f05f3d8a4a1f84e8df7c1b1d706554c64f3",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/10df9f05f3d8a4a1f84e8df7c1b1d706554c64f3"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMC4x"
+  },
+  {
+    "name": "v1.10.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.10.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.10.0",
+    "commit": {
+      "sha": "4d8411e978c7d28709c7862459326db404c3064e",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/4d8411e978c7d28709c7862459326db404c3064e"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS4xMC4w"
+  },
+  {
+    "name": "v1.9.5",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.5",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.5",
+    "commit": {
+      "sha": "864665f1b803299122dd9882e81de985ddaa0c46",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/864665f1b803299122dd9882e81de985ddaa0c46"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjU="
+  },
+  {
+    "name": "v1.9.4",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.4",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.4",
+    "commit": {
+      "sha": "eec26580c988873b72a37a50dfb32547de8e624a",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/eec26580c988873b72a37a50dfb32547de8e624a"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjQ="
+  },
+  {
+    "name": "v1.9.3",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.3",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.3",
+    "commit": {
+      "sha": "e5900777016c0fc495840894e109cff9a36c0f11",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/e5900777016c0fc495840894e109cff9a36c0f11"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjM="
+  },
+  {
+    "name": "v1.9.2",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.2",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.2",
+    "commit": {
+      "sha": "a75bac2cf743f32edc34deca477925b60042da0c",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/a75bac2cf743f32edc34deca477925b60042da0c"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjI="
+  },
+  {
+    "name": "v1.9.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.1",
+    "commit": {
+      "sha": "798e7556ba759b2d514d3657a3233540d7b3198d",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/798e7556ba759b2d514d3657a3233540d7b3198d"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjE="
+  },
+  {
+    "name": "v1.9.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.9.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.9.0",
+    "commit": {
+      "sha": "1244524da0f7c1ed9dcd5fcb0ecb2314a76890ef",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/1244524da0f7c1ed9dcd5fcb0ecb2314a76890ef"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS45LjA="
+  },
+  {
+    "name": "v1.8.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.8.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.8.1",
+    "commit": {
+      "sha": "3b80e11824305da6daae5587d27833851000dfd2",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/3b80e11824305da6daae5587d27833851000dfd2"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS44LjE="
+  },
+  {
+    "name": "v1.8.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.8.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.8.0",
+    "commit": {
+      "sha": "88048b763772318bd307a4c3dc745c6096397dc9",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/88048b763772318bd307a4c3dc745c6096397dc9"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS44LjA="
+  },
+  {
+    "name": "v1.7.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.7.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.7.1",
+    "commit": {
+      "sha": "b9268f296bc944d5c9bd3ac13b35ecde3d054f6f",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/b9268f296bc944d5c9bd3ac13b35ecde3d054f6f"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS43LjE="
+  },
+  {
+    "name": "v1.7.0",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.7.0",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.7.0",
+    "commit": {
+      "sha": "12ec6226bc28b3d12f7e9c49dd3da458e4b2a5c2",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/12ec6226bc28b3d12f7e9c49dd3da458e4b2a5c2"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS43LjA="
+  },
+  {
+    "name": "v1.6.1-beta",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.6.1-beta",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.6.1-beta",
+    "commit": {
+      "sha": "cf74f811fafd1293f026a5535fe6e15022e1d91a",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/cf74f811fafd1293f026a5535fe6e15022e1d91a"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS42LjEtYmV0YQ=="
+  },
+  {
+    "name": "v1.6.0-beta",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.6.0-beta",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.6.0-beta",
+    "commit": {
+      "sha": "fde490a2057e74c61fb42e530f595fb00bf980ac",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/fde490a2057e74c61fb42e530f595fb00bf980ac"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS42LjAtYmV0YQ=="
+  },
+  {
+    "name": "v1.5.1",
+    "zipball_url": "https://api.github.com/repos/justauth/JustAuth/zipball/refs/tags/v1.5.1",
+    "tarball_url": "https://api.github.com/repos/justauth/JustAuth/tarball/refs/tags/v1.5.1",
+    "commit": {
+      "sha": "36b5f333a4ceda35a978d8739b6e86d6da0c0f7f",
+      "url": "https://api.github.com/repos/justauth/JustAuth/commits/36b5f333a4ceda35a978d8739b6e86d6da0c0f7f"
+    },
+    "node_id": "MDM6UmVmMTY4NTAwMzk3OnJlZnMvdGFncy92MS41LjE="
+  }
+]

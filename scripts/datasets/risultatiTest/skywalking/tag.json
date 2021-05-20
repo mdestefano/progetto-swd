@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v8.5.0.4",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.5.0.4",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.5.0.4",
+    "commit": {
+      "sha": "4f44017776bc7a41045d1adc19ab65983764cd02",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/4f44017776bc7a41045d1adc19ab65983764cd02"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjUuMC40"
+  },
+  {
+    "name": "v8.5.0.2",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.5.0.2",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.5.0.2",
+    "commit": {
+      "sha": "19034153e8f906d84c6f4624269f1449830d36ab",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/19034153e8f906d84c6f4624269f1449830d36ab"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjUuMC4y"
+  },
+  {
+    "name": "v8.5.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.5.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.5.0.1",
+    "commit": {
+      "sha": "7352aab6402f206d515837a77b3b379c7181bd0b",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/7352aab6402f206d515837a77b3b379c7181bd0b"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjUuMC4x"
+  },
+  {
+    "name": "v8.5.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.5.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.5.0",
+    "commit": {
+      "sha": "88f5264d003ea5123f290b56e3c94cae6a3a73c3",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/88f5264d003ea5123f290b56e3c94cae6a3a73c3"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjUuMA=="
+  },
+  {
+    "name": "v8.4.0.6",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.6",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.6",
+    "commit": {
+      "sha": "de3b64fd34e619f24f47068da70505b3e0a27a72",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/de3b64fd34e619f24f47068da70505b3e0a27a72"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC42"
+  },
+  {
+    "name": "v8.4.0.5",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.5",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.5",
+    "commit": {
+      "sha": "441524ad00fa444b7d8b8fc4a4f5d167c71af4c0",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/441524ad00fa444b7d8b8fc4a4f5d167c71af4c0"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC41"
+  },
+  {
+    "name": "v8.4.0.4",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.4",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.4",
+    "commit": {
+      "sha": "8db714a7dd903b3f57a5155dbc252903acd8a1d6",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/8db714a7dd903b3f57a5155dbc252903acd8a1d6"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC40"
+  },
+  {
+    "name": "v8.4.0.3",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.3",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.3",
+    "commit": {
+      "sha": "36acb6c3442a27d6f9fc4a95fb8b1bb78f03e869",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/36acb6c3442a27d6f9fc4a95fb8b1bb78f03e869"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC4z"
+  },
+  {
+    "name": "v8.4.0.2",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.2",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.2",
+    "commit": {
+      "sha": "d7f153cf76c60184f124c4bb42238e8a3b47ca4c",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/d7f153cf76c60184f124c4bb42238e8a3b47ca4c"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC4y"
+  },
+  {
+    "name": "v8.4.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0.1",
+    "commit": {
+      "sha": "131d3ab57cb6d76a35d6e66fc53d0754dc9492c4",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/131d3ab57cb6d76a35d6e66fc53d0754dc9492c4"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMC4x"
+  },
+  {
+    "name": "v8.4.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.4.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.4.0",
+    "commit": {
+      "sha": "bf8574b07f01dcff681994e5fec599fe2bb7887b",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/bf8574b07f01dcff681994e5fec599fe2bb7887b"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjQuMA=="
+  },
+  {
+    "name": "v8.3.0.4",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.3.0.4",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.3.0.4",
+    "commit": {
+      "sha": "7c07b9a308b035b2b16910bebe7151aada58d55f",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/7c07b9a308b035b2b16910bebe7151aada58d55f"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjMuMC40"
+  },
+  {
+    "name": "v8.3.0.3",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.3.0.3",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.3.0.3",
+    "commit": {
+      "sha": "07c2e76b27dde0bd27f21f34b4b95dc94b9fcdaf",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/07c2e76b27dde0bd27f21f34b4b95dc94b9fcdaf"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjMuMC4z"
+  },
+  {
+    "name": "v8.3.0.2",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.3.0.2",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.3.0.2",
+    "commit": {
+      "sha": "d36b35019707b7de3d9b2a119e785f5b86770643",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/d36b35019707b7de3d9b2a119e785f5b86770643"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjMuMC4y"
+  },
+  {
+    "name": "v8.3.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.3.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.3.0.1",
+    "commit": {
+      "sha": "2bac5e8721d2b9ddd4df036220bacd1e25d9a2a8",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/2bac5e8721d2b9ddd4df036220bacd1e25d9a2a8"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjMuMC4x"
+  },
+  {
+    "name": "v8.3.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.3.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.3.0",
+    "commit": {
+      "sha": "10772d388e12d2e79f999b2e084d9dd94771a56a",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/10772d388e12d2e79f999b2e084d9dd94771a56a"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjMuMA=="
+  },
+  {
+    "name": "v8.2.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.2.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.2.0.1",
+    "commit": {
+      "sha": "2c10d0a854e477ee49c58453f3336a8a5cb286d2",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/2c10d0a854e477ee49c58453f3336a8a5cb286d2"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjIuMC4x"
+  },
+  {
+    "name": "v8.2.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.2.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.2.0",
+    "commit": {
+      "sha": "5d840e4959b11fab72f869354f784435ad6f1bd4",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/5d840e4959b11fab72f869354f784435ad6f1bd4"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjIuMA=="
+  },
+  {
+    "name": "v8.1.0.3",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.1.0.3",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.1.0.3",
+    "commit": {
+      "sha": "38991aeda906ddbeef6a121684b35c04c1b2315a",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/38991aeda906ddbeef6a121684b35c04c1b2315a"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjEuMC4z"
+  },
+  {
+    "name": "v8.1.0.2",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.1.0.2",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.1.0.2",
+    "commit": {
+      "sha": "5b48e4929e2dc70a52a74f58f8f26a5728967aca",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/5b48e4929e2dc70a52a74f58f8f26a5728967aca"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjEuMC4y"
+  },
+  {
+    "name": "v8.1.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.1.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.1.0.1",
+    "commit": {
+      "sha": "857b079b5bcd332fff068eaa5bb0b03c0a01ce69",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/857b079b5bcd332fff068eaa5bb0b03c0a01ce69"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjEuMC4x"
+  },
+  {
+    "name": "v8.1.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.1.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.1.0",
+    "commit": {
+      "sha": "bcc27eb6cf9e9a5b01fbbd0a9899692185d3053d",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/bcc27eb6cf9e9a5b01fbbd0a9899692185d3053d"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjEuMA=="
+  },
+  {
+    "name": "v8.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.1",
+    "commit": {
+      "sha": "629040f5abb98110255083a868013a8785c7db05",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/629040f5abb98110255083a868013a8785c7db05"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMQ=="
+  },
+  {
+    "name": "v8.0.0",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0",
+    "commit": {
+      "sha": "ed6bcb91c2832468fc16945e487a082cae627f88",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/ed6bcb91c2832468fc16945e487a082cae627f88"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMA=="
+  },
+  {
+    "name": "v8.0.0-rc6",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc6",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc6",
+    "commit": {
+      "sha": "24f2e60774256a0c5db81940f775138d38c019f3",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/24f2e60774256a0c5db81940f775138d38c019f3"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzY="
+  },
+  {
+    "name": "v8.0.0-rc5",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc5",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc5",
+    "commit": {
+      "sha": "81470db561fe6a89603bad73da831d1f42cbdd60",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/81470db561fe6a89603bad73da831d1f42cbdd60"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzU="
+  },
+  {
+    "name": "v8.0.0-rc4",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc4",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc4",
+    "commit": {
+      "sha": "4b3bd47d16f8a821ac49ccdf3abb51719e73fb07",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/4b3bd47d16f8a821ac49ccdf3abb51719e73fb07"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzQ="
+  },
+  {
+    "name": "v8.0.0-rc3",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc3",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc3",
+    "commit": {
+      "sha": "1e785ee2a698075d1a0f0e3f20de13e7df80cc85",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/1e785ee2a698075d1a0f0e3f20de13e7df80cc85"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzM="
+  },
+  {
+    "name": "v8.0.0-rc2",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc2",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc2",
+    "commit": {
+      "sha": "e852c74937d7ebd68743f7ed6bfaa2aa5d18f120",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/e852c74937d7ebd68743f7ed6bfaa2aa5d18f120"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzI="
+  },
+  {
+    "name": "v8.0.0-rc1",
+    "zipball_url": "https://api.github.com/repos/apache/skywalking/zipball/refs/tags/v8.0.0-rc1",
+    "tarball_url": "https://api.github.com/repos/apache/skywalking/tarball/refs/tags/v8.0.0-rc1",
+    "commit": {
+      "sha": "974ec7750d8b2c581a01557486404db16b2961a9",
+      "url": "https://api.github.com/repos/apache/skywalking/commits/974ec7750d8b2c581a01557486404db16b2961a9"
+    },
+    "node_id": "MDM6UmVmNDU3MjEwMTE6cmVmcy90YWdzL3Y4LjAuMC1yYzE="
+  }
+]

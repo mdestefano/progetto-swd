@@ -1,0 +1,302 @@
+[
+  {
+    "name": "shardingsphere-ui-4.1.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/shardingsphere-ui-4.1.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/shardingsphere-ui-4.1.1",
+    "commit": {
+      "sha": "87a34228da5a787d925e89ab1942d6f5cda4fa8b",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/87a34228da5a787d925e89ab1942d6f5cda4fa8b"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzL3NoYXJkaW5nc3BoZXJlLXVpLTQuMS4x"
+  },
+  {
+    "name": "shardingsphere-ui-4.1.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/shardingsphere-ui-4.1.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/shardingsphere-ui-4.1.0",
+    "commit": {
+      "sha": "dc24fa288dc38f4c439812dd3ae26feba2ce8963",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/dc24fa288dc38f4c439812dd3ae26feba2ce8963"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzL3NoYXJkaW5nc3BoZXJlLXVpLTQuMS4w"
+  },
+  {
+    "name": "5.0.0-alpha",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/5.0.0-alpha",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/5.0.0-alpha",
+    "commit": {
+      "sha": "5dc690c2227571e83beada277dbb2dfb43c29427",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/5dc690c2227571e83beada277dbb2dfb43c29427"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzUuMC4wLWFscGhh"
+  },
+  {
+    "name": "4.1.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.1.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.1.1",
+    "commit": {
+      "sha": "96375f420074a8a4cba5307f1a308f3a87b3c7bf",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/96375f420074a8a4cba5307f1a308f3a87b3c7bf"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMS4x"
+  },
+  {
+    "name": "4.1.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.1.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.1.0",
+    "commit": {
+      "sha": "779fabe0eeab0e87178e43fb73cdbe8417b32661",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/779fabe0eeab0e87178e43fb73cdbe8417b32661"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMS4w"
+  },
+  {
+    "name": "4.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.0.1",
+    "commit": {
+      "sha": "b67d320209b4d4585231b356f2c575cfa383a98b",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/b67d320209b4d4585231b356f2c575cfa383a98b"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMC4x"
+  },
+  {
+    "name": "4.0.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.0.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.0.0",
+    "commit": {
+      "sha": "f81f4f03b1dd4b426adf1f29ffe93f9540ce6fc9",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/f81f4f03b1dd4b426adf1f29ffe93f9540ce6fc9"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMC4w"
+  },
+  {
+    "name": "4.0.0-RC3",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.0.0-RC3",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.0.0-RC3",
+    "commit": {
+      "sha": "78a67e8c088ffc0b6f0e2c7418b0217cdc3bb87d",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/78a67e8c088ffc0b6f0e2c7418b0217cdc3bb87d"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMC4wLVJDMw=="
+  },
+  {
+    "name": "4.0.0-RC2",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.0.0-RC2",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.0.0-RC2",
+    "commit": {
+      "sha": "85f2ff877a7aaf122998964a0d03f7c9b2830e36",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/85f2ff877a7aaf122998964a0d03f7c9b2830e36"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMC4wLVJDMg=="
+  },
+  {
+    "name": "4.0.0-RC1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/4.0.0-RC1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/4.0.0-RC1",
+    "commit": {
+      "sha": "2c1d23f9569e5cbe74074a578931c77dfa800800",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/2c1d23f9569e5cbe74074a578931c77dfa800800"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzQuMC4wLVJDMQ=="
+  },
+  {
+    "name": "3.1.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.1.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.1.0",
+    "commit": {
+      "sha": "4f4ca19d71b095831ab2492cd6279c2f43572f4d",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/4f4ca19d71b095831ab2492cd6279c2f43572f4d"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMS4w"
+  },
+  {
+    "name": "3.1.0.M1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.1.0.M1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.1.0.M1",
+    "commit": {
+      "sha": "d3fec0121bd0e93ff38bc5c2fe974e1f679754fe",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/d3fec0121bd0e93ff38bc5c2fe974e1f679754fe"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMS4wLk0x"
+  },
+  {
+    "name": "3.0.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.0.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.0.0",
+    "commit": {
+      "sha": "ea8e65b242a30110deadbf703650cf37addbf50e",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/ea8e65b242a30110deadbf703650cf37addbf50e"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMC4w"
+  },
+  {
+    "name": "3.0.0.M4",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.0.0.M4",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.0.0.M4",
+    "commit": {
+      "sha": "f790e8727cfb4f38024c52f66ff4697f02ccb358",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/f790e8727cfb4f38024c52f66ff4697f02ccb358"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMC4wLk00"
+  },
+  {
+    "name": "3.0.0.M3",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.0.0.M3",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.0.0.M3",
+    "commit": {
+      "sha": "1edd505661bff229c0954e83a12ba87df4648aba",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/1edd505661bff229c0954e83a12ba87df4648aba"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMC4wLk0z"
+  },
+  {
+    "name": "3.0.0.M2",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.0.0.M2",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.0.0.M2",
+    "commit": {
+      "sha": "7679da5e5fe3f52655f206ce8f9529039dcc7b76",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/7679da5e5fe3f52655f206ce8f9529039dcc7b76"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMC4wLk0y"
+  },
+  {
+    "name": "3.0.0.M1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/3.0.0.M1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/3.0.0.M1",
+    "commit": {
+      "sha": "d9a488231a2025768d8a2de2aacf595d5928caee",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/d9a488231a2025768d8a2de2aacf595d5928caee"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzMuMC4wLk0x"
+  },
+  {
+    "name": "2.0.3",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.3",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.3",
+    "commit": {
+      "sha": "5d014d73616a8ab659160c0e5a22fc83ec3be203",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/5d014d73616a8ab659160c0e5a22fc83ec3be203"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4z"
+  },
+  {
+    "name": "2.0.2",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.2",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.2",
+    "commit": {
+      "sha": "28d32af06c98f13fb982c0f414cc9a903582dff2",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/28d32af06c98f13fb982c0f414cc9a903582dff2"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4y"
+  },
+  {
+    "name": "2.0.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.1",
+    "commit": {
+      "sha": "6ac7d48cdc97e564d146b24992b8d393b47322a6",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/6ac7d48cdc97e564d146b24992b8d393b47322a6"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4x"
+  },
+  {
+    "name": "2.0.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.0",
+    "commit": {
+      "sha": "cb45467938e85fad41a93a7beca38cef12dac7eb",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/cb45467938e85fad41a93a7beca38cef12dac7eb"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4w"
+  },
+  {
+    "name": "2.0.0.M3",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.0.M3",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.0.M3",
+    "commit": {
+      "sha": "07caf4a4a75b8066fc0529b49c4555b033de2d26",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/07caf4a4a75b8066fc0529b49c4555b033de2d26"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4wLk0z"
+  },
+  {
+    "name": "2.0.0.M2",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.0.M2",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.0.M2",
+    "commit": {
+      "sha": "a5f642f2a7cd46095a7af2e6a602df8275299af8",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/a5f642f2a7cd46095a7af2e6a602df8275299af8"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4wLk0y"
+  },
+  {
+    "name": "2.0.0.M1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/2.0.0.M1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/2.0.0.M1",
+    "commit": {
+      "sha": "284e7c705768edfc999497f822d5ac2e4d4f5a59",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/284e7c705768edfc999497f822d5ac2e4d4f5a59"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzIuMC4wLk0x"
+  },
+  {
+    "name": "1.5.4.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.4.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.4.1",
+    "commit": {
+      "sha": "c8a7c7e021cd37e4c9af859ced30544c714b640f",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/c8a7c7e021cd37e4c9af859ced30544c714b640f"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS40LjE="
+  },
+  {
+    "name": "1.5.4",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.4",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.4",
+    "commit": {
+      "sha": "d86edb819ef4d88fa13ae41afdd231731f515a68",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/d86edb819ef4d88fa13ae41afdd231731f515a68"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS40"
+  },
+  {
+    "name": "1.5.3",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.3",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.3",
+    "commit": {
+      "sha": "5ad49031f6036ebb83b335af61837b271eabf1d8",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/5ad49031f6036ebb83b335af61837b271eabf1d8"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS4z"
+  },
+  {
+    "name": "1.5.2",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.2",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.2",
+    "commit": {
+      "sha": "c8f2d31140a924f07eaf2f339e428ead25900f14",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/c8f2d31140a924f07eaf2f339e428ead25900f14"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS4y"
+  },
+  {
+    "name": "1.5.1",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.1",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.1",
+    "commit": {
+      "sha": "3bab810865364231e67eec084dcc16c2280a7c41",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/3bab810865364231e67eec084dcc16c2280a7c41"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS4x"
+  },
+  {
+    "name": "1.5.0",
+    "zipball_url": "https://api.github.com/repos/apache/shardingsphere/zipball/refs/tags/1.5.0",
+    "tarball_url": "https://api.github.com/repos/apache/shardingsphere/tarball/refs/tags/1.5.0",
+    "commit": {
+      "sha": "d6ac50704f5e45beeeded09a4f0b160c7320b993",
+      "url": "https://api.github.com/repos/apache/shardingsphere/commits/d6ac50704f5e45beeeded09a4f0b160c7320b993"
+    },
+    "node_id": "MDM6UmVmNDk4NzY0NzY6cmVmcy90YWdzLzEuNS4w"
+  }
+]

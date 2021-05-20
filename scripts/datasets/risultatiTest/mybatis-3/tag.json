@@ -1,0 +1,302 @@
+[
+  {
+    "name": "mybatis-3.5.7",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.7",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.7",
+    "commit": {
+      "sha": "4d57711c33ec75bd94d9e9d025aed1efa643d27a",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/4d57711c33ec75bd94d9e9d025aed1efa643d27a"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuNw=="
+  },
+  {
+    "name": "mybatis-3.5.6",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.6",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.6",
+    "commit": {
+      "sha": "4f286a715e898ca502129f2567a8e4bb1b459e5a",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/4f286a715e898ca502129f2567a8e4bb1b459e5a"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuNg=="
+  },
+  {
+    "name": "mybatis-3.5.5",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.5",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.5",
+    "commit": {
+      "sha": "ee478c28a01d50ead73fc2d112d7af72b9d2a169",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/ee478c28a01d50ead73fc2d112d7af72b9d2a169"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuNQ=="
+  },
+  {
+    "name": "mybatis-3.5.4",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.4",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.4",
+    "commit": {
+      "sha": "e85eacb38dfbcdfe1778c8347135d8bb1b1b7d65",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/e85eacb38dfbcdfe1778c8347135d8bb1b1b7d65"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuNA=="
+  },
+  {
+    "name": "mybatis-3.5.3",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.3",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.3",
+    "commit": {
+      "sha": "2c485af64eaab60892aa497e48b00327f4a92e6b",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/2c485af64eaab60892aa497e48b00327f4a92e6b"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuMw=="
+  },
+  {
+    "name": "mybatis-3.5.2",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.2",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.2",
+    "commit": {
+      "sha": "843c258ff1f07cc3eb3c282c5d02495ae4598941",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/843c258ff1f07cc3eb3c282c5d02495ae4598941"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuMg=="
+  },
+  {
+    "name": "mybatis-3.5.1",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.1",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.1",
+    "commit": {
+      "sha": "0f8dc7f07b38a9912d2e6829c2e33efadd761546",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/0f8dc7f07b38a9912d2e6829c2e33efadd761546"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuMQ=="
+  },
+  {
+    "name": "mybatis-3.5.0",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.5.0",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.5.0",
+    "commit": {
+      "sha": "e085258b3ee6dcf813b8c243be87b48685c4e6f7",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/e085258b3ee6dcf813b8c243be87b48685c4e6f7"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjUuMA=="
+  },
+  {
+    "name": "mybatis-3.4.6",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.6",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.6",
+    "commit": {
+      "sha": "e7f59b629b0c2107e27cc8449ff957aac293c624",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/e7f59b629b0c2107e27cc8449ff957aac293c624"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuNg=="
+  },
+  {
+    "name": "mybatis-3.4.5",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.5",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.5",
+    "commit": {
+      "sha": "1979968f65590358aaeb5542f4d96cbcc7a0ed45",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/1979968f65590358aaeb5542f4d96cbcc7a0ed45"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuNQ=="
+  },
+  {
+    "name": "mybatis-3.4.4",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.4",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.4",
+    "commit": {
+      "sha": "771887c6ad792dc9f13942837738d66baf7faee5",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/771887c6ad792dc9f13942837738d66baf7faee5"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuNA=="
+  },
+  {
+    "name": "mybatis-3.4.3",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.3",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.3",
+    "commit": {
+      "sha": "893bdf15c1d4661d7c420fef99fe05e6f70a0dd1",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/893bdf15c1d4661d7c420fef99fe05e6f70a0dd1"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuMw=="
+  },
+  {
+    "name": "mybatis-3.4.2",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.2",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.2",
+    "commit": {
+      "sha": "44c09624bc07d5a152f8a8b94c6e569f55627cad",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/44c09624bc07d5a152f8a8b94c6e569f55627cad"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuMg=="
+  },
+  {
+    "name": "mybatis-3.4.1",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.1",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.1",
+    "commit": {
+      "sha": "3e36e1190ca036b2214ca7570e198ab4af39f0d0",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/3e36e1190ca036b2214ca7570e198ab4af39f0d0"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuMQ=="
+  },
+  {
+    "name": "mybatis-3.4.0",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.4.0",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.4.0",
+    "commit": {
+      "sha": "1e19afd0609c6614bbe29d67e1d3168e0e8201fc",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/1e19afd0609c6614bbe29d67e1d3168e0e8201fc"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjQuMA=="
+  },
+  {
+    "name": "mybatis-3.3.1",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.3.1",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.3.1",
+    "commit": {
+      "sha": "4269dbb6061f0465905d70b8d3e023b5455da838",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/4269dbb6061f0465905d70b8d3e023b5455da838"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjMuMQ=="
+  },
+  {
+    "name": "mybatis-3.3.0",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.3.0",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.3.0",
+    "commit": {
+      "sha": "22fcbef30a5f6708e5c314ef18b3fad13bd1c78e",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/22fcbef30a5f6708e5c314ef18b3fad13bd1c78e"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjMuMA=="
+  },
+  {
+    "name": "mybatis-3.2.8",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.8",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.8",
+    "commit": {
+      "sha": "abf2ef361641221be092008b90c74e4f0d510528",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/abf2ef361641221be092008b90c74e4f0d510528"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuOA=="
+  },
+  {
+    "name": "mybatis-3.2.7",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.7",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.7",
+    "commit": {
+      "sha": "34f8feae24f648ba690ce81cce8cd32a35fa6329",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/34f8feae24f648ba690ce81cce8cd32a35fa6329"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuNw=="
+  },
+  {
+    "name": "mybatis-3.2.6",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.6",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.6",
+    "commit": {
+      "sha": "31c247824e9699a7d58a124148dbe60f61b47ab6",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/31c247824e9699a7d58a124148dbe60f61b47ab6"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuNg=="
+  },
+  {
+    "name": "mybatis-3.2.5",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.5",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.5",
+    "commit": {
+      "sha": "db7f38da3eda7329cbe4a5f7ecf42af0563157f2",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/db7f38da3eda7329cbe4a5f7ecf42af0563157f2"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuNQ=="
+  },
+  {
+    "name": "mybatis-3.2.4",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.4",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.4",
+    "commit": {
+      "sha": "596cbe45f3d33efd9f19f6e2f13caf5163395d74",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/596cbe45f3d33efd9f19f6e2f13caf5163395d74"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuNA=="
+  },
+  {
+    "name": "mybatis-3.2.3",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.3",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.3",
+    "commit": {
+      "sha": "93cf2680723fb45391f8c75dc9717144ef46e5f5",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/93cf2680723fb45391f8c75dc9717144ef46e5f5"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuMw=="
+  },
+  {
+    "name": "mybatis-3.2.2",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.2",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.2",
+    "commit": {
+      "sha": "320dd703535bcbd08ffe2406878f4bbafdf746a7",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/320dd703535bcbd08ffe2406878f4bbafdf746a7"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuMg=="
+  },
+  {
+    "name": "mybatis-3.2.1",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.1",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.1",
+    "commit": {
+      "sha": "5d749ed437700d91cb269d080e045116c465d68a",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/5d749ed437700d91cb269d080e045116c465d68a"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuMQ=="
+  },
+  {
+    "name": "mybatis-3.2.0",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.2.0",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.2.0",
+    "commit": {
+      "sha": "d83e3f0f8f923a6e0d9c381ae7205cf57c34c895",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/d83e3f0f8f923a6e0d9c381ae7205cf57c34c895"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjIuMA=="
+  },
+  {
+    "name": "mybatis-3.1.1",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.1.1",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.1.1",
+    "commit": {
+      "sha": "b944aaf3321b881bc782a125c961af686e2df4a1",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/b944aaf3321b881bc782a125c961af686e2df4a1"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjEuMQ=="
+  },
+  {
+    "name": "mybatis-3.1.0",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.1.0",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.1.0",
+    "commit": {
+      "sha": "5552b19e1b34cf7d127518ad4f4570765a3b923e",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/5552b19e1b34cf7d127518ad4f4570765a3b923e"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjEuMA=="
+  },
+  {
+    "name": "mybatis-3.0.6",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.0.6",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.0.6",
+    "commit": {
+      "sha": "407de89952b15c43c95c6175b8cd5fe2d2d28d11",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/407de89952b15c43c95c6175b8cd5fe2d2d28d11"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjAuNg=="
+  },
+  {
+    "name": "mybatis-3.0.5",
+    "zipball_url": "https://api.github.com/repos/mybatis/mybatis-3/zipball/refs/tags/mybatis-3.0.5",
+    "tarball_url": "https://api.github.com/repos/mybatis/mybatis-3/tarball/refs/tags/mybatis-3.0.5",
+    "commit": {
+      "sha": "33fe3141c15e26ac3fb5d364ab4c3869cd5f1337",
+      "url": "https://api.github.com/repos/mybatis/mybatis-3/commits/33fe3141c15e26ac3fb5d364ab4c3869cd5f1337"
+    },
+    "node_id": "MDM6UmVmODIwNTYwMjpyZWZzL3RhZ3MvbXliYXRpcy0zLjAuNQ=="
+  }
+]

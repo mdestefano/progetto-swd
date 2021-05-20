@@ -1,0 +1,302 @@
+[
+  {
+    "name": "v2.14.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/v2.14.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/v2.14.0",
+    "commit": {
+      "sha": "9c2fa2697cdbbd6a3eeb9f87ae6a6ccba2f3c881",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/9c2fa2697cdbbd6a3eeb9f87ae6a6ccba2f3c881"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvdjIuMTQuMA=="
+  },
+  {
+    "name": "v2.13.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/v2.13.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/v2.13.0",
+    "commit": {
+      "sha": "7c08091d3f8b0428d1d78839d3bef0f6887746f2",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7c08091d3f8b0428d1d78839d3bef0f6887746f2"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvdjIuMTMuMA=="
+  },
+  {
+    "name": "2.23.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.23.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.23.2",
+    "commit": {
+      "sha": "7bf3aab83c45479ec783fb54aa973fa12f0d71f9",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7bf3aab83c45479ec783fb54aa973fa12f0d71f9"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMy4y"
+  },
+  {
+    "name": "2.23.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.23.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.23.1",
+    "commit": {
+      "sha": "39ba63fad6571014188974767dafb016354ed4cb",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/39ba63fad6571014188974767dafb016354ed4cb"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMy4x"
+  },
+  {
+    "name": "2.23.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.23.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.23.0",
+    "commit": {
+      "sha": "71d7dd6318f305050bedba456de84043aa004780",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/71d7dd6318f305050bedba456de84043aa004780"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMy4w"
+  },
+  {
+    "name": "2.22.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.22.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.22.2",
+    "commit": {
+      "sha": "eaffb50541868488f8ceb23badf45838a2c67cfc",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/eaffb50541868488f8ceb23badf45838a2c67cfc"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMi4y"
+  },
+  {
+    "name": "2.22.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.22.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.22.1",
+    "commit": {
+      "sha": "c7269421dce2f04c1627f1da6e6f8e0d3cc8969e",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/c7269421dce2f04c1627f1da6e6f8e0d3cc8969e"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMi4x"
+  },
+  {
+    "name": "2.22.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.22.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.22.0",
+    "commit": {
+      "sha": "d1d52242ca81be1b426cb579ede42f341a2d0f68",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/d1d52242ca81be1b426cb579ede42f341a2d0f68"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMi4w"
+  },
+  {
+    "name": "2.21.7",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.7",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.7",
+    "commit": {
+      "sha": "7c8e569e78f9dbd38ce05ea4074c5e1db00605e2",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7c8e569e78f9dbd38ce05ea4074c5e1db00605e2"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS43"
+  },
+  {
+    "name": "2.21.6",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.6",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.6",
+    "commit": {
+      "sha": "263c266b3053a93344ef94a99e334ced4df981ce",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/263c266b3053a93344ef94a99e334ced4df981ce"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS42"
+  },
+  {
+    "name": "2.21.5",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.5",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.5",
+    "commit": {
+      "sha": "7f4f274be7421a021434133994c7c65fced6ef75",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7f4f274be7421a021434133994c7c65fced6ef75"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS41"
+  },
+  {
+    "name": "2.21.4",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.4",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.4",
+    "commit": {
+      "sha": "0863da0080f9a1113e064a6daeba216d3356d3d9",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/0863da0080f9a1113e064a6daeba216d3356d3d9"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS40"
+  },
+  {
+    "name": "2.21.3",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.3",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.3",
+    "commit": {
+      "sha": "205dad36ac6176b86437bbc89f3d47624c8961f8",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/205dad36ac6176b86437bbc89f3d47624c8961f8"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS4z"
+  },
+  {
+    "name": "2.21.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.2",
+    "commit": {
+      "sha": "7eec9c18e3073f340814c8844d2593922add731f",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7eec9c18e3073f340814c8844d2593922add731f"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS4y"
+  },
+  {
+    "name": "2.21.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.1",
+    "commit": {
+      "sha": "c30ffc5f531537542a3182d61e8d6211becbc15e",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/c30ffc5f531537542a3182d61e8d6211becbc15e"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS4x"
+  },
+  {
+    "name": "2.21.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.21.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.21.0",
+    "commit": {
+      "sha": "36b7d32778e90aa73066ee1f9994d752b7ca0797",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/36b7d32778e90aa73066ee1f9994d752b7ca0797"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMS4w"
+  },
+  {
+    "name": "2.20.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.20.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.20.2",
+    "commit": {
+      "sha": "c4d420b812bff0fb5364171e066365d04a19db53",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/c4d420b812bff0fb5364171e066365d04a19db53"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMC4y"
+  },
+  {
+    "name": "2.20.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.20.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.20.1",
+    "commit": {
+      "sha": "7cbe4d055b387c60b744dd46297b68683aeda64b",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/7cbe4d055b387c60b744dd46297b68683aeda64b"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMC4x"
+  },
+  {
+    "name": "2.20.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.20.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.20.0",
+    "commit": {
+      "sha": "700907fe4c3035bc384ce2b56e65866bd0ab704d",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/700907fe4c3035bc384ce2b56e65866bd0ab704d"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4yMC4w"
+  },
+  {
+    "name": "2.19.3",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.19.3",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.19.3",
+    "commit": {
+      "sha": "2f38553778ff72e1afa7870f4fd83f344c55493f",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/2f38553778ff72e1afa7870f4fd83f344c55493f"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOS4z"
+  },
+  {
+    "name": "2.19.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.19.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.19.2",
+    "commit": {
+      "sha": "56d907b5b0575631eca6063fb006b6fe4203549f",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/56d907b5b0575631eca6063fb006b6fe4203549f"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOS4y"
+  },
+  {
+    "name": "2.19.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.19.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.19.1",
+    "commit": {
+      "sha": "1f15b351b3f453e21cd5547c3f43521b370b5ae8",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/1f15b351b3f453e21cd5547c3f43521b370b5ae8"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOS4x"
+  },
+  {
+    "name": "2.19.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.19.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.19.0",
+    "commit": {
+      "sha": "728e32edddca52249db7b5902c527a81f1af0152",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/728e32edddca52249db7b5902c527a81f1af0152"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOS4w"
+  },
+  {
+    "name": "2.18.3",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.18.3",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.18.3",
+    "commit": {
+      "sha": "8a61357f5dd706dfa72661109ca025e383629e6a",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/8a61357f5dd706dfa72661109ca025e383629e6a"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOC4z"
+  },
+  {
+    "name": "2.18.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.18.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.18.2",
+    "commit": {
+      "sha": "9f6ad5836aa044450fbeb1ccc7df1c5b5dc99d7e",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/9f6ad5836aa044450fbeb1ccc7df1c5b5dc99d7e"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOC4y"
+  },
+  {
+    "name": "2.18.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.18.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.18.1",
+    "commit": {
+      "sha": "bb6d5eca1991126cfd3ec346f20fc4253751a876",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/bb6d5eca1991126cfd3ec346f20fc4253751a876"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOC4x"
+  },
+  {
+    "name": "2.18.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.18.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.18.0",
+    "commit": {
+      "sha": "5e96c092e17385785282415ae8ef7baf085dee3a",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/5e96c092e17385785282415ae8ef7baf085dee3a"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xOC4w"
+  },
+  {
+    "name": "2.17.2",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.17.2",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.17.2",
+    "commit": {
+      "sha": "a96e4392c6c30168a957847acd5f70100f8e93d7",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/a96e4392c6c30168a957847acd5f70100f8e93d7"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xNy4y"
+  },
+  {
+    "name": "2.17.1",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.17.1",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.17.1",
+    "commit": {
+      "sha": "1492dbbac39dbd0c7b3d2914d4cd8f93d2554605",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/1492dbbac39dbd0c7b3d2914d4cd8f93d2554605"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xNy4x"
+  },
+  {
+    "name": "2.17.0",
+    "zipball_url": "https://api.github.com/repos/openzipkin/zipkin/zipball/refs/tags/2.17.0",
+    "tarball_url": "https://api.github.com/repos/openzipkin/zipkin/tarball/refs/tags/2.17.0",
+    "commit": {
+      "sha": "87a443c27ca33a7bd60135a00fc7f9bc3f4afc6b",
+      "url": "https://api.github.com/repos/openzipkin/zipkin/commits/87a443c27ca33a7bd60135a00fc7f9bc3f4afc6b"
+    },
+    "node_id": "MDM6UmVmNDU3NjMwNTpyZWZzL3RhZ3MvMi4xNy4w"
+  }
+]

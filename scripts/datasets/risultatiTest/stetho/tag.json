@@ -1,0 +1,132 @@
+[
+  {
+    "name": "v1.6.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.6.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.6.0",
+    "commit": {
+      "sha": "12e0df007981a92e8aa2683fd2077e23f9e2617b",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/12e0df007981a92e8aa2683fd2077e23f9e2617b"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjYuMA=="
+  },
+  {
+    "name": "v1.5.1",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.5.1",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.5.1",
+    "commit": {
+      "sha": "8d17427c6a16247f2ea27403acfd236da2e020a8",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/8d17427c6a16247f2ea27403acfd236da2e020a8"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjUuMQ=="
+  },
+  {
+    "name": "v1.5.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.5.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.5.0",
+    "commit": {
+      "sha": "c15b5521f2793a32c9a03349e0680c0e37f73b7f",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/c15b5521f2793a32c9a03349e0680c0e37f73b7f"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjUuMA=="
+  },
+  {
+    "name": "v1.4.2",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.4.2",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.4.2",
+    "commit": {
+      "sha": "406e2657acefa1b3766900c6e6b0dfde60261978",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/406e2657acefa1b3766900c6e6b0dfde60261978"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjQuMg=="
+  },
+  {
+    "name": "v1.4.1",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.4.1",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.4.1",
+    "commit": {
+      "sha": "05118d7bec2fd05816c2d1c52079a7675b44de23",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/05118d7bec2fd05816c2d1c52079a7675b44de23"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjQuMQ=="
+  },
+  {
+    "name": "v1.4.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.4.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.4.0",
+    "commit": {
+      "sha": "5dc3da126f9a20fcbbc5255f0266d1c03e5ad74a",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/5dc3da126f9a20fcbbc5255f0266d1c03e5ad74a"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjQuMA=="
+  },
+  {
+    "name": "v1.3.1",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.3.1",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.3.1",
+    "commit": {
+      "sha": "f80fea5ae1386b907b0f20023a74431d033de2d1",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/f80fea5ae1386b907b0f20023a74431d033de2d1"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjMuMQ=="
+  },
+  {
+    "name": "v1.3.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.3.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.3.0",
+    "commit": {
+      "sha": "fe9caee8753cb6a5dba9f52b458ad3488523f8a9",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/fe9caee8753cb6a5dba9f52b458ad3488523f8a9"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjMuMA=="
+  },
+  {
+    "name": "v1.2.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.2.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.2.0",
+    "commit": {
+      "sha": "f3e1c88be7df56b21f552b6d717079580215e045",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/f3e1c88be7df56b21f552b6d717079580215e045"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjIuMA=="
+  },
+  {
+    "name": "v1.1.1",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.1.1",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.1.1",
+    "commit": {
+      "sha": "54299fc2771eaafa640aaea587f64e1f3d51353b",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/54299fc2771eaafa640aaea587f64e1f3d51353b"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjEuMQ=="
+  },
+  {
+    "name": "v1.1.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.1.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.1.0",
+    "commit": {
+      "sha": "94866292acd4d0f7189ff1213c6d38927afc3494",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/94866292acd4d0f7189ff1213c6d38927afc3494"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjEuMA=="
+  },
+  {
+    "name": "v1.0.1",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.0.1",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.0.1",
+    "commit": {
+      "sha": "4350886acfa11bb44ec79ea7b32bc30a4396473f",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/4350886acfa11bb44ec79ea7b32bc30a4396473f"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjAuMQ=="
+  },
+  {
+    "name": "v1.0.0",
+    "zipball_url": "https://api.github.com/repos/facebook/stetho/zipball/refs/tags/v1.0.0",
+    "tarball_url": "https://api.github.com/repos/facebook/stetho/tarball/refs/tags/v1.0.0",
+    "commit": {
+      "sha": "37861000feace291559d0465b2a20707b5ce92cd",
+      "url": "https://api.github.com/repos/facebook/stetho/commits/37861000feace291559d0465b2a20707b5ce92cd"
+    },
+    "node_id": "MDM6UmVmMjk3MDM4NzE6cmVmcy90YWdzL3YxLjAuMA=="
+  }
+]
