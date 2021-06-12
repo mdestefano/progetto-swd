@@ -10,7 +10,7 @@ import seaborn as sns
 
 path = "C:\\Users\\Armando\\swdProjects\\progetto-swd\\scripts\\datasets\\risultatiTest\\androidannotations\\resultTest.csv"
 test_smells_df = pd.read_csv(path, sep=";")
-test_suite = pd.unique(test_smells_df['testsuite'])
+test_suite = pd.unique(test_smells_df['production'])
 smellTest = ["ar1", "et1", "it1", "gf1", "se1", "mg1", "ro1"]
 
 fNew = open('newSmell_file', 'w', newline='')
@@ -22,27 +22,27 @@ with open(path, 'r') as read_obj:
     csv_reader = reader(read_obj, delimiter=';')
     next(csv_reader, None)
     for row in csv_reader:
-        numIndex = row[3].rfind('.')
+        numIndex = row[4].rfind('.')
         if float(row[9]) > 0:
-            newRow = [row[3][0: numIndex], 'ar1']
+            newRow = [row[4][0: numIndex], 'ar1']
             data.append(newRow)
         if float(row[10]) > 0:
-            newRow = [row[3][0: numIndex], 'et1']
+            newRow = [row[4][0: numIndex], 'et1']
             data.append(newRow)
         if float(row[11]) > 0:
-            newRow = [row[3][0: numIndex], 'it1']
+            newRow = [row[4][0: numIndex], 'it1']
             data.append(newRow)
         if float(row[12]) > 0:
-            newRow = [row[3][0: numIndex], 'gf1']
+            newRow = [row[4][0: numIndex], 'gf1']
             data.append(newRow)
         if float(row[13]) > 0:
-            newRow = [row[3][0: numIndex], 'se1']
+            newRow = [row[4][0: numIndex], 'se1']
             data.append(newRow)
         if float(row[14]) > 0:
-            newRow = [row[3][0: numIndex], 'mg1']
+            newRow = [row[4][0: numIndex], 'mg1']
             data.append(newRow)
         if float(row[15]) > 0:
-            newRow = [row[3][0: numIndex], 'ro1']
+            newRow = [row[4][0: numIndex], 'ro1']
             data.append(newRow)
 
 
