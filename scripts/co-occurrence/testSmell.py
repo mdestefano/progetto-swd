@@ -1,132 +1,117 @@
+import os
 import csv
 from _csv import reader
-import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd
 
-path = "C:\\Users\\Armando\\swdProjects\\progetto-swd\\scripts\\datasets\\risultatiTest\\androidannotations\\resultTest.csv"
-test_smells_df = pd.read_csv(path, sep=";")
-test_suite = pd.unique(test_smells_df['testsuite'])
-smells = ["ar1", "et1", "it1", "gf1", "se1", "mg1", "ro1"]
-new_df = pd.DataFrame({'Test-suite': test_suite}).set_index('Test-suite')
-print(new_df)
+list_dir_test = os.listdir("..\\datasets\\risultatiTest\\")
 
-fNew = open('newTestSmell_file', 'w', newline='')
-writer = csv.writer(fNew)
-data = [['testsuite', 'testsmell']]
+for dir in list_dir_test:
+    with open("..\\datasets\\risultatiTest\\" + dir + "\\resultTest.csv") as path:
+        test_smells_df = pd.read_csv(path, sep=";")
 
+        if test_smells_df.shape[0] > 0:
+            test_suite = pd.unique(test_smells_df['testsuite'])
+            smells = ["ar1", "et1", "it1", "gf1", "se1", "mg1", "ro1"]
+            new_df = pd.DataFrame({'Test-suite': test_suite}).set_index('Test-suite')
 
-with open(path, 'r') as read_obj:
-    csv_reader = reader(read_obj, delimiter=';')
-    next(csv_reader, None)
-    for row in csv_reader:
-        if float(row[9]) > 0:
-            newRow = [row[3], 'ar1']
-            data.append(newRow)
-        if float(row[10]) > 0:
-            newRow = [row[3], 'et1']
-            data.append(newRow)
-        if float(row[11]) > 0:
-            newRow = [row[3], 'it1']
-            data.append(newRow)
-        if float(row[12]) > 0:
-            newRow = [row[3], 'gf1']
-            data.append(newRow)
-        if float(row[13]) > 0:
-            newRow = [row[3], 'se1']
-            data.append(newRow)
-        if float(row[14]) > 0:
-            newRow = [row[3], 'mg1']
-            data.append(newRow)
-        if float(row[15]) > 0:
-            newRow = [row[3], 'ro1']
-            data.append(newRow)
+            fNew = open('newTestSmell_file', 'w', newline='')
+            writer = csv.writer(fNew)
+            data = [['testsuite', 'testsmell']]
 
-writer.writerows(data)
-fNew.close()
+            with open("..\\datasets\\risultatiTest\\" + dir + "\\resultTest.csv", 'r') as read_obj:
+                csv_reader = reader(read_obj, delimiter=';')
+                next(csv_reader, None)
+                for row in csv_reader:
+                    if float(row[9]) > 0:
+                        newRow = [row[3], "ar1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "ar1"]
 
+                    if float(row[10]) > 0:
+                        newRow = [row[3], "et1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "et1"]
 
-#da qui calcolo le coppie di co-occorrenze
+                    if float(row[11]) > 0:
+                        newRow = [row[3], "it1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "it1"]
 
-path = "newTestSmell_file"
-test_smells_df = pd.read_csv(path)
-packages = pd.unique(test_smells_df['testsuite'])
-smells = pd.unique(test_smells_df['testsmell'])
-new_df = pd.DataFrame({'Smells': smells},
-                      ).set_index('Smells')
-vectors_all = []
+                    if float(row[12]) > 0:
+                        newRow = [row[3], "gf1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "gf1"]
 
-for package in packages:
-    vector = [[0 for x in range(7)] for y in range(7)]
-    i = 0
-    for smell1 in smells:
-        j = 0
-        riga1 = test_smells_df.loc[
-            (test_smells_df["testsmell"] == smell1) & (
-                    test_smells_df["testsuite"] == package)]
-        if len(riga1) > 0:
-            for smell2 in smells:
-                riga2 = test_smells_df.loc[
-                    (test_smells_df["testsmell"] == smell2) & (
-                            test_smells_df["testsuite"] == package)]
-                prova = [len(riga1),len(riga2)]
-                vector[i][j] = np.min(np.array(prova))
-                j = j + 1
-        else:
-            for smell2 in smells:
-                vector[i][j] = 0
-                j = j + 1
-        i = i + 1
-    vectors_all.append(vector)
-print(vectors_all)
-vector = []
-for smell in smells:
-    riga = test_smells_df.loc[
-        (test_smells_df["testsmell"] == smell)]
-    vector.append(len(riga))
-print(vector)
-matrix_coocc = np.array(vectors_all)
-sum_smell = matrix_coocc.sum(axis=0)
-# sum_smell = pd.DataFrame(sum_smell, columns=smells).set_index(smells)
-print(pd.DataFrame(sum_smell, columns=smells).set_index(smells))
-pd.DataFrame(sum_smell, columns=smells).set_index(smells).to_csv("coocc.csv")
-index_rows = range(5)
-index_columns = range(5)
-cooccurrence_matrix_diagonal = np.diagonal(sum_smell)
-print(cooccurrence_matrix_diagonal)
-for row in index_rows:
-    for column in index_columns:
-        if sum_smell[row][column] > vector[row]:
-            print("Devo dividere " + str(sum_smell[row][column]) + " per " + str(vector[row]))
-cooccurrence_matrix_diagonal = np.diagonal(sum_smell)
-print(cooccurrence_matrix_diagonal)
-with np.errstate(divide='ignore', invalid='ignore'):
-    cooccurrence_matrix_percentage = np.nan_to_num(np.true_divide(sum_smell, cooccurrence_matrix_diagonal[:, None])).round(
-        2)
-print('\ncooccurrence_matrix_percentage:\n{0}'.format(cooccurrence_matrix_percentage))
-# creating random data
-data = np.array(sum_smell)
-# creating array of text
-text = np.array(cooccurrence_matrix_percentage)
-# creating subplot
-fig, ax = plt.subplots()
-# drawing heatmap on current axes
-ax = sns.heatmap(data, annot=text, fmt="")
+                    if float(row[13]) > 0:
+                        newRow = [row[3], "se1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "se1"]
 
+                    if float(row[14]) > 0:
+                        newRow = [row[3], "mg1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "mg1"]
 
-bar = ax.collections[0].colorbar
-r = bar.vmax - bar.vmin
-bar.set_ticks([bar.vmin + 0.5 * r / (7) + r * i / (7) for i in range(7)])
+                    if float(row[15]) > 0:
+                        newRow = [row[3], "ro1"]
+                        data.append(newRow)
+                    # else:
+                    #     smells = [item for item in smells if item != "ro1"]
 
-i = 0
-arraySmellName = []
-for smell in smells:
-    arraySmellName.append(str(i) + ") " + smell)
-    i = i + 1
-bar.set_ticklabels(list(reversed(arraySmellName)))
+            writer.writerows(data)
+            fNew.close()
 
-ax.set_ylabel('TEST SMELL')
-ax.set_xlabel('TEST SMELL')
+            path = "newTestSmell_file"
+            test_smells_df = pd.read_csv(path)
+            packages = pd.unique(test_smells_df['testsuite'])
+            smells = pd.unique(test_smells_df['testsmell'])
+            new_df = pd.DataFrame({'Smells': smells},
+                                  ).set_index('Smells')
+            vectors_all = []
 
-plt.show()
+            if len(smells) > 0:
+                for package in packages:
+                    vector = [[0 for x in range(len(smells))] for y in range(len(smells))]
+                    i = 0
+                    for smell1 in smells:
+                        j = 0
+                        riga1 = test_smells_df.loc[
+                            (test_smells_df["testsmell"] == smell1) & (
+                                    test_smells_df["testsuite"] == package)]
+                        if len(riga1) > 0:
+                            for smell2 in smells:
+                                riga2 = test_smells_df.loc[
+                                    (test_smells_df["testsmell"] == smell2) & (
+                                            test_smells_df["testsuite"] == package)]
+                                prova = [len(riga1), len(riga2)]
+                                vector[i][j] = np.min(np.array(prova))
+                                j = j + 1
+                        else:
+                            for smell2 in smells:
+                                vector[i][j] = 0
+                                j = j + 1
+                        i = i + 1
+                    vectors_all.append(vector)
+
+                print("Finito con " + dir)
+
+                matrix_coocc = np.array(vectors_all)
+                sum_smell = matrix_coocc.sum(axis=0)
+
+                cooccurrence_matrix_diagonal = np.diagonal(sum_smell)
+                print(cooccurrence_matrix_diagonal.shape)
+                with np.errstate(divide='ignore', invalid='ignore'):
+                    cooccurrence_matrix_percentage = np.nan_to_num(
+                        np.true_divide(sum_smell, cooccurrence_matrix_diagonal[:, None])).round(
+                        2)
+
+                cooccurrence_matrix_percentage = pd.DataFrame(data=cooccurrence_matrix_percentage,
+                                                              columns=smells).set_index(smells)
+                cooccurrence_matrix_percentage.to_csv("risultatiTest\\" + dir + ".csv")
