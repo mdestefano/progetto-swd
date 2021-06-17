@@ -1,0 +1,6 @@
+,Dense Structure,Feature Concentration,God Component,Cyclic Dependency,Unstable Dependency
+Dense Structure,1.0,0.0,0.0,0.0,0.0
+Feature Concentration,0.0,1.0,0.01,0.72,0.3
+God Component,0.0,0.01,1.0,1.0,0.81
+Cyclic Dependency,0.0,0.11,0.1,1.0,0.19
+Unstable Dependency,0.0,0.25,0.41,1.0,1.0

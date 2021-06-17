@@ -1,0 +1,6 @@
+,Dense Structure,Feature Concentration,Cyclic Dependency,Unstable Dependency,Ambiguous Interface
+Dense Structure,1.0,0.0,0.0,0.0,0.0
+Feature Concentration,0.0,1.0,0.64,0.45,0.0
+Cyclic Dependency,0.0,0.12,1.0,0.28,0.0
+Unstable Dependency,0.0,0.24,0.76,1.0,0.0
+Ambiguous Interface,0.0,0.0,0.0,0.0,1.0

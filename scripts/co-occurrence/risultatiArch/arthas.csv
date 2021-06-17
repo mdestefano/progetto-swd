@@ -1,0 +1,7 @@
+,Dense Structure,Feature Concentration,Cyclic Dependency,Unstable Dependency,God Component,Ambiguous Interface
+Dense Structure,1.0,0.0,0.0,0.0,0.0,0.0
+Feature Concentration,0.0,1.0,0.63,0.29,0.16,0.04
+Cyclic Dependency,0.0,0.12,1.0,0.24,0.05,0.01
+Unstable Dependency,0.0,0.23,0.99,1.0,0.08,0.0
+God Component,0.0,0.63,1.0,0.37,1.0,0.0
+Ambiguous Interface,0.0,1.0,0.81,0.0,0.0,1.0

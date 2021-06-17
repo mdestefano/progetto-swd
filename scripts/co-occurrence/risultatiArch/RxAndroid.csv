@@ -1,0 +1,4 @@
+,Cyclic Dependency,Unstable Dependency,Feature Concentration
+Cyclic Dependency,1.0,0.5,0.5
+Unstable Dependency,0.5,1.0,0.0
+Feature Concentration,0.07,0.0,1.0

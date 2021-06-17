@@ -1,0 +1,6 @@
+,Ambiguous Interface,Feature Concentration,God Component,Cyclic Dependency,Unstable Dependency
+Ambiguous Interface,1.0,1.0,0.17,0.17,0.17
+Feature Concentration,0.04,1.0,0.23,0.22,0.15
+God Component,0.03,1.0,1.0,0.69,0.38
+Cyclic Dependency,0.01,0.33,0.25,1.0,0.34
+Unstable Dependency,0.02,0.44,0.27,0.69,1.0

@@ -1,0 +1,9 @@
+,Unnecessary Abstraction,Unutilized Abstraction,Deficient Encapsulation,Multifaceted Abstraction,Insufficient Modularization,Cyclically-dependent Modularization,Broken Modularization,Broken Hierarchy
+Unnecessary Abstraction,1.0,0.93,0.31,0.01,0.06,0.0,0.01,0.01
+Unutilized Abstraction,0.56,1.0,0.24,0.01,0.06,0.01,0.01,0.08
+Deficient Encapsulation,0.76,0.97,1.0,0.06,0.14,0.0,0.03,0.0
+Multifaceted Abstraction,0.22,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+Insufficient Modularization,0.53,0.89,0.49,0.2,1.0,0.11,0.0,0.07
+Cyclically-dependent Modularization,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Broken Modularization,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+Broken Hierarchy,0.04,0.66,0.0,0.0,0.04,0.0,0.0,1.0

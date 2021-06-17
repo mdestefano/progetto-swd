@@ -1,0 +1,10 @@
+,Broken Modularization,Unutilized Abstraction,Unnecessary Abstraction,Broken Hierarchy,Wide Hierarchy,Rebellious Hierarchy,Multifaceted Abstraction,Insufficient Modularization,Deficient Encapsulation
+Broken Modularization,1.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0
+Unutilized Abstraction,0.0,1.0,0.02,0.34,0.04,0.01,0.01,0.01,0.04
+Unnecessary Abstraction,0.4,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.3
+Broken Hierarchy,0.0,1.0,0.0,1.0,0.11,0.02,0.0,0.0,0.0
+Wide Hierarchy,0.0,0.85,0.0,0.85,1.0,0.12,0.0,0.03,0.0
+Rebellious Hierarchy,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.25,0.0
+Multifaceted Abstraction,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+Insufficient Modularization,0.0,0.77,0.0,0.08,0.08,0.08,0.54,1.0,0.69
+Deficient Encapsulation,0.0,1.0,0.5,0.0,0.0,0.0,0.25,0.32,1.0

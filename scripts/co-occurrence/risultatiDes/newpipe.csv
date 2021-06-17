@@ -1,0 +1,13 @@
+,Unutilized Abstraction,Deficient Encapsulation,Insufficient Modularization,Cyclically-dependent Modularization,Rebellious Hierarchy,Broken Hierarchy,Feature Envy,Missing Hierarchy,Cyclic Hierarchy,Unnecessary Abstraction,Broken Modularization,Hub-like Modularization
+Unutilized Abstraction,1.0,0.65,0.23,0.24,0.0,0.18,0.11,0.02,0.01,0.01,0.0,0.01
+Deficient Encapsulation,0.49,1.0,0.24,0.17,0.0,0.11,0.13,0.01,0.02,0.17,0.06,0.0
+Insufficient Modularization,0.56,0.78,1.0,0.54,0.0,0.09,0.37,0.04,0.03,0.12,0.1,0.02
+Cyclically-dependent Modularization,0.6,0.56,0.55,1.0,0.0,0.2,0.29,0.04,0.06,0.06,0.04,0.02
+Rebellious Hierarchy,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Broken Hierarchy,0.84,0.68,0.16,0.38,0.0,1.0,0.05,0.05,0.0,0.05,0.0,0.0
+Feature Envy,0.57,0.86,0.76,0.59,0.0,0.06,1.0,0.03,0.06,0.33,0.25,0.03
+Missing Hierarchy,1.0,1.0,1.0,1.0,0.0,0.65,0.35,1.0,0.0,0.0,0.0,0.0
+Cyclic Hierarchy,0.5,1.0,0.5,1.0,0.0,0.0,0.5,0.0,1.0,0.0,0.0,0.0
+Unnecessary Abstraction,0.06,1.0,0.22,0.11,0.0,0.05,0.29,0.0,0.0,1.0,0.32,0.0
+Broken Modularization,0.06,1.0,0.53,0.21,0.0,0.0,0.67,0.0,0.0,0.96,1.0,0.04
+Hub-like Modularization,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.44,1.0

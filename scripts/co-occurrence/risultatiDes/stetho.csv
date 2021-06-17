@@ -1,0 +1,11 @@
+,Deficient Encapsulation,Insufficient Modularization,Unutilized Abstraction,Cyclically-dependent Modularization,Unnecessary Abstraction,Broken Modularization,Broken Hierarchy,Cyclic Hierarchy,Feature Envy,Multifaceted Abstraction
+Deficient Encapsulation,1.0,0.05,0.34,0.07,0.57,0.1,0.06,0.0,0.0,0.0
+Insufficient Modularization,0.56,1.0,0.62,0.38,0.2,0.13,0.7,0.26,0.0,0.02
+Unutilized Abstraction,0.69,0.12,1.0,0.12,0.55,0.2,0.17,0.06,0.01,0.0
+Cyclically-dependent Modularization,0.74,0.36,0.61,1.0,0.45,0.36,0.21,0.06,0.0,0.02
+Unnecessary Abstraction,1.0,0.03,0.47,0.08,1.0,0.16,0.01,0.0,0.0,0.0
+Broken Modularization,1.0,0.12,1.0,0.36,0.95,1.0,0.04,0.0,0.05,0.0
+Broken Hierarchy,0.37,0.43,0.55,0.14,0.06,0.02,1.0,0.16,0.0,0.01
+Cyclic Hierarchy,0.08,0.76,0.96,0.2,0.0,0.0,0.76,1.0,0.0,0.06
+Feature Envy,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+Multifaceted Abstraction,0.67,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0

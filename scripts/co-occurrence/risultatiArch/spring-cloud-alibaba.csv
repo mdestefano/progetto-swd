@@ -1,0 +1,5 @@
+,Feature Concentration,Unstable Dependency,God Component,Cyclic Dependency
+Feature Concentration,1.0,0.19,0.13,0.35
+Unstable Dependency,0.38,1.0,0.15,0.9
+God Component,1.0,0.56,1.0,0.56
+Cyclic Dependency,0.24,0.3,0.05,1.0

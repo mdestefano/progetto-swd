@@ -1,0 +1,7 @@
+,Unutilized Abstraction,Unnecessary Abstraction,Cyclically-dependent Modularization,Insufficient Modularization,Feature Envy,Deficient Encapsulation
+Unutilized Abstraction,1.0,0.29,0.26,0.26,0.32,0.16
+Unnecessary Abstraction,1.0,1.0,0.0,0.0,0.0,0.0
+Cyclically-dependent Modularization,1.0,0.0,1.0,1.0,1.0,0.6
+Insufficient Modularization,1.0,0.0,1.0,1.0,1.0,0.6
+Feature Envy,0.44,0.0,0.37,0.37,1.0,0.22
+Deficient Encapsulation,1.0,0.0,1.0,1.0,1.0,1.0
