@@ -1,0 +1,26 @@
+"arch","test","p_value"
+"God Component","et1",0.776461854420068
+"God Component","ar1",0.768468850168549
+"God Component","it1",0.82729854869551
+"God Component","gf1",0.7854741368257
+"God Component","se1",0.768468850168549
+"Cyclic Dependency","et1",0.796911029637278
+"Cyclic Dependency","ar1",0.793348156929811
+"Cyclic Dependency","it1",0.819629516685259
+"Cyclic Dependency","gf1",0.800924901907279
+"Cyclic Dependency","se1",0.793348156929811
+"Unstable Dependency","et1",0.778166391159606
+"Unstable Dependency","ar1",0.769960829823148
+"Unstable Dependency","it1",0.830335107371503
+"Unstable Dependency","gf1",0.787418260744841
+"Unstable Dependency","se1",0.769960829823163
+"Dense Structure","et1",0.734540249268216
+"Dense Structure","ar1",0.731106532919483
+"Dense Structure","it1",0.756506545902518
+"Dense Structure","gf1",0.738410893903249
+"Dense Structure","se1",0.731106532919491
+"Feature Concentration","et1",0.770554666519279
+"Feature Concentration","ar1",0.763441129483189
+"Feature Concentration","it1",0.815858515342915
+"Feature Concentration","gf1",0.778575250673711
+"Feature Concentration","se1",0.763441129483195

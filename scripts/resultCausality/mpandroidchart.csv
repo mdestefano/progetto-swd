@@ -1,0 +1,13 @@
+"arch","test","p_value"
+"Feature Concentration","ar1",0.765803260774492
+"Feature Concentration","et1",0.762672008803855
+"Cyclic Dependency","ar1",0.0258166733231155
+"Cyclic Dependency","et1",0.0254659769849344
+"Unstable Dependency","ar1",0.230128627528685
+"Unstable Dependency","et1",0.229646047129046
+"Dense Structure","ar1",0.283391827855175
+"Dense Structure","et1",0.283044830475282
+"Ambiguous Interface","ar1",0.634573364292306
+"Ambiguous Interface","et1",0.634352573620829
+"God Component","ar1",1
+"God Component","et1",1
