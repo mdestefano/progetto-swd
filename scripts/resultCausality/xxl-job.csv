@@ -1,0 +1,10 @@
+"arch","test","p_value"
+"Unstable Dependency","et1",0.382660327268507
+"Unstable Dependency","ar1",0.465698764001341
+"Unstable Dependency","it1",0.465698764001341
+"Cyclic Dependency","et1",0.689073303456689
+"Cyclic Dependency","ar1",0.68391163010391
+"Cyclic Dependency","it1",0.68391163010391
+"Feature Concentration","et1",0.0866759741801891
+"Feature Concentration","ar1",0.32416078548273
+"Feature Concentration","it1",0.32416078548273

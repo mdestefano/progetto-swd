@@ -1,0 +1,10 @@
+"arch","test","p_value"
+"Cyclic Dependency","ar1",0.50439107548588
+"Cyclic Dependency","et1",0.307913068950025
+"Unstable Dependency","ar1",0.0605311266110413
+"Unstable Dependency","et1",0.30947608489212
+"Feature Concentration","et1",0.187071870714314
+"Dense Structure","ar1",0.289662206141913
+"Dense Structure","et1",0.0917620210317048
+"God Component","ar1",0.491750300169657
+"God Component","et1",0.286804919842906
