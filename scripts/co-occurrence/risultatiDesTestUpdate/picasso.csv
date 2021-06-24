@@ -1,0 +1,12 @@
+,ar1,et1,it1,gf1,se1,mg1,ro1
+Deficient Encapsulation,0.12,0.12,0.12,0.0,0.0,0.0,0.0
+Unutilized Abstraction,0.17,0.35,0.0,0.17,0.0,0.0,0.0
+Feature Envy,1.0,1.0,0.0,0.09,1.0,0.0,0.0
+Broken Hierarchy,0.08,0.08,0.0,0.0,0.0,0.0,0.08
+Broken Modularization,0.39,0.39,0.24,0.21,0.13,0.09,0.0
+Insufficient Modularization,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wide Hierarchy,0.24,0.24,0.0,0.0,0.0,0.71,0.0
+Unnecessary Abstraction,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Multifaceted Abstraction,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyclically-dependent Modularization,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyclic Hierarchy,1.0,1.0,1.0,1.0,1.0,0.83,0.0
