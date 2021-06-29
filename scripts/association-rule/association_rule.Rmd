@@ -7,10 +7,7 @@ Association Rule Mining is used when you want to find an association between dif
 
 Consider the following example:
 
-![](images/example_transaction.png){width="900"}
-We have a set of transaction data, numbered 1 to 5. Each transaction shows items bought in that transaction. You can see that *Diaper is bought with Beer* in three transactions. Similarly, *Bread is bought with milk* in three transactions making them both frequent item sets. Association rules are given in the form as below:
-![](images/formula.png)
-The part before => is referred to as *if (Antecedent)* and the part after => is referred to as *then (Consequent)*.
+![](images/example_transaction.png){width="900"} We have a set of transaction data, numbered 1 to 5. Each transaction shows items bought in that transaction. You can see that *Diaper is bought with Beer* in three transactions. Similarly, *Bread is bought with milk* in three transactions making them both frequent item sets. Association rules are given in the form as below: ![](images/formula.png) The part before =\> is referred to as *if (Antecedent)* and the part after =\> is referred to as *then (Consequent)*.
 
 Where A and B are sets of items in the transaction data. *A and B are disjoint sets*.
 
@@ -32,8 +29,7 @@ Basic concepts of Association Rule Mining:
 
     ![](images/support.png)
 
-4.  **Confidence (c):** For a rule A=\>B Confidence shows the percentage in which B is with A.![](images/confidence.png)
-    The number of transactions with both A and B divided by the total number of transactions having A.
+4.  **Confidence (c):** For a rule A=\>B Confidence shows the percentage in which B is with A.![](images/confidence.png) The number of transactions with both A and B divided by the total number of transactions having A.
 
 5.  **Lift:** Lift gives the correlation between A and B in the rule A=\>B. Correlation shows how one item-set A effects the item-set B.
 
@@ -61,12 +57,9 @@ For this APRIORI Algorithm is used. It states:
 
 The following figure shows how much APRIORI helps to reduce the number of sets to be generated:
 
-![](images/apriori.png)
-If item-set *{a,b}* is infrequent then we do not need to take into account all its super-sets.
+![](images/apriori.png) If item-set *{a,b}* is infrequent then we do not need to take into account all its super-sets.
 
-Let's understand this by an example. In the following example, you will
-see why APRIORI is an effective algorithm and also generate strong
-association rules step by step.
+Let's understand this by an example. In the following example, you will see why APRIORI is an effective algorithm and also generate strong association rules step by step.
 
 ![](images/apriori1.png)
 
@@ -76,7 +69,7 @@ Next step will be to list all frequent itemsets. You will take the last non-empt
 
 ![](images/apriori3.png)
 
-You can see above there are four strong rules. For example, take I2=>I3 having confidence equal to *75%* tells that 75% of people who bought **I2** also bought **I3**.
+You can see above there are four strong rules. For example, take I2=\>I3 having confidence equal to *75%* tells that 75% of people who bought **I2** also bought **I3**.
 
 Let's get on to the code.
 
@@ -186,8 +179,7 @@ The `summary(tr)` is a very useful command that gives us information about our t
 
 -   There are **1269 transactions (rows) and 223 items (columns)**. Note that *223* are the smells involved in the dataset and *1269* transactions are collections of these items.
 
--   **Density** tells the percentage of non-zero cells in a sparse matrix. You can say it as the total number of smells that are detected divided by a possible number of smells in that matrix. You can
-    calculate how many items were purchased by using density: *1269x223x0.006979119=1974.96.*
+-   **Density** tells the percentage of non-zero cells in a sparse matrix. You can say it as the total number of smells that are detected divided by a possible number of smells in that matrix. You can calculate how many items were purchased by using density: *1269x223x0.006979119=1974.96.*
 
 You can generate an `itemFrequencyPlot` to create an item Frequency Bar Plot to view the distribution of items.
 
@@ -202,8 +194,7 @@ library(RColorBrewer)
 itemFrequencyPlot(tr,topN=20,type="absolute",col=brewer.pal(8,'Pastel2'), main="Absolute Item Frequency Plot")
 ```
 
-In `itemFrequencyPlot(tr,topN=20,type="absolute")` first argument is the transaction object to be plotted that is `tr`. `topN` allows you to plot top N highest frequency items. `type` can be `type="absolute"` or `type="relative"`. If absolute it will plot numeric frequencies of each item
-independently. If relative it will plot how many times these items have appeared as compared to others.
+In `itemFrequencyPlot(tr,topN=20,type="absolute")` first argument is the transaction object to be plotted that is `tr`. `topN` allows you to plot top N highest frequency items. `type` can be `type="absolute"` or `type="relative"`. If absolute it will plot numeric frequencies of each item independently. If relative it will plot how many times these items have appeared as compared to others.
 
 ```{r}
 itemFrequencyPlot(tr,topN=20,type="relative",col=brewer.pal(8,'Pastel2'),main="Relative Item Frequency Plot")
@@ -214,8 +205,15 @@ itemFrequencyPlot(tr,topN=20,type="relative",col=brewer.pal(8,'Pastel2'),main="R
 Next step is to mine the rules using the APRIORI algorithm. The function `apriori()` is from package `arules`.
 
 ```{r}
+design_smells = c('Deficient Encapsulation', 'Unutilized Abstraction', 'Feature Envy',  'Broken Hierarchy', 'Broken Modularization', 'Insufficient Modularization', 'Wide Hierarchy', 'Unnecessary Abstraction', 'Multifaceted Abstraction', 'Cyclically-dependent Modularization','Cyclic Hierarchy', 'Rebellious Hierarchy')
+
+test_smells = c("ar1", "et1", "it1",  "gf1", "se1", "mg1", "ro1")
+```
+
+```{r}
 # Min Support as 0.001, confidence as 0.8.
-association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8,maxlen=10))
+association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8, minlen=2, maxlen=2),
+                             appearance = list(lhs=design_smells, rhs=test_smells))
 ```
 
 The `apriori` will take `tr` as the transaction object on which mining is to be applied. `parameter` will allow you to set min_sup and min_confidence. The default values for `parameter` are minimum support of 0.1, the minimum confidence of 0.8, maximum of 10 items (maxlen).
@@ -237,7 +235,8 @@ summary(association.rules)
 Since there are 119 rules, let's print only top 10:
 
 ```{r}
-inspect(association.rules[1:10])
+inspect(association.rules)
+#inspect(association.rules[1:10])
 ```
 
 Using the above output, you can make analysis such as:
@@ -297,8 +296,7 @@ The **two-key plot** uses support and confidence on x and y-axis respectively. I
 
 **Graph-Based Visualizations**
 
-Graph-based techniques visualize association rules using vertices and edges where vertices are labeled with item names, and item sets or rules are represented as a second set of vertices. Items are connected
-with item-sets/rules using directed arrows. Arrows pointing from items to rule vertices indicate LHS items and an arrow from a rule to an item indicates the RHS. The size and color of vertices often represent interest measures.
+Graph-based techniques visualize association rules using vertices and edges where vertices are labeled with item names, and item sets or rules are represented as a second set of vertices. Items are connected with item-sets/rules using directed arrows. Arrows pointing from items to rule vertices indicate LHS items and an arrow from a rule to an item indicates the RHS. The size and color of vertices often represent interest measures.
 
 Graph plots are a great way to visualize rules but tend to become congested as the number of rules increases. So it is better to visualize less number of rules with graph-based visualizations.
 
