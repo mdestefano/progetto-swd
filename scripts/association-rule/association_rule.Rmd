@@ -1,6 +1,8 @@
 ---
 title: "Association Rule Mining"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 Association Rule Mining is used when you want to find an association between different objects in a set, find frequent patterns in any information repository. It generates a set of rules called **Association Rules**. In simple words, it gives you output as rules in form **if this then that**.
@@ -202,6 +204,8 @@ itemFrequencyPlot(tr,topN=20,type="relative",col=brewer.pal(8,'Pastel2'),main="R
 
 #### Generating Rules!
 
+### Design-Test smells
+
 Next step is to mine the rules using the APRIORI algorithm. The function `apriori()` is from package `arules`.
 
 ```{r}
@@ -216,7 +220,7 @@ association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8, minlen=2
                              appearance = list(lhs=design_smells, rhs=test_smells))
 ```
 
-The `apriori` will take `tr` as the transaction object on which mining is to be applied. `parameter` will allow you to set min_sup and min_confidence. The default values for `parameter` are minimum support of 0.1, the minimum confidence of 0.8, maximum of 10 items (maxlen).
+The `apriori` will take `tr` as the transaction object on which mining is to be applied. `parameter` will allow you to set min_sup and min_confidence. The default values for `parameter` are minimum support of 0.1, the minimum confidence of 0.8, maximum of 2 items (maxlen), minimum of 2 items (minlen). With `appearance` we specified the **LHS (IF part)** with the array of design_smell and **RHS (THEN part)** with the test_smell.
 
 ```{r}
 summary(association.rules)
@@ -224,15 +228,15 @@ summary(association.rules)
 
 `summary(association.rules)` shows the following:
 
--   **Parameter Specification:** min_sup=0.001 and min_confidence=0.8 values with 10 items as max of items in a rule.
+-   **Parameter Specification:** min_sup=0.001 and min_confidence=0.8 values with 2 items as max of items in a rule and 2 items as min of items in a rule.
 
--   **Total number of rules:** The set of *119* rules
+-   **Total number of rules:** The set of *9* rules
 
 -   **Summary of Quality measures:** Min and max values for Support, Confidence and, Lift.
 
 -   **Information used for creating rules:** The data, support, and confidence we provided to the algorithm.
 
-Since there are 119 rules, let's print only top 10:
+Since there are 9 rules, we don't have to filter only the top 10:
 
 ```{r}
 inspect(association.rules)
@@ -241,37 +245,186 @@ inspect(association.rules)
 
 Using the above output, you can make analysis such as:
 
--   100% of the classes which have design smell 'Broken Modularization' with test smells: ar1, gf1 then they have the same test smells and the design smell 'Unutilized Abstraction'.
+-   Classes which have design smell 'Cyclic Hierarchy' will have the test smell 'et1' with support of 0.01 and confidence of 0.81.
 
--   100% of the classes which have design smell 'Cyclic Hierarchy', will also have design smell 'Cyclically-dependent Modularization'.
+-   Classes which have design smell 'Multifaceted Abstraction' will have the test smell 'ar1' with support of 0.0149 and confidence of 1.
 
-#### Finding Rules related to given items
+-   Classes which have design smell 'Feature Envy' will have the test smell 'et1' with support of 0.06 and confidence of 0.89.
 
-If you want to find out what causes influence on the smell of item X we can use `appearance` option in the `apriori` command. `appearance` gives us options to set **LHS (IF part)** and **RHS (THEN part)** of the rule.
+-   Classes which have design smell 'Feature Envy' will have the test smell 'ar1' with support of 0.059 and confidence of 0.87.
 
-For example, to find what smells can exists before the design smell 'Unutilized Abstraction' with test smells ar1 and gf1 appears in one class, we run the following line of code:
+    #### Visualize Association Rules
+
+    Since there will be hundreds or thousands of rules generated based on data, you need a couple of ways to visualize these association rules.
+
+    #### Scatter-Plot
+
+    A straight-forward visualization of association rules is to use a scatter plot using `plot()` of the `arulesViz` package. It uses *Support* and *Confidence* on the axes. In addition, third measure *Lift* is used by default to color (grey levels) of the points.
+
+    ```{r}
+    # Filter rules with confidence greater than 0.4 or 40%
+    subRules<-association.rules[quality(association.rules)$confidence>0.4]
+    #Plot SubRules
+    plot(subRules)
+    ```
+
+    The above plot shows that rules with high lift have low support. You can use the following options for the plot:
+
+    ```{r}
+    plot(subRules,method="two-key plot")
+    ```
+
+    The **two-key plot** uses support and confidence on x and y-axis respectively. It uses *order* for coloring. The order is the number of items in the rule.
+
+    **Graph-Based Visualizations**
+
+    Graph-based techniques visualize association rules using vertices and edges where vertices are labeled with item names, and item sets or rules are represented as a second set of vertices. Items are connected with item-sets/rules using directed arrows. Arrows pointing from items to rule vertices indicate LHS items and an arrow from a rule to an item indicates the RHS. The size and color of vertices often represent interest measures.
+
+    Graph plots are a great way to visualize rules but tend to become congested as the number of rules increases. So it is better to visualize less number of rules with graph-based visualizations.
+
+    Let's select 9 rules from `subRules` having the highest confidence.
+
+    ```{r}
+    top10subRules <- head(subRules, n = 9, by = "confidence")
+    ```
+
+    Now, plot an interactive graph:
+
+    **Note:** You can make all your plots interactive using `engine=htmlwidget` parameter in `plot`
+
+    ```{r}
+    plot(top10subRules, method = "graph",  engine = "htmlwidget")
+    ```
+
+    #### Individual Rule Representation
+
+    This representation is also called as **Parallel Coordinates Plot**.
+
+    As mentioned above, the RHS is the Consequent; the positions are in the LHS where 2 is the most recent addition to our basket and 1 is the item we previously had.
+
+    ```{r}
+    # Filter top 9 rules with highest lift
+    subRules2<-head(subRules, n=9, by="lift")
+    plot(subRules2, method="paracoord")
+    ```
+
+    It shows that when the class has 'Multifaceted Abstraction', with high probability It will also have 'ar1'.
+
+    ### Design-Design smells
+
+Next step is to run APRIORI algorithm with design-design smell:
 
 ```{r}
-unutilizedAbstraction.association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8),appearance = list(default="lhs",rhs=("Unutilized Abstraction ar1 gf1")))
-
-
+# Min Support as 0.001, confidence as 0.8.
+association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8, minlen=2, maxlen=4), appearance = list(both=design_smells))
+                      
 ```
+
+The `apriori` will take `tr` as the transaction object on which mining is to be applied. `parameter` will allow you to set min_sup and min_confidence. The default values for `parameter` are minimum support of 0.1, the minimum confidence of 0.8, maximum of 4 items (maxlen), becouse with maxlen=2 there were 0 rules, minimum of 2 items (minlen). With `appearance` we specified the **both** parameter with the array of design_smell.
 
 ```{r}
-inspect(head(unutilizedAbstraction.association.rules))
+summary(association.rules)
 ```
 
-Similarly, to find the answer to the question *Class which has 'Multifaceted Abstraction' as Design Smell, and ar1, gf1 as test smells also has....* we will keep "Multifaceted Abstraction ar1 gf1"on *lhs*:
+We obtained 7 rules that are showed here:
 
 ```{r}
-multifacetedAbstraction.association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8),appearance = list(lhs="Multifaceted Abstraction ar1 gf1",default="rhs"))
+inspect(association.rules)
+#inspect(association.rules[1:10])
 ```
+
+Using the above output, you can make analysis such as:
+
+-   Classes which have design smells 'Broken Modularization' and 'Unnecessary Abstraction' will have the design smell 'Unutilized Abstraction' with support of 0.0039 and confidence of 1.
+
+-   Classes which have design smell 'Feature Envy' and 'Unnecessary Abstraction' will have the design smell 'Unutilized Abstraction' with support of 0.0023 and confidence of 1.
+
+    #### Visualize Association Rules
+
+    Since there will be hundreds or thousands of rules generated based on data, you need a couple of ways to visualize these association rules.
+
+    #### Scatter-Plot
+
+    A straight-forward visualization of association rules is to use a scatter plot using `plot()` of the `arulesViz` package. It uses *Support* and *Confidence* on the axes. In addition, third measure *Lift* is used by default to color (grey levels) of the points.
+
+    ```{r}
+    # Filter rules with confidence greater than 0.4 or 40%
+    subRules<-association.rules[quality(association.rules)$confidence>0.4]
+    #Plot SubRules
+    plot(subRules)
+    ```
+
+    The above plot shows that rules with high lift have low support. You can use the following options for the plot:
+
+    ```{r}
+    plot(subRules,method="two-key plot")
+    ```
+
+    The **two-key plot** uses support and confidence on x and y-axis respectively. It uses *order* for coloring. The order is the number of items in the rule.
+
+    **Graph-Based Visualizations**
+
+    Graph-based techniques visualize association rules using vertices and edges where vertices are labeled with item names, and item sets or rules are represented as a second set of vertices. Items are connected with item-sets/rules using directed arrows. Arrows pointing from items to rule vertices indicate LHS items and an arrow from a rule to an item indicates the RHS. The size and color of vertices often represent interest measures.
+
+    Graph plots are a great way to visualize rules but tend to become congested as the number of rules increases. So it is better to visualize less number of rules with graph-based visualizations.
+
+    Let's select 7 rules from `subRules` having the highest confidence.
+
+    ```{r}
+    top10subRules <- head(subRules, n = 7, by = "confidence")
+    ```
+
+    Now, plot an interactive graph:
+
+    **Note:** You can make all your plots interactive using `engine=htmlwidget` parameter in `plot`
+
+    ```{r}
+    plot(top10subRules, method = "graph",  engine = "htmlwidget")
+    ```
+
+    #### Individual Rule Representation
+
+    This representation is also called as **Parallel Coordinates Plot**.
+
+    As mentioned above, the RHS is the Consequent; the positions are in the LHS where 2 is the most recent addition to our basket and 1 is the item we previously had.
+
+    ```{r}
+    # Filter top 7 rules with highest lift
+    subRules2<-head(subRules, n=7, by="lift")
+    plot(subRules2, method="paracoord")
+    ```
+
+    It shows that when the class has 'Broken Modularization', 'Deficient Encapsulation', 'Unutilized Abstraction' with high probability It will also have 'Unnecessary Abstraction'.
+
+    ### Test-Test smells
+
+Next step is to run APRIORI algorithm with test-test smell:
 
 ```{r}
-inspect(head(multifacetedAbstraction.association.rules))
+# Min Support as 0.001, confidence as 0.8.
+association.rules <- apriori(tr, parameter = list(supp=0.001, conf=0.8, minlen=2, maxlen=2), appearance = list(both=test_smells))
 ```
 
-### Visualizing Association Rules
+The `apriori` will take `tr` as the transaction object on which mining is to be applied. `parameter` will allow you to set min_sup and min_confidence. The default values for `parameter` are minimum support of 0.1, the minimum confidence of 0.8, maximum of 2 items (maxlen), minimum of 2 items (minlen). With `appearance` we specified the **both** parameter with the array of test_smell.
+
+```{r}
+summary(association.rules)
+```
+
+We filtered the first 10 rules that are showed here:
+
+```{r}
+#inspect(association.rules)
+inspect(association.rules[1:10])
+```
+
+Using the above output, you can make analysis such as:
+
+-   Classes which have test smell 'ro1' will have the test smell 'mg1' with support of 0.0126 and confidence of 0.8.
+
+-   Classes which have test smell 'ro1' will have the test smell 'et1' with support of 0.0141 and confidence of 0.9.
+
+#### Visualize Association Rules
 
 Since there will be hundreds or thousands of rules generated based on data, you need a couple of ways to visualize these association rules.
 
@@ -326,4 +479,4 @@ subRules2<-head(subRules, n=20, by="lift")
 plot(subRules2, method="paracoord")
 ```
 
-It shows that when the class has 'Multifaceted Abstraction ar1 et1 it1 gf1', with high probability It will also have 'Insuffficient Modularization ar1 et1 se1 mg1'.
+It shows that when the class has 'ro1', with high probability It will also have 'mg1'.
