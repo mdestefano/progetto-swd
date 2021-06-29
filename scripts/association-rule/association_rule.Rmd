@@ -2,7 +2,7 @@
 title: "Association Rule Mining"
 output:
   html_document:
-    df_print: paged
+    keep_md: true
 ---
 
 Association Rule Mining is used when you want to find an association between different objects in a set, find frequent patterns in any information repository. It generates a set of rules called **Association Rules**. In simple words, it gives you output as rules in form **if this then that**.
