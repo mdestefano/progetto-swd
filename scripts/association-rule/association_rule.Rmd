@@ -179,9 +179,9 @@ summary(tr)
 
 The `summary(tr)` is a very useful command that gives us information about our transaction object. Let's take a look at what the above output says:
 
--   There are **1269 transactions (rows) and 223 items (columns)**. Note that *223* are the smells involved in the dataset and *1269* transactions are collections of these items.
+-   There are **1269 transactions (rows) and 25 items (columns)**. Note that *25* are the smells involved in the dataset and *1269* transactions are collections of these items.
 
--   **Density** tells the percentage of non-zero cells in a sparse matrix. You can say it as the total number of smells that are detected divided by a possible number of smells in that matrix. You can calculate how many items were purchased by using density: *1269x223x0.006979119=1974.96.*
+-   **Density** tells the percentage of non-zero cells in a sparse matrix. You can say it as the total number of smells that are detected divided by a possible number of smells in that matrix. You can calculate how many items were purchased by using density: *1269x25x0.1374626=*4361.0
 
 You can generate an `itemFrequencyPlot` to create an item Frequency Bar Plot to view the distribution of items.
 
