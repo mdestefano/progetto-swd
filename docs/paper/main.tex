@@ -98,6 +98,45 @@
   % normal IEEE
   \usepackage{cite}
 \fi
+
+
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{csvsimple}
+\usepackage{booktabs}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{adjustbox}
+\usepackage{csvsimple,graphicx}
+\def\myrot#1{\rotatebox{90}{\csname csvcol#1\endcsname\ }}
+\usepackage{listings}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\scriptsize\ttfamily,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+}
+
+\lstset{style=mystyle}
+
+
 % cite.sty was written by Donald Arseneau
 % V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
 % \cite{} output to follow that of the IEEE. Loading the cite package will
@@ -367,9 +406,11 @@
 \hyphenation{op-tical net-works semi-conduc-tor}
 
 \begin{document}
-\newcommand{\asmells}{architectural smells}
-\newcommand{\hublike}{Cyclic Dependency}
-\newcommand{\cyclic}{Hub-Like Dependency}
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\newcommand{\asmells}{architectural smells } %add blank space
+\newcommand{\hublike}{Cyclic Dependency } %add blank space
+\newcommand{\cyclic}{Hub-Like Dependency } %add blank space
 %
 % paper title
 % Titles are generally capitalized except for words such as a, an, and, as,
@@ -403,7 +444,6 @@
 
 \author{Manuel~De Stefano,~\IEEEmembership{SeSa Lab,~University of Salerno,}
         Armando~Conte,~\IEEEmembership{University Of Salerno,}
-        Mario~Inglese,~\IEEEmembership{University Of Salerno,}
         Grazia~Varone,~\IEEEmembership{University Of Salerno,}
         and~Fabio~Palomba,~\IEEEmembership{SeSa Lab,~University of Salerno}% <-this % stops a space
 %\IEEEcompsocitemizethanks{\IEEEcompsocthanksitem M. Shell was with the Department
@@ -437,7 +477,7 @@
 
 
 % The paper headers
-\markboth{Journal of \LaTeX\ Class Files,~Vol.~14, No.~8, August~2015}%
+\markboth{}%
 {Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Computer Society Journals}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
@@ -477,12 +517,14 @@
 % in the abstract or keywords.
 \IEEEtitleabstractindextext{%
 \begin{abstract}
-The abstract goes here.
+The goal of this study is to perform an historical analysis of the test-suites related to components affected by architectural smells in open-source systems, with the purpose of assessing whether the quality of these test suites decreases when architectural smells are introduced. 
+Nowadays project can contain several type of smells, in particular we focused on architectural and test smells, that can negatively impact on different software qualities. Several Architectural and test smells have been considered for our purpose, in particular for the Architectural we considered 18 type of smells: 6 at package level and the other 12 at class level. For test smells we considered 7 type of smells.
+We have analyzed a list of projects selected on GitHub by specific criteria, in order to detect all the chosen Architectural and test smells. We collected all these data about smells with the goal to detect if an increase of architectural smells leads to an increase of test smells and in particular the presence of which architectural smell lead to which test smell. To compute this, we used Association Rule method, showing that there are test smells like \emph{Assertion Roulette} and \emph{Eager Test} that more than other test smells can be dependent by the presence of an architectural smell.
 \end{abstract}
 
 % Note that keywords are not normally used for peerreview papers.
 \begin{IEEEkeywords}
-Computer Society, IEEE, IEEEtran, journal, \LaTeX, paper, template.
+Architectural Smells, Code quality, Code smells, Correlation, Inter-smell relationships.
 \end{IEEEkeywords}}
 
 
@@ -515,24 +557,24 @@ Computer Society, IEEE, IEEEtran, journal, \LaTeX, paper, template.
 
 
 \input{intro.tex}
-\input{related.tex}
+%\input{related.tex}
 \input{design.tex}
 \input{results.tex}
-\input{discussion.tex}
+%\input{discussion.tex}
 \input{conclusion.tex}
 
-
+\newpage
 % use section* for acknowledgment
-\ifCLASSOPTIONcompsoc
+%\ifCLASSOPTIONcompsoc
   % The Computer Society usually uses the plural form
-  \section*{Acknowledgments}
-\else
+  %\section*{Acknowledgments}
+%\else
   % regular IEEE prefers the singular form
-  \section*{Acknowledgment}
-\fi
+  %\section*{Acknowledgment}
+%\fi
 
 
-The authors would like to thank...
+%The authors would like to thank %\cite{IEEEhowto:kopka}...\cite{IEEEhowto:prova}
 
 
 % Can use something like this to put references on a page
@@ -567,11 +609,37 @@ The authors would like to thank...
 % (used to reserve space for the reference number labels box)
 \begin{thebibliography}{1}
 
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+\bibitem{IEEEhowto:systematicmapping}
+H.~Mumtaz and P.~Singh and K.~Blincoe, \emph{A systematic mapping study on architectural smells detection}, \relax University of Auckland, New Zealand: The Journal of Systems \& Software, 2021.
+ 
+\bibitem{IEEEhowto:designite}
+T.~Sharma and P.~Mishra and R.~Tiwari, \emph{Designite - A Software Design Quality Assessment Tool}, \relax 1st International Workshop on Bringing Architectural Design Thinking Into Developers' Daily Activities, 2016.
+
+\bibitem{IEEEhowto:vitrum}
+F.~Pecorelli and G.~Di Lillo and F.~Palomba and A.~De Lucia, \emph{VITRuM: A Plug-In for the Visualization of Test-Related Metrics}, \relax University of Salerno, Italy: International Conference on Advanced Visual Interfaces, 2020.
+
+\bibitem{IEEEhowto:repodriller}
+\emph{RepoDriller}, \relax \url{https://github.com/mauricioaniche/repodriller},  accessed: 2021-06-30.
+
+\bibitem{IEEEhowto:plotsR}
+\emph{ProgettoSwD}, \relax \url{https://github.com/mdestefano/progetto-swd/tree/main/scripts/datasets/graficiR},  accessed: 2021-06-30.
+
+\bibitem{IEEEhowto:co-occurrence}
+\emph{ProgettoSwD}, \relax \url{https://github.com/mdestefano/progetto-swd/tree/main/scripts/co-occurrence},  accessed: 2021-06-30.
+
+\bibitem{IEEEhowto:rNotebook}
+\emph{ProgettoSwD}, \relax \url{https://https://github.com/mdestefano/progetto-swd/tree/main/scripts/association-rule},  accessed: 2021-06-30.
+
+\bibitem{IEEEhowto:associationRules}
+\emph{A Gentle Introduction on Market Basket Analysis Association Rules}, \relax\url{https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce},  accessed: 2021-07-01.
+
+\bibitem{IEEEhowto:apollo}
+\emph{Apollo - A reliable configuration management system}, \relax\url{https://github.com/ctripcorp/apollo},  accessed: 2021-07-02.
+
 
 \end{thebibliography}
+
+
 
 % biography section
 % 

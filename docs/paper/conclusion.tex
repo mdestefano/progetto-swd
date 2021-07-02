@@ -1,2 +1,8 @@
 % !TeX spellcheck = en_US
 \section{Conclusion}\label{sec:conclusion}
+
+\IEEEPARstart{B}{oth} Architectural and Test smells, as smells are symptoms of poor design or implementation choices. What we wanted to present in this project was a relationship between the Architectural smells and Test smells, in particular, in the first moment we computed the co-occurrences among them for all the smells of the projects that we selected and mined on GitHub, by providing evidence on what are the smells that co-occur more frequently not only among Architectural-Test but also between Architectural-Architectural and Test-Test smells.
+
+After that our focus was on the Association Rule because our principal purpose was to show that the introduction of an Architectural smell increase the difficulty to write the relative test case, because of the complexity of the structure of the code to test, and therefore the developer while testing these smelly components will introduce some Test smells. At this point, we computed the Association Rule, through the Apriori function, on all the smells of the projects that we collected, to discover what Architectural smell lead to what Test smell and what is its support and its confidence. What we concluded was that various Architectural smell lead more frequency to the Test smell \textit{"ar"} and \textit{"et"}. We computed also the Association rule between the Architectural-Architectural and Test-Test smells.
+
+These findings represent the main results of our project, but also some other researches could be done to discover eventually other rules of Association Rule by considering new Architectural smells and Test smells in addition to those already considered.

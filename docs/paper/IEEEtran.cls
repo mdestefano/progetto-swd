@@ -4522,7 +4522,7 @@ between column types.}%
 % 
 % \IEEEmembership is used to produce the sublargesize italic font used to indicate author 
 % IEEE membership. compsoc uses a large size sans slant font
-\def\IEEEmembership#1{{\@IEEEnotcompsoconly{\sublargesize}\normalfont\@IEEEcompsoconly{\sffamily}\textit{#1}}}
+\def\IEEEmembership#1{{\@IEEEnotcompsoconly{\sublargesize}\normalfont\@IEEEcompsoconly{\sffamily}\textit{#1}}} 
  
 
 % \IEEEauthorrefmark{} produces a footnote type symbol to indicate author affiliation.

@@ -1,4 +1,22 @@
 % !TeX spellcheck = en_US
 \IEEEraisesectionheading{\section{Introduction}\label{sec:introduction}}
 
-\IEEEPARstart{T}{his}
+\IEEEPARstart{A}{rchitectural} smells are one of the greatest sources of technical debt. An important task is to identify them and manage them, to prevent and avoid technical debt. The Architectural Smells (ASs) could be seen as some code smells but at the architectural level. These represent the violation of design principles or the decisions that impact the quality of internal software, with an increase of evolution and maintenance costs, but in particular, they impact the definition of test cases, because with some Architectural Smell in the code could increase the difficulty to test the code and some Test Smells can be introduced.\par\hfill
+
+Hence, this project aims to find a relationship between the Architectural Smells and the Test Smells and in particular to observe if an increase of ASs will correspond to an increase of Test Smells.\par\hfill
+
+To investigate our goal, we identified before a list of projects on GitHub to mine and observe the Architectural Smells and Test Smells vary over time, between different versions. Then a set of tools and in particular we selected two tools, one that allows the detection of Architectural Smells and one that allows the detection of Test Smells.
+According to our aim, we collected the following data: 
+(i) the list of projects to mine on GitHub,
+(ii) the list of the Architectural Smells detected by the tool for every version of each project, 
+(iii) the list of the Test Smells detected by the tool for every version of each project.\par\hfill
+
+Hence, in this project, we aim to answer the following questions:
+\begin{itemize}
+  \item Q1: With an increase of Architectural Smells will we have an increase of Test Smells too? 
+  \item Q2: If we have one Architectural Smell what Test Smell will it imply?
+\end{itemize}\par\hfill
+
+The answers obtained for the previous questions can be useful for several reasons, in particular to software developers/maintainers to be able to know if they have a particular Architectural Smell what Test Smell could imply.\par\hfill
+
+The document is organized through the following sections: in Section II we introduce the empirical study design that has been done by describing (i) how the projects have been selected, (ii) how the Architectural Smells have been identified (iii) how the Test Smells have been identified. (iii) how the relationship between Architectural Smells and Test Smells has been found. Section III contains the results obtained. Finally, in Section IV we conclude our work and describe some future developments that can be done.
