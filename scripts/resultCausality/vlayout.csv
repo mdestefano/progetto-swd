@@ -1,9 +1,0 @@
-"arch","test","p_value"
-"God Component","ar1",0.547515982641216
-"God Component","gf1",0.547515982641216
-"Cyclic Dependency","ar1",0.242461526227318
-"Cyclic Dependency","gf1",0.242461526227318
-"Unstable Dependency","ar1",0.547515982641187
-"Unstable Dependency","gf1",0.547515982641187
-"Feature Concentration","ar1",0.0255570227494072
-"Feature Concentration","gf1",0.0255570227494072
