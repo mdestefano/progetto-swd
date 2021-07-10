@@ -9,7 +9,7 @@ For every project that we mined and gathered data we compared this data and crea
   \item The first represents the number of Architectural Smells for the entire project.
   \item The second represents the number of Test Smells for the entire project.
 \end{itemize}
-The goal of this phase was to observe visually that with an increase of the number of Architectural Smells for the project there was an increase of Test Smells too.
+The goal of this phase was to observe visually, through a graphical representation, that with an increase of the number of Architectural Smells for the project there was an increase of Test Smells too.
 
 In the images below you can see this parallel increment between the two plots of the same project.
 
@@ -116,7 +116,7 @@ The Table \ref{co-occurrencesAS} shows clearly that there is the 96\% of probabi
 After that, our goal was to find an association between different objects in a set, find frequent patterns in any information repository. In particular, our purpose was to generate a set of rules called Association Rules, in form \textbf{if this then that}.
 
 Also in this case we considered the three combination of (i) \textit{Architectural Smells - Architectural Smells}, (ii) \textit{Test Smells - Test Smells}, (iii) \textit{Architectural Smells - Test Smells}, where for Architectural Smells we refer to class level.
-What we have done here was to create a unique dataset witch contains all the Architectural Smells for all the projects and a unique dataset that contains all the Test Smells for all the projects. After that, we did the inner join between them on the attribute className (in fact for this reason we considered Architectural Smells at class level). The result of this operation was a big dataset that contains for each class several rows with all the smells for all the versions of all the projects. For simplicity in reading, we had added an additional column that contained the smells of that row separated by commas.
+What we have done here was to create a unique dataset which contains all the Architectural Smells for all the projects and a unique dataset that contains all the Test Smells for all the projects. After that, we did the inner join between them on the attribute className (in fact for this reason we considered Architectural Smells at class level). The result of this operation was a big dataset that contains for each class several rows with all the smells for all the versions of all the projects. For simplicity in reading, we had added an additional column that contained the smells of that row separated by commas.
 
 Before applying Association Rule mining, we needed to convert data frame into transaction data so that all smells that appeared together in one class were put in one row.
 The smells were grouped using NameClass. We did this in R with:
@@ -190,7 +190,7 @@ Using the above output, you can make analyses such as:
   \item Classes which have design smell \textit{‘Feature Envy’} will have the test smell \textit{‘ar1’} with support of 0.059 and confidence of 0.87.
 \end{itemize}
 
-We did the same thing with both LHS (left part) and RHS (right part) imposed with Architectural Smells, but here we setted the parameter maxlen of the apriori function equals to 4 because with maxlen=2 or maxlen=3 there were less then 2 rules. From this computation we obtained the following 7 rules: \par
+We did the same thing with both LHS (left part) and RHS (right part) imposed with Architectural Smells, but here we setted the parameter maxlen of the apriori function equals to 4 because with maxlen=2 or maxlen=3 there were less than 2 rules. From this computation we obtained the following 7 rules: \par
 \begin{figure}[htp]
     \centering
     \includegraphics[width=8.5cm]{img/ruleArch.PNG}
